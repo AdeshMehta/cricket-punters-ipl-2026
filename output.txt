@@ -1,11 +1,11 @@
 Match 9: GT vs RR: 2026-04-04
 
 
-Vaibhav Sooryavanshi : 5 : ['Mamba24(VC)', 'Pasha', 'Addy Punters', 'Black Pearl(VC)', 'Finishers(C)']
+Vaibhav Sooryavanshi : 5 : ['Mamba24(VC)', 'Addy Punters', 'Pasha', 'Black Pearl(VC)', 'Finishers(C)']
+
+Yashasvi Jaiswal : 4 : ['Addy Punters(C)', 'Pasha(C)', 'Panda10st(VC)', 'WulfXI']
 
 Jos Buttler : 4 : ['Pasha(VC)', 'Panda10st(C)', 'WulfXI(C)', 'deadman2345(VC)']
-
-Yashasvi Jaiswal : 4 : ['Pasha(C)', 'Addy Punters(C)', 'Panda10st(VC)', 'WulfXI']
 
 Dhruv Jurel : 3 : ['Mamba24', 'Addy Punters', 'ThanosKanos(VC)']
 
@@ -13,9 +13,9 @@ Sai Sudharsan : 3 : ['Mamba24(C)', 'Addy Punters', 'deadman2345']
 
 Prasidh Krishna : 3 : ['Mamba24', 'Addy Punters', 'Panda10st']
 
-Riyan Parag : 2 : ['Pasha', 'Panda10st']
-
 Ravindra Jadeja : 2 : ['Addy Punters(VC)', 'deadman2345(C)']
+
+Riyan Parag : 2 : ['Pasha', 'Panda10st']
 
 Glenn Phillips : 2 : ['Black Pearl', 'ThanosKanos']
 
@@ -35,4 +35,4 @@ Mohammed Siraj : 1 : ['Black Pearl(C)']
 
 --- Matchday Booster Usage Summary ---
 Addy Punters used booster: Indian Warriors
-Last Updated on 2026-04-04 22:51:17 IST
+Last Updated on 2026-04-04 23:03:00 IST
