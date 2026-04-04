@@ -1,0 +1,37 @@
+name: Run after match start IPL 2026
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run script
+        env:
+          CRICKET_API_KEY: ${{ secrets.FANTASY_COOKIE }}
+        run: |
+          python cricket_punters_team.py > output.txt 2>&1
+      
+      - name: Commit output
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add output.txt
+          git commit -m "Update output" || echo "No changes to commit"
+          git push

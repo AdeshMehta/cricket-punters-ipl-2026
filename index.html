@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>IPL Fantasy Output</title>
+  <style>
+    body {
+      font-family: Arial;
+      padding: 20px;
+    }
+    pre {
+      background: #f4f4f4;
+      padding: 15px;
+      border-radius: 8px;
+    }
+    button {
+      margin-top: 15px;
+      padding: 10px 15px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Latest Team Output</h2>
+
+<pre id="output">Loading...</pre>
+
+<button id="shareBtn" onclick="shareWhatsApp()" disabled>
+  Share on WhatsApp
+</button>
+
+<script>
+async function loadData() {
+  try {
+    const res = await fetch('./output.txt?cache=' + new Date().getTime(), {
+      cache: "no-store"
+    });
+    const text = await res.text();
+    document.getElementById('output').innerText = text;
+    document.getElementById('shareBtn').disabled = false;
+  } catch (err) {
+    document.getElementById('output').innerText = "Failed to load data";
+  }
+}
+
+function shareWhatsApp() {
+  const text = document.getElementById('output').innerText;
+  const url = "https://wa.me/?text=" + encodeURIComponent(text);
+  window.open(url, '_blank');
+}
+
+loadData();
+</script>
+
+</body>
+</html>
