@@ -1,34 +1,34 @@
-Match 10: SRH vs LSG: 2026-04-05
+Match 11: RCB vs CSK: 2026-04-05
 
 
-Jaydev Unadkat : 6 : ['Pasha', 'Panda10st', 'WulfXI(VC)', 'deadman2345', 'Finishers', 'ThanosKanos']
+Virat Kohli : 6 : ['Addy Punters(VC)', 'Pasha(C)', 'Panda10st(C)', 'WulfXI(C)', 'Finishers(C)', 'Black Pearl(VC)']
 
-Aiden Markram : 5 : ['Mamba24(VC)', 'Pasha', 'Panda10st', 'deadman2345(VC)', 'ThanosKanos(VC)']
+Sanju Samson : 5 : ['Mamba24(VC)', 'Pasha(VC)', 'deadman2345', 'Finishers(VC)', 'ThanosKanos(C)']
 
-Ishan Kishan : 5 : ['Addy Punters(C)', 'Pasha(C)', 'Panda10st(VC)', 'deadman2345(C)', 'Finishers(VC)']
+Anshul Kamboj : 4 : ['Mamba24', 'Panda10st', 'WulfXI(VC)', 'Finishers']
 
-Travis Head : 4 : ['Mamba24', 'WulfXI', 'deadman2345', 'Black Pearl']
+Ruturaj Gaikwad : 4 : ['Pasha', 'Panda10st(VC)', 'deadman2345(VC)', 'ThanosKanos']
 
-Heinrich Klaasen : 3 : ['Panda10st(C)', 'deadman2345', 'ThanosKanos(C)']
+Rajat Patidar : 3 : ['Addy Punters(C)', 'deadman2345(C)', 'ThanosKanos']
 
-Abhishek Sharma : 2 : ['Mamba24(C)', 'Pasha(VC)']
+Phil Salt : 3 : ['Mamba24(C)', 'Pasha', 'deadman2345']
 
-Mohammad Shami : 2 : ['Mamba24', 'Black Pearl']
+Ayush Mhatre : 3 : ['deadman2345', 'WulfXI', 'Black Pearl']
 
-Rishabh Pant : 1 : ['Addy Punters']
+Sarfaraz Khan : 2 : ['Addy Punters', 'Finishers']
 
-Liam Livingstone : 1 : ['Addy Punters(VC)']
+Shivam Dube : 2 : ['Addy Punters', 'Black Pearl(C)']
 
-Nicholas Pooran : 1 : ['WulfXI(C)']
+Matt Henry : 2 : ['Pasha', 'ThanosKanos']
 
-Avesh Khan : 1 : ['WulfXI']
+Jacob Duffy : 2 : ['Panda10st', 'Black Pearl']
 
-Prince Yadav : 1 : ['deadman2345']
+Romario Shepherd : 2 : ['WulfXI', 'ThanosKanos(VC)']
 
-Nitish Kumar Reddy : 1 : ['Finishers(C)']
+Devdutt Padikkal : 1 : ['Mamba24']
 
-David Payne : 1 : ['Finishers']
+Jamie Overton : 1 : ['Finishers']
 
 --- Matchday Booster Usage Summary ---
 No boosters reported used for this matchday
-Last Updated on 2026-04-05 15:31:16 IST
+Last Updated on 2026-04-05 19:31:18 IST
