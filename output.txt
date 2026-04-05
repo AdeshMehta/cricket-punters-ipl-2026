@@ -1,38 +1,34 @@
-Match 9: GT vs RR: 2026-04-04
+Match 10: SRH vs LSG: 2026-04-05
 
 
-Vaibhav Sooryavanshi : 5 : ['Mamba24(VC)', 'Addy Punters', 'Pasha', 'Black Pearl(VC)', 'Finishers(C)']
+Jaydev Unadkat : 6 : ['Pasha', 'Panda10st', 'WulfXI(VC)', 'deadman2345', 'Finishers', 'ThanosKanos']
 
-Yashasvi Jaiswal : 4 : ['Addy Punters(C)', 'Pasha(C)', 'Panda10st(VC)', 'WulfXI']
+Aiden Markram : 5 : ['Mamba24(VC)', 'Pasha', 'Panda10st', 'deadman2345(VC)', 'ThanosKanos(VC)']
 
-Jos Buttler : 4 : ['Pasha(VC)', 'Panda10st(C)', 'WulfXI(C)', 'deadman2345(VC)']
+Ishan Kishan : 5 : ['Addy Punters(C)', 'Pasha(C)', 'Panda10st(VC)', 'deadman2345(C)', 'Finishers(VC)']
 
-Dhruv Jurel : 3 : ['Mamba24', 'Addy Punters', 'ThanosKanos(VC)']
+Travis Head : 4 : ['Mamba24', 'WulfXI', 'deadman2345', 'Black Pearl']
 
-Sai Sudharsan : 3 : ['Mamba24(C)', 'Addy Punters', 'deadman2345']
+Heinrich Klaasen : 3 : ['Panda10st(C)', 'deadman2345', 'ThanosKanos(C)']
 
-Prasidh Krishna : 3 : ['Mamba24', 'Addy Punters', 'Panda10st']
+Abhishek Sharma : 2 : ['Mamba24(C)', 'Pasha(VC)']
 
-Ravindra Jadeja : 2 : ['Addy Punters(VC)', 'deadman2345(C)']
+Mohammad Shami : 2 : ['Mamba24', 'Black Pearl']
 
-Riyan Parag : 2 : ['Pasha', 'Panda10st']
+Rishabh Pant : 1 : ['Addy Punters']
 
-Glenn Phillips : 2 : ['Black Pearl', 'ThanosKanos']
+Liam Livingstone : 1 : ['Addy Punters(VC)']
 
-Sandeep Sharma : 2 : ['Black Pearl', 'ThanosKanos']
+Nicholas Pooran : 1 : ['WulfXI(C)']
 
-Shubman Gill : 2 : ['Finishers(VC)', 'ThanosKanos(C)']
+Avesh Khan : 1 : ['WulfXI']
 
-Rashid Khan : 1 : ['Addy Punters']
+Prince Yadav : 1 : ['deadman2345']
 
-Washington Sundar : 1 : ['WulfXI']
+Nitish Kumar Reddy : 1 : ['Finishers(C)']
 
-Jofra Archer : 1 : ['WulfXI(VC)']
-
-Ashok Sharma : 1 : ['deadman2345']
-
-Mohammed Siraj : 1 : ['Black Pearl(C)']
+David Payne : 1 : ['Finishers']
 
 --- Matchday Booster Usage Summary ---
-Addy Punters used booster: Indian Warriors
-Last Updated on 2026-04-04 23:03:00 IST
+No boosters reported used for this matchday
+Last Updated on 2026-04-05 15:31:16 IST
