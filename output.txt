@@ -1,34 +1,5 @@
-Match 11: RCB vs CSK: 2026-04-05
+Match 12: KKR vs PBKS: 2026-04-06
 
 
-Virat Kohli : 6 : ['Addy Punters(VC)', 'Pasha(C)', 'Panda10st(C)', 'WulfXI(C)', 'Finishers(C)', 'Black Pearl(VC)']
-
-Sanju Samson : 5 : ['Mamba24(VC)', 'Pasha(VC)', 'deadman2345', 'Finishers(VC)', 'ThanosKanos(C)']
-
-Anshul Kamboj : 4 : ['Mamba24', 'Panda10st', 'WulfXI(VC)', 'Finishers']
-
-Ruturaj Gaikwad : 4 : ['Pasha', 'Panda10st(VC)', 'deadman2345(VC)', 'ThanosKanos']
-
-Rajat Patidar : 3 : ['Addy Punters(C)', 'deadman2345(C)', 'ThanosKanos']
-
-Phil Salt : 3 : ['Mamba24(C)', 'Pasha', 'deadman2345']
-
-Ayush Mhatre : 3 : ['deadman2345', 'WulfXI', 'Black Pearl']
-
-Sarfaraz Khan : 2 : ['Addy Punters', 'Finishers']
-
-Shivam Dube : 2 : ['Addy Punters', 'Black Pearl(C)']
-
-Matt Henry : 2 : ['Pasha', 'ThanosKanos']
-
-Jacob Duffy : 2 : ['Panda10st', 'Black Pearl']
-
-Romario Shepherd : 2 : ['WulfXI', 'ThanosKanos(VC)']
-
-Devdutt Padikkal : 1 : ['Mamba24']
-
-Jamie Overton : 1 : ['Finishers']
-
---- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-04-05 19:31:18 IST
+Match not started yet!
+Last Updated on 2026-04-06 15:31:15 IST
