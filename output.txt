@@ -1,28 +1,5 @@
-Match 12: KKR vs PBKS: 2026-04-06
+Match 13: RR vs MI: 2026-04-07
 
 
-Finn Allen : 8 : ['Addy Punters(VC)', 'Mamba24(VC)', 'Pasha(C)', 'Panda10st', 'deadman2345(VC)', 'Finishers(VC)', 'WulfXI', 'Black Pearl(VC)']
-
-Cooper Connolly : 8 : ['Addy Punters', 'Mamba24(C)', 'Panda10st', 'deadman2345(C)', 'Finishers', 'WulfXI(C)', 'Black Pearl(C)', 'ThanosKanos']
-
-Shreyas Iyer : 5 : ['Pasha(VC)', 'Panda10st(C)', 'Finishers', 'Black Pearl', 'ThanosKanos(C)']
-
-Angkrish Raghuvanshi : 4 : ['Panda10st(VC)', 'deadman2345', 'Finishers(C)', 'ThanosKanos(VC)']
-
-Marco Jansen : 3 : ['Mamba24', 'Finishers', 'Black Pearl']
-
-Kartik Tyagi : 3 : ['Mamba24', 'Panda10st', 'Black Pearl']
-
-Prabhsimran Singh : 2 : ['Addy Punters(C)', 'deadman2345']
-
-Vaibhav Arora : 1 : ['Pasha']
-
-Anukul Roy : 1 : ['WulfXI']
-
-Yuzvendra Chahal : 1 : ['WulfXI(VC)']
-
-Ajinkya Rahane : 1 : ['ThanosKanos']
-
---- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-04-06 19:31:20 IST
+Match not started yet!
+Last Updated on 2026-04-07 15:31:16 IST
