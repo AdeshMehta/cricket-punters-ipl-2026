@@ -1,5 +1,32 @@
 Match 14: DC vs GT: 2026-04-08
 
 
-Match not started yet!
-Last Updated on 2026-04-08 15:31:15 IST
+Shubman Gill : 4 : ['Mamba24(C)', 'Pasha(C)', 'Finishers(C)', 'deadman2345(C)']
+
+Axar Patel : 4 : ['Mamba24(VC)', 'Panda10st(VC)', 'deadman2345(VC)', 'ThanosKanos(C)']
+
+T Natarajan : 4 : ['Mamba24', 'Addy Punters', 'Finishers(VC)', 'deadman2345']
+
+Prasidh Krishna : 4 : ['Mamba24', 'Addy Punters', 'Panda10st', 'WulfXI']
+
+Jos Buttler : 4 : ['Addy Punters(C)', 'WulfXI(C)', 'ThanosKanos(VC)', 'Black Pearl(C)']
+
+Lungi Ngidi : 2 : ['Pasha(VC)', 'ThanosKanos']
+
+Sai Sudharsan : 2 : ['Panda10st(C)', 'deadman2345']
+
+Kuldeep Yadav : 2 : ['WulfXI', 'Black Pearl(VC)']
+
+Rashid Khan : 1 : ['Addy Punters(VC)']
+
+Sameer Rizvi : 1 : ['WulfXI(VC)']
+
+KL Rahul : 1 : ['ThanosKanos']
+
+Glenn Phillips : 1 : ['Black Pearl']
+
+Vipraj Nigam : 1 : ['Black Pearl']
+
+--- Matchday Booster Usage Summary ---
+No boosters reported used for this matchday
+Last Updated on 2026-04-08 19:31:22 IST
