@@ -1,5 +1,34 @@
 Match 15: KKR vs LSG: 2026-04-09
 
 
-Match not started yet!
-Last Updated on 2026-04-09 15:31:21 IST
+Finn Allen : 8 : ['Addy Punters', 'Mamba24(C)', 'Pasha(C)', 'Panda10st', 'deadman2345', 'Finishers(C)', 'WulfXI(C)', 'Black Pearl']
+
+Aiden Markram : 4 : ['Pasha(VC)', 'Panda10st(C)', 'deadman2345(C)', 'WulfXI']
+
+Angkrish Raghuvanshi : 4 : ['Panda10st(VC)', 'deadman2345(VC)', 'Finishers(VC)', 'ThanosKanos(C)']
+
+Prince Yadav : 4 : ['deadman2345', 'WulfXI(VC)', 'ThanosKanos', 'Black Pearl']
+
+Mitchell Marsh : 2 : ['Mamba24', 'ThanosKanos(VC)']
+
+Mohammad Shami : 2 : ['Mamba24(VC)', 'Black Pearl']
+
+Kartik Tyagi : 2 : ['Panda10st', 'Black Pearl(C)']
+
+Rishabh Pant : 1 : ['Addy Punters(C)']
+
+Cameron Green : 1 : ['Addy Punters(VC)']
+
+Sunil Narine : 1 : ['Addy Punters']
+
+Vaibhav Arora : 1 : ['Pasha']
+
+Anukul Roy : 1 : ['WulfXI']
+
+Ajinkya Rahane : 1 : ['ThanosKanos']
+
+Abdul Samad : 1 : ['Black Pearl(VC)']
+
+--- Matchday Booster Usage Summary ---
+No boosters reported used for this matchday
+Last Updated on 2026-04-09 19:31:21 IST
