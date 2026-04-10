@@ -1,5 +1,30 @@
 Match 16: RR vs RCB: 2026-04-10
 
 
-Match not started yet!
-Last Updated on 2026-04-10 19:31:17 IST
+Vaibhav Sooryavanshi : 6 : ['Addy Punters', 'Mamba24(C)', 'Pasha(C)', 'deadman2345(VC)', 'Finishers', 'Black Pearl']
+
+Yashasvi Jaiswal : 6 : ['Mamba24', 'Pasha', 'Panda10st', 'Finishers', 'WulfXI(VC)', 'ThanosKanos']
+
+Virat Kohli : 5 : ['Pasha(VC)', 'Panda10st(C)', 'Finishers(C)', 'WulfXI', 'Black Pearl']
+
+Riyan Parag : 4 : ['Pasha', 'Panda10st', 'deadman2345', 'Finishers']
+
+Dhruv Jurel : 3 : ['Addy Punters', 'Finishers', 'ThanosKanos']
+
+Rajat Patidar : 3 : ['Addy Punters(C)', 'Finishers(VC)', 'ThanosKanos']
+
+Phil Salt : 3 : ['Mamba24(VC)', 'Pasha', 'deadman2345(C)']
+
+Devdutt Padikkal : 3 : ['Mamba24', 'Finishers', 'WulfXI(C)']
+
+Jofra Archer : 2 : ['Addy Punters(VC)', 'WulfXI']
+
+Ravi Bishnoi : 2 : ['Finishers', 'ThanosKanos']
+
+Nandre Burger : 1 : ['Mamba24']
+
+Jacob Duffy : 1 : ['Panda10st']
+
+--- Matchday Booster Usage Summary ---
+Finishers used booster: Indian Warriors
+Last Updated on 2026-04-10 20:42:06 IST
