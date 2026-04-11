@@ -1,34 +1,32 @@
-Match 17: PBKS vs SRH: 2026-04-11
+Match 18: CSK vs DC: 2026-04-11
 
 
-Cooper Connolly : 6 : ['Mamba24', 'Finishers(C)', 'Panda10st', 'deadman2345(C)', 'WulfXI(C)', 'Black Pearl']
+Sanju Samson : 4 : ['Addy Punters(C)', 'Mamba24(C)', 'deadman2345(C)', 'WulfXI(VC)']
 
-Abhishek Sharma : 4 : ['Addy Punters(VC)', 'Mamba24(C)', 'Pasha(VC)', 'deadman2345(VC)']
+Pathum Nissanka : 4 : ['Mamba24(VC)', 'Pasha(C)', 'Finishers(VC)', 'deadman2345(VC)']
 
-Jaydev Unadkat : 3 : ['Finishers(VC)', 'Pasha', 'ThanosKanos']
+KL Rahul : 3 : ['Addy Punters(VC)', 'ThanosKanos(C)', 'Black Pearl(VC)']
 
-Heinrich Klaasen : 3 : ['Panda10st(C)', 'deadman2345', 'ThanosKanos(C)']
+T Natarajan : 3 : ['Addy Punters', 'Mamba24', 'deadman2345']
 
-Prabhsimran Singh : 2 : ['Addy Punters(C)', 'Mamba24(VC)']
+Lungi Ngidi : 3 : ['Pasha(VC)', 'deadman2345', 'Black Pearl']
 
-Praful Hinge : 2 : ['Mamba24', 'Panda10st']
+Anshul Kamboj : 3 : ['Finishers', 'ThanosKanos', 'WulfXI']
 
-Ishan Kishan : 2 : ['Pasha(C)', 'WulfXI(VC)']
+Axar Patel : 3 : ['deadman2345', 'Panda10st(VC)', 'ThanosKanos']
 
-Yuzvendra Chahal : 2 : ['Panda10st(VC)', 'WulfXI']
+Sarfaraz Khan : 2 : ['Addy Punters', 'Finishers(C)']
 
-Shreyas Iyer : 2 : ['ThanosKanos(VC)', 'Black Pearl']
+Jamie Overton : 2 : ['Mamba24', 'Panda10st(C)']
 
-Priyansh Arya : 1 : ['Addy Punters']
+Mukesh Kumar : 2 : ['Panda10st', 'WulfXI(C)']
 
-David Payne : 1 : ['Finishers']
+Sameer Rizvi : 2 : ['WulfXI', 'Black Pearl']
 
-Vijaykumar Vyshak : 1 : ['deadman2345']
+Ayush Mhatre : 1 : ['ThanosKanos(VC)']
 
-Harsh Dubey : 1 : ['WulfXI']
-
-Marco Jansen : 1 : ['Black Pearl']
+Dewald Brevis : 1 : ['Black Pearl(C)']
 
 --- Matchday Booster Usage Summary ---
 No boosters reported used for this matchday
-Last Updated on 2026-04-11 15:31:15 IST
+Last Updated on 2026-04-11 19:31:15 IST
