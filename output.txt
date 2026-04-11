@@ -1,30 +1,34 @@
-Match 16: RR vs RCB: 2026-04-10
+Match 17: PBKS vs SRH: 2026-04-11
 
 
-Vaibhav Sooryavanshi : 6 : ['Addy Punters', 'Mamba24(C)', 'Pasha(C)', 'deadman2345(VC)', 'Finishers', 'Black Pearl']
+Cooper Connolly : 6 : ['Mamba24', 'Finishers(C)', 'Panda10st', 'deadman2345(C)', 'WulfXI(C)', 'Black Pearl']
 
-Yashasvi Jaiswal : 6 : ['Mamba24', 'Pasha', 'Panda10st', 'Finishers', 'WulfXI(VC)', 'ThanosKanos']
+Abhishek Sharma : 4 : ['Addy Punters(VC)', 'Mamba24(C)', 'Pasha(VC)', 'deadman2345(VC)']
 
-Virat Kohli : 5 : ['Pasha(VC)', 'Panda10st(C)', 'Finishers(C)', 'WulfXI', 'Black Pearl']
+Jaydev Unadkat : 3 : ['Finishers(VC)', 'Pasha', 'ThanosKanos']
 
-Riyan Parag : 4 : ['Pasha', 'Panda10st', 'deadman2345', 'Finishers']
+Heinrich Klaasen : 3 : ['Panda10st(C)', 'deadman2345', 'ThanosKanos(C)']
 
-Dhruv Jurel : 3 : ['Addy Punters', 'Finishers', 'ThanosKanos']
+Prabhsimran Singh : 2 : ['Addy Punters(C)', 'Mamba24(VC)']
 
-Rajat Patidar : 3 : ['Addy Punters(C)', 'Finishers(VC)', 'ThanosKanos']
+Praful Hinge : 2 : ['Mamba24', 'Panda10st']
 
-Phil Salt : 3 : ['Mamba24(VC)', 'Pasha', 'deadman2345(C)']
+Ishan Kishan : 2 : ['Pasha(C)', 'WulfXI(VC)']
 
-Devdutt Padikkal : 3 : ['Mamba24', 'Finishers', 'WulfXI(C)']
+Yuzvendra Chahal : 2 : ['Panda10st(VC)', 'WulfXI']
 
-Jofra Archer : 2 : ['Addy Punters(VC)', 'WulfXI']
+Shreyas Iyer : 2 : ['ThanosKanos(VC)', 'Black Pearl']
 
-Ravi Bishnoi : 2 : ['Finishers', 'ThanosKanos']
+Priyansh Arya : 1 : ['Addy Punters']
 
-Nandre Burger : 1 : ['Mamba24']
+David Payne : 1 : ['Finishers']
 
-Jacob Duffy : 1 : ['Panda10st']
+Vijaykumar Vyshak : 1 : ['deadman2345']
+
+Harsh Dubey : 1 : ['WulfXI']
+
+Marco Jansen : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-Finishers used booster: Indian Warriors
-Last Updated on 2026-04-10 20:42:06 IST
+No boosters reported used for this matchday
+Last Updated on 2026-04-11 15:31:15 IST
