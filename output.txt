@@ -1,32 +1,39 @@
-Match 18: CSK vs DC: 2026-04-11
+Match 19: LSG vs GT: 2026-04-12
 
 
-Sanju Samson : 4 : ['Addy Punters(C)', 'Mamba24(C)', 'deadman2345(C)', 'WulfXI(VC)']
+Aiden Markram : 6 : ['Addy Punters(VC)', 'Pasha', 'deadman2345(VC)', 'Panda10st(VC)', 'WulfXI(VC)', 'ThanosKanos']
 
-Pathum Nissanka : 4 : ['Mamba24(VC)', 'Pasha(C)', 'Finishers(VC)', 'deadman2345(VC)']
+Prince Yadav : 6 : ['Pasha', 'deadman2345', 'Panda10st', 'WulfXI', 'ThanosKanos', 'Black Pearl']
 
-KL Rahul : 3 : ['Addy Punters(VC)', 'ThanosKanos(C)', 'Black Pearl(VC)']
+Shubman Gill : 5 : ['Mamba24', 'Pasha(VC)', 'Finishers(C)', 'deadman2345', 'Panda10st(C)']
 
-T Natarajan : 3 : ['Addy Punters', 'Mamba24', 'deadman2345']
+Jos Buttler : 4 : ['Addy Punters(C)', 'Pasha(C)', 'ThanosKanos(C)', 'Black Pearl(VC)']
 
-Lungi Ngidi : 3 : ['Pasha(VC)', 'deadman2345', 'Black Pearl']
+Prasidh Krishna : 4 : ['Addy Punters', 'Panda10st', 'WulfXI', 'Black Pearl']
 
-Anshul Kamboj : 3 : ['Finishers', 'ThanosKanos', 'WulfXI']
+Rishabh Pant : 3 : ['Addy Punters', 'Mamba24(C)', 'Finishers(VC)']
 
-Axar Patel : 3 : ['deadman2345', 'Panda10st(VC)', 'ThanosKanos']
+Mitchell Marsh : 3 : ['Addy Punters', 'ThanosKanos(VC)', 'Black Pearl(C)']
 
-Sarfaraz Khan : 2 : ['Addy Punters', 'Finishers(C)']
+Sai Sudharsan : 3 : ['deadman2345(C)', 'WulfXI(C)', 'Black Pearl']
 
-Jamie Overton : 2 : ['Mamba24', 'Panda10st(C)']
+Abdul Samad : 2 : ['Addy Punters', 'Black Pearl']
 
-Mukesh Kumar : 2 : ['Panda10st', 'WulfXI(C)']
+Mohammad Shami : 2 : ['Mamba24(VC)', 'Black Pearl']
 
-Sameer Rizvi : 2 : ['WulfXI', 'Black Pearl']
+Rashid Khan : 1 : ['Addy Punters']
 
-Ayush Mhatre : 1 : ['ThanosKanos(VC)']
+Kagiso Rabada : 1 : ['Mamba24']
 
-Dewald Brevis : 1 : ['Black Pearl(C)']
+Ashok Sharma : 1 : ['WulfXI']
+
+Nicholas Pooran : 1 : ['Black Pearl']
+
+Washington Sundar : 1 : ['Black Pearl']
+
+Glenn Phillips : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-04-11 19:31:15 IST
+Addy Punters used booster: Foreign Stars
+Black Pearl used booster: Foreign Stars
+Last Updated on 2026-04-12 15:31:19 IST
