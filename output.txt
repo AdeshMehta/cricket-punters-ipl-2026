@@ -1,39 +1,32 @@
-Match 19: LSG vs GT: 2026-04-12
+Match 20: MI vs RCB: 2026-04-12
 
 
-Aiden Markram : 6 : ['Addy Punters(VC)', 'Pasha', 'deadman2345(VC)', 'Panda10st(VC)', 'WulfXI(VC)', 'ThanosKanos']
+Rajat Patidar : 5 : ['Addy Punters', 'Finishers(C)', 'Panda10st', 'ThanosKanos(C)', 'Black Pearl']
 
-Prince Yadav : 6 : ['Pasha', 'deadman2345', 'Panda10st', 'WulfXI', 'ThanosKanos', 'Black Pearl']
+Virat Kohli : 5 : ['Mamba24(C)', 'Pasha(C)', 'Finishers', 'Panda10st(C)', 'WulfXI(VC)']
 
-Shubman Gill : 5 : ['Mamba24', 'Pasha(VC)', 'Finishers(C)', 'deadman2345', 'Panda10st(C)']
+Jacob Duffy : 5 : ['Pasha', 'Panda10st', 'deadman2345', 'WulfXI', 'Black Pearl(C)']
 
-Jos Buttler : 4 : ['Addy Punters(C)', 'Pasha(C)', 'ThanosKanos(C)', 'Black Pearl(VC)']
+Devdutt Padikkal : 4 : ['Mamba24(VC)', 'Finishers', 'WulfXI', 'ThanosKanos']
 
-Prasidh Krishna : 4 : ['Addy Punters', 'Panda10st', 'WulfXI', 'Black Pearl']
+Rohit Sharma : 3 : ['Addy Punters(C)', 'Finishers(VC)', 'WulfXI(C)']
 
-Rishabh Pant : 3 : ['Addy Punters', 'Mamba24(C)', 'Finishers(VC)']
+Ryan Rickelton : 3 : ['Pasha(VC)', 'WulfXI', 'Black Pearl(VC)']
 
-Mitchell Marsh : 3 : ['Addy Punters', 'ThanosKanos(VC)', 'Black Pearl(C)']
+Suryakumar Yadav : 3 : ['Panda10st(VC)', 'deadman2345', 'ThanosKanos(VC)']
 
-Sai Sudharsan : 3 : ['deadman2345(C)', 'WulfXI(C)', 'Black Pearl']
+Phil Salt : 2 : ['Addy Punters(VC)', 'Pasha']
 
-Abdul Samad : 2 : ['Addy Punters', 'Black Pearl']
+Mayank Markande : 1 : ['Mamba24']
 
-Mohammad Shami : 2 : ['Mamba24(VC)', 'Black Pearl']
+Jasprit Bumrah : 1 : ['Mamba24']
 
-Rashid Khan : 1 : ['Addy Punters']
+Romario Shepherd : 1 : ['deadman2345(VC)']
 
-Kagiso Rabada : 1 : ['Mamba24']
+Hardik Pandya : 1 : ['deadman2345(C)']
 
-Ashok Sharma : 1 : ['WulfXI']
-
-Nicholas Pooran : 1 : ['Black Pearl']
-
-Washington Sundar : 1 : ['Black Pearl']
-
-Glenn Phillips : 1 : ['Black Pearl']
+Krunal Pandya : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-Addy Punters used booster: Foreign Stars
-Black Pearl used booster: Foreign Stars
-Last Updated on 2026-04-12 15:31:19 IST
+No boosters reported used for this matchday
+Last Updated on 2026-04-12 19:31:19 IST
