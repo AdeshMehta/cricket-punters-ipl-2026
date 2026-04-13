@@ -1,32 +1,5 @@
-Match 20: MI vs RCB: 2026-04-12
+Match 21: SRH vs RR: 2026-04-13
 
 
-Rajat Patidar : 5 : ['Addy Punters', 'Finishers(C)', 'Panda10st', 'ThanosKanos(C)', 'Black Pearl']
-
-Virat Kohli : 5 : ['Mamba24(C)', 'Pasha(C)', 'Finishers', 'Panda10st(C)', 'WulfXI(VC)']
-
-Jacob Duffy : 5 : ['Pasha', 'Panda10st', 'deadman2345', 'WulfXI', 'Black Pearl(C)']
-
-Devdutt Padikkal : 4 : ['Mamba24(VC)', 'Finishers', 'WulfXI', 'ThanosKanos']
-
-Rohit Sharma : 3 : ['Addy Punters(C)', 'Finishers(VC)', 'WulfXI(C)']
-
-Ryan Rickelton : 3 : ['Pasha(VC)', 'WulfXI', 'Black Pearl(VC)']
-
-Suryakumar Yadav : 3 : ['Panda10st(VC)', 'deadman2345', 'ThanosKanos(VC)']
-
-Phil Salt : 2 : ['Addy Punters(VC)', 'Pasha']
-
-Mayank Markande : 1 : ['Mamba24']
-
-Jasprit Bumrah : 1 : ['Mamba24']
-
-Romario Shepherd : 1 : ['deadman2345(VC)']
-
-Hardik Pandya : 1 : ['deadman2345(C)']
-
-Krunal Pandya : 1 : ['Black Pearl']
-
---- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-04-12 19:31:19 IST
+Match not started yet!
+Last Updated on 2026-04-13 15:31:16 IST
