@@ -1,5 +1,41 @@
 Match 21: SRH vs RR: 2026-04-13
 
 
-Match not started yet!
-Last Updated on 2026-04-13 15:31:16 IST
+Yashasvi Jaiswal : 7 : ['Addy Punters(C)', 'Mamba24', 'Pasha(VC)', 'deadman2345(VC)', 'Panda10st(VC)', 'ThanosKanos(C)', 'WulfXI']
+
+Vaibhav Sooryavanshi : 7 : ['Mamba24(VC)', 'Pasha', 'Finishers', 'deadman2345', 'ThanosKanos', 'WulfXI(VC)', 'Black Pearl(VC)']
+
+Abhishek Sharma : 6 : ['Addy Punters(VC)', 'Mamba24', 'Pasha(C)', 'deadman2345(C)', 'ThanosKanos(VC)', 'Black Pearl(C)']
+
+Dhruv Jurel : 6 : ['Mamba24', 'Pasha', 'Finishers(C)', 'deadman2345', 'Panda10st', 'ThanosKanos']
+
+Praful Hinge : 6 : ['Mamba24', 'Pasha', 'deadman2345', 'Panda10st', 'ThanosKanos', 'Black Pearl']
+
+Heinrich Klaasen : 5 : ['Addy Punters', 'Pasha', 'Finishers(VC)', 'Panda10st(C)', 'ThanosKanos']
+
+Ishan Kishan : 3 : ['Pasha', 'deadman2345', 'WulfXI(C)']
+
+Riyan Parag : 3 : ['Pasha', 'Finishers', 'deadman2345']
+
+Ravi Bishnoi : 3 : ['Finishers', 'deadman2345', 'ThanosKanos']
+
+Travis Head : 2 : ['Mamba24(C)', 'Pasha']
+
+Nandre Burger : 2 : ['Pasha', 'Black Pearl']
+
+Nitish Kumar Reddy : 2 : ['deadman2345', 'ThanosKanos']
+
+Harsh Dubey : 2 : ['ThanosKanos', 'WulfXI']
+
+Jofra Archer : 1 : ['Addy Punters']
+
+Sandeep Sharma : 1 : ['Pasha']
+
+Jaydev Unadkat : 1 : ['Finishers']
+
+--- Matchday Booster Usage Summary ---
+Mamba24 used booster: Double Power
+Pasha used booster: Double Power
+deadman2345 used booster: Indian Warriors
+ThanosKanos used booster: Indian Warriors
+Last Updated on 2026-04-13 19:31:22 IST
