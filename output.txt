@@ -1,5 +1,34 @@
 Match 22: CSK vs KKR: 2026-04-14
 
 
-Match not started yet!
-Last Updated on 2026-04-14 15:31:17 IST
+Angkrish Raghuvanshi : 9 : ['Addy Punters(C)', 'Pasha', 'Mamba24', 'deadman2345', 'Finishers(C)', 'Panda10st(C)', 'ThanosKanos(VC)', 'WulfXI(C)', 'Black Pearl(VC)']
+
+Anshul Kamboj : 5 : ['Pasha', 'Finishers', 'ThanosKanos', 'WulfXI(VC)', 'Black Pearl']
+
+Sanju Samson : 4 : ['Pasha(C)', 'Finishers(VC)', 'Panda10st(VC)', 'WulfXI']
+
+Ajinkya Rahane : 3 : ['Addy Punters', 'Pasha', 'Finishers']
+
+Cameron Green : 3 : ['Pasha(VC)', 'deadman2345(C)', 'Panda10st']
+
+Jamie Overton : 3 : ['Mamba24', 'Panda10st', 'Black Pearl(C)']
+
+Shivam Dube : 2 : ['Addy Punters(VC)', 'deadman2345(VC)']
+
+Sarfaraz Khan : 1 : ['Addy Punters']
+
+Ayush Mhatre : 1 : ['Mamba24(VC)']
+
+Varun Chakaravarthy : 1 : ['Mamba24(C)']
+
+Ruturaj Gaikwad : 1 : ['deadman2345']
+
+Finn Allen : 1 : ['Panda10st']
+
+Dewald Brevis : 1 : ['ThanosKanos(C)']
+
+Vaibhav Arora : 1 : ['WulfXI']
+
+--- Matchday Booster Usage Summary ---
+Pasha used booster: Wild Card
+Last Updated on 2026-04-14 19:31:18 IST
