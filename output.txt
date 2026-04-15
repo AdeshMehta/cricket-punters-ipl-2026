@@ -1,5 +1,45 @@
 Match 23: RCB vs LSG: 2026-04-15
 
 
-Match not started yet!
-Last Updated on 2026-04-15 15:31:15 IST
+Phil Salt : 5 : ['Addy Punters', 'Pasha', 'deadman2345(VC)', 'Panda10st(C)', 'ThanosKanos(C)']
+
+Rajat Patidar : 5 : ['Addy Punters(C)', 'Mamba24(C)', 'Finishers(VC)', 'Panda10st(VC)', 'Black Pearl(C)']
+
+Rishabh Pant : 4 : ['Addy Punters(VC)', 'Finishers', 'ThanosKanos(VC)', 'WulfXI(VC)']
+
+Virat Kohli : 4 : ['Pasha', 'Finishers(C)', 'Panda10st', 'WulfXI(C)']
+
+Mitchell Marsh : 4 : ['Pasha(VC)', 'Mamba24(VC)', 'deadman2345', 'Black Pearl']
+
+Aiden Markram : 4 : ['Pasha(C)', 'deadman2345(C)', 'Panda10st', 'WulfXI']
+
+Prince Yadav : 4 : ['Pasha', 'deadman2345', 'Panda10st', 'WulfXI']
+
+Devdutt Padikkal : 3 : ['Mamba24', 'Finishers', 'WulfXI']
+
+Krunal Pandya : 3 : ['Mamba24', 'Panda10st', 'WulfXI']
+
+Jacob Duffy : 3 : ['Finishers', 'Panda10st', 'WulfXI']
+
+Mohammad Shami : 2 : ['WulfXI', 'Black Pearl']
+
+Abdul Samad : 1 : ['Addy Punters']
+
+Romario Shepherd : 1 : ['Pasha']
+
+Suyash Sharma : 1 : ['Pasha']
+
+Rasikh Salam : 1 : ['Pasha']
+
+Tim David : 1 : ['deadman2345']
+
+Nicholas Pooran : 1 : ['Black Pearl(VC)']
+
+Bhuvneshwar Kumar : 1 : ['Black Pearl']
+
+--- Matchday Booster Usage Summary ---
+Pasha used booster: Foreign Stars
+Mamba24 used booster: Wild Card
+deadman2345 used booster: Foreign Stars
+WulfXI used booster: Indian Warriors
+Last Updated on 2026-04-15 19:31:21 IST
