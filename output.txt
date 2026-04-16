@@ -1,35 +1,35 @@
 Match 23: RCB vs LSG: 2026-04-15
 
 
-Phil Salt : 5 : ['Addy Punters', 'Pasha', 'deadman2345(VC)', 'Panda10st(C)', 'ThanosKanos(C)']
+Phil Salt : 5 : ['Pasha', 'Addy Punters', 'deadman2345(VC)', 'Panda10st(C)', 'ThanosKanos(C)']
 
 Rajat Patidar : 5 : ['Addy Punters(C)', 'Mamba24(C)', 'Finishers(VC)', 'Panda10st(VC)', 'Black Pearl(C)']
 
-Rishabh Pant : 4 : ['Addy Punters(VC)', 'Finishers', 'ThanosKanos(VC)', 'WulfXI(VC)']
-
-Virat Kohli : 4 : ['Pasha', 'Finishers(C)', 'Panda10st', 'WulfXI(C)']
+Virat Kohli : 4 : ['Pasha', 'Finishers(C)', 'WulfXI(C)', 'Panda10st']
 
 Mitchell Marsh : 4 : ['Pasha(VC)', 'Mamba24(VC)', 'deadman2345', 'Black Pearl']
 
-Aiden Markram : 4 : ['Pasha(C)', 'deadman2345(C)', 'Panda10st', 'WulfXI']
+Aiden Markram : 4 : ['Pasha(C)', 'deadman2345(C)', 'WulfXI', 'Panda10st']
 
-Prince Yadav : 4 : ['Pasha', 'deadman2345', 'Panda10st', 'WulfXI']
+Prince Yadav : 4 : ['Pasha', 'deadman2345', 'WulfXI', 'Panda10st']
+
+Rishabh Pant : 4 : ['Addy Punters(VC)', 'Finishers', 'WulfXI(VC)', 'ThanosKanos(VC)']
 
 Devdutt Padikkal : 3 : ['Mamba24', 'Finishers', 'WulfXI']
 
-Krunal Pandya : 3 : ['Mamba24', 'Panda10st', 'WulfXI']
+Krunal Pandya : 3 : ['Mamba24', 'WulfXI', 'Panda10st']
 
-Jacob Duffy : 3 : ['Finishers', 'Panda10st', 'WulfXI']
+Jacob Duffy : 3 : ['Finishers', 'WulfXI', 'Panda10st']
 
 Mohammad Shami : 2 : ['WulfXI', 'Black Pearl']
-
-Abdul Samad : 1 : ['Addy Punters']
 
 Romario Shepherd : 1 : ['Pasha']
 
 Suyash Sharma : 1 : ['Pasha']
 
 Rasikh Salam : 1 : ['Pasha']
+
+Abdul Samad : 1 : ['Addy Punters']
 
 Tim David : 1 : ['deadman2345']
 
@@ -42,4 +42,4 @@ Pasha used booster: Foreign Stars
 Mamba24 used booster: Wild Card
 deadman2345 used booster: Foreign Stars
 WulfXI used booster: Indian Warriors
-Last Updated on 2026-04-15 19:31:21 IST
+Last Updated on 2026-04-16 15:31:25 IST
