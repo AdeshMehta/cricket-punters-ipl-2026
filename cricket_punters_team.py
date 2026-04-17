@@ -4,6 +4,7 @@ import os
 
 from pprint import pprint
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 
 booster_name = {
                     3: "Double Power", 12: "Triple Captain", 9: "Foreign Stars",    # Working Fine
@@ -25,9 +26,11 @@ with requests.session() as s:
     matches = res_matches.json()['Data']['Value']['matches']
     teams = []
 
-    for match in matches:
-        # print(match)
-        if match['event_state'] != 'R':
+    for match in reversed(matches):
+        match_start_time = datetime.fromisoformat(match['start_date'])
+        now = datetime.now(match_start_time.tzinfo)
+        if now > match_start_time:
+        # if match['event_state'] != 'R':
             teams.append(match['participants'][0]['short_name'])
             teams.append(match['participants'][1]['short_name'])
             match_number = int(match['event_name'].split(" ")[-1])
