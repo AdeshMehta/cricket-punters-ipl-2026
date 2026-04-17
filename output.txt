@@ -1,45 +1,28 @@
-Match 23: RCB vs LSG: 2026-04-15
+Match 25: GT vs KKR: 2026-04-17
 
 
-Phil Salt : 5 : ['Addy Punters', 'Pasha', 'deadman2345(VC)', 'Panda10st(C)', 'ThanosKanos(C)']
+Angkrish Raghuvanshi : 8 : ['Addy Punters(VC)', 'Pasha', 'deadman2345', 'Panda10st', 'Finishers(C)', 'WulfXI', 'ThanosKanos', 'Black Pearl']
 
-Rajat Patidar : 5 : ['Addy Punters(C)', 'Mamba24(C)', 'Finishers(VC)', 'Panda10st(VC)', 'Black Pearl(C)']
+Prasidh Krishna : 4 : ['Addy Punters', 'Mamba24(VC)', 'deadman2345', 'Panda10st']
 
-Rishabh Pant : 4 : ['Addy Punters(VC)', 'Finishers', 'WulfXI(VC)', 'ThanosKanos(VC)']
+Sai Sudharsan : 4 : ['Mamba24(C)', 'deadman2345(C)', 'ThanosKanos(C)', 'Black Pearl']
 
-Virat Kohli : 4 : ['Pasha', 'Finishers(C)', 'Panda10st', 'WulfXI(C)']
+Ajinkya Rahane : 3 : ['Addy Punters', 'Pasha(VC)', 'Finishers(VC)']
 
-Mitchell Marsh : 4 : ['Pasha(VC)', 'Mamba24(VC)', 'deadman2345', 'Black Pearl']
+Jos Buttler : 3 : ['Pasha(C)', 'Panda10st(VC)', 'Black Pearl(VC)']
 
-Aiden Markram : 4 : ['Pasha(C)', 'deadman2345(C)', 'Panda10st', 'WulfXI']
+Kartik Tyagi : 3 : ['Mamba24', 'Finishers', 'Black Pearl(C)']
 
-Prince Yadav : 4 : ['Pasha', 'deadman2345', 'Panda10st', 'WulfXI']
+Shubman Gill : 3 : ['deadman2345', 'Panda10st(C)', 'WulfXI(C)']
 
-Devdutt Padikkal : 3 : ['Mamba24', 'Finishers', 'WulfXI']
+Sunil Narine : 2 : ['Addy Punters(C)', 'WulfXI(VC)']
 
-Krunal Pandya : 3 : ['Mamba24', 'Panda10st', 'WulfXI']
+Tim Seifert : 2 : ['Mamba24', 'deadman2345(VC)']
 
-Jacob Duffy : 3 : ['Finishers', 'Panda10st', 'WulfXI']
+Cameron Green : 1 : ['Panda10st']
 
-Mohammad Shami : 2 : ['WulfXI', 'Black Pearl']
-
-Abdul Samad : 1 : ['Addy Punters']
-
-Romario Shepherd : 1 : ['Pasha']
-
-Suyash Sharma : 1 : ['Pasha']
-
-Rasikh Salam : 1 : ['Pasha']
-
-Tim David : 1 : ['deadman2345']
-
-Nicholas Pooran : 1 : ['Black Pearl(VC)']
-
-Bhuvneshwar Kumar : 1 : ['Black Pearl']
+Rashid Khan : 1 : ['ThanosKanos(VC)']
 
 --- Matchday Booster Usage Summary ---
-Pasha used booster: Foreign Stars
-Mamba24 used booster: Wild Card
-deadman2345 used booster: Foreign Stars
-WulfXI used booster: Indian Warriors
-Last Updated on 2026-04-17 19:31:18 IST
+No boosters reported used for this matchday
+Last Updated on 2026-04-17 22:33:08 IST
