@@ -1,28 +1,43 @@
-Match 25: GT vs KKR: 2026-04-17
+Match 26: RCB vs DC: 2026-04-18
 
 
-Angkrish Raghuvanshi : 8 : ['Addy Punters(VC)', 'Pasha', 'deadman2345', 'Panda10st', 'Finishers(C)', 'WulfXI', 'ThanosKanos', 'Black Pearl']
+KL Rahul : 5 : ['Addy Punters', 'Pasha(VC)', 'Mamba24(VC)', 'Panda10st', 'ThanosKanos(C)']
 
-Prasidh Krishna : 4 : ['Addy Punters', 'Mamba24(VC)', 'deadman2345', 'Panda10st']
+Rajat Patidar : 5 : ['Addy Punters(C)', 'Mamba24(C)', 'Panda10st', 'Finishers(VC)', 'ThanosKanos']
 
-Sai Sudharsan : 4 : ['Mamba24(C)', 'deadman2345(C)', 'ThanosKanos(C)', 'Black Pearl']
+Virat Kohli : 5 : ['Pasha', 'Mamba24', 'Panda10st(C)', 'Finishers', 'WulfXI(C)']
 
-Ajinkya Rahane : 3 : ['Addy Punters', 'Pasha(VC)', 'Finishers(VC)']
+Krunal Pandya : 4 : ['Addy Punters(VC)', 'Mamba24', 'Panda10st', 'WulfXI']
 
-Jos Buttler : 3 : ['Pasha(C)', 'Panda10st(VC)', 'Black Pearl(VC)']
+Phil Salt : 4 : ['Pasha(C)', 'deadman2345', 'Panda10st', 'ThanosKanos(VC)']
 
-Kartik Tyagi : 3 : ['Mamba24', 'Finishers', 'Black Pearl(C)']
+Sameer Rizvi : 2 : ['Mamba24', 'deadman2345(C)']
 
-Shubman Gill : 3 : ['deadman2345', 'Panda10st(C)', 'WulfXI(C)']
+Axar Patel : 2 : ['Mamba24', 'Panda10st']
 
-Sunil Narine : 2 : ['Addy Punters(C)', 'WulfXI(VC)']
+Pathum Nissanka : 2 : ['Panda10st(VC)', 'WulfXI(VC)']
 
-Tim Seifert : 2 : ['Mamba24', 'deadman2345(VC)']
+Bhuvneshwar Kumar : 2 : ['Panda10st', 'Black Pearl']
 
-Cameron Green : 1 : ['Panda10st']
+Devdutt Padikkal : 2 : ['Finishers(C)', 'WulfXI']
 
-Rashid Khan : 1 : ['ThanosKanos(VC)']
+T Natarajan : 1 : ['Addy Punters']
+
+Romario Shepherd : 1 : ['Pasha']
+
+Suyash Sharma : 1 : ['Pasha']
+
+Rasikh Salam : 1 : ['Pasha']
+
+Tim David : 1 : ['deadman2345(VC)']
+
+Mukesh Kumar : 1 : ['Panda10st']
+
+Jacob Duffy : 1 : ['Finishers']
+
+Lungi Ngidi : 1 : ['WulfXI']
 
 --- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-04-17 22:33:08 IST
+Mamba24 used booster: Indian Warriors
+Panda10st used booster: Indian Warriors
+Last Updated on 2026-04-18 15:31:17 IST
