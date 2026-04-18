@@ -1,43 +1,40 @@
-Match 26: RCB vs DC: 2026-04-18
+Match 27: SRH vs CSK: 2026-04-18
 
 
-KL Rahul : 5 : ['Addy Punters', 'Pasha(VC)', 'Mamba24(VC)', 'Panda10st', 'ThanosKanos(C)']
+Ishan Kishan : 6 : ['Pasha', 'Mamba24(VC)', 'Panda10st(VC)', 'deadman2345(C)', 'Finishers(C)', 'Black Pearl(VC)']
 
-Rajat Patidar : 5 : ['Addy Punters(C)', 'Mamba24(C)', 'Panda10st', 'Finishers(VC)', 'ThanosKanos']
+Sanju Samson : 6 : ['Mamba24', 'Panda10st(C)', 'deadman2345', 'Finishers', 'WulfXI(C)', 'Black Pearl']
 
-Virat Kohli : 5 : ['Pasha', 'Mamba24', 'Panda10st(C)', 'Finishers', 'WulfXI(C)']
+Anshul Kamboj : 5 : ['Addy Punters(VC)', 'Panda10st', 'Finishers', 'ThanosKanos', 'Black Pearl']
 
-Krunal Pandya : 4 : ['Addy Punters(VC)', 'Mamba24', 'Panda10st', 'WulfXI']
+Praful Hinge : 5 : ['Panda10st', 'deadman2345', 'Finishers', 'ThanosKanos', 'Black Pearl']
 
-Phil Salt : 4 : ['Pasha(C)', 'deadman2345', 'Panda10st', 'ThanosKanos(VC)']
+Abhishek Sharma : 4 : ['Pasha(C)', 'Addy Punters(C)', 'deadman2345', 'WulfXI(VC)']
 
-Sameer Rizvi : 2 : ['Mamba24', 'deadman2345(C)']
+Heinrich Klaasen : 3 : ['Panda10st', 'Finishers(VC)', 'ThanosKanos(C)']
 
-Axar Patel : 2 : ['Mamba24', 'Panda10st']
+Ayush Mhatre : 2 : ['Mamba24(C)', 'Black Pearl']
 
-Pathum Nissanka : 2 : ['Panda10st(VC)', 'WulfXI(VC)']
+Sarfaraz Khan : 2 : ['Addy Punters', 'Black Pearl']
 
-Bhuvneshwar Kumar : 2 : ['Panda10st', 'Black Pearl']
+Ruturaj Gaikwad : 2 : ['deadman2345(VC)', 'Black Pearl']
 
-Devdutt Padikkal : 2 : ['Finishers(C)', 'WulfXI']
+Sakib Hussain : 2 : ['WulfXI', 'Black Pearl']
 
-T Natarajan : 1 : ['Addy Punters']
+Nitish Kumar Reddy : 2 : ['ThanosKanos', 'Black Pearl']
 
-Romario Shepherd : 1 : ['Pasha']
+Travis Head : 1 : ['Pasha(VC)']
 
-Suyash Sharma : 1 : ['Pasha']
+Eshan Malinga : 1 : ['Mamba24']
 
-Rasikh Salam : 1 : ['Pasha']
+Noor Ahmad : 1 : ['WulfXI']
 
-Tim David : 1 : ['deadman2345(VC)']
+Dewald Brevis : 1 : ['ThanosKanos(VC)']
 
-Mukesh Kumar : 1 : ['Panda10st']
+Aniket Verma : 1 : ['Black Pearl']
 
-Jacob Duffy : 1 : ['Finishers']
-
-Lungi Ngidi : 1 : ['WulfXI']
+Gurjapneet Singh : 1 : ['Black Pearl(C)']
 
 --- Matchday Booster Usage Summary ---
-Mamba24 used booster: Indian Warriors
-Panda10st used booster: Indian Warriors
-Last Updated on 2026-04-18 15:31:17 IST
+Black Pearl used booster: Indian Warriors
+Last Updated on 2026-04-18 19:31:17 IST
