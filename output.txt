@@ -1,34 +1,28 @@
-Match 28: KKR vs RR: 2026-04-19
+Match 29: PBKS vs LSG: 2026-04-19
 
 
-Vaibhav Sooryavanshi : 8 : ['Addy Punters(C)', 'Pasha', 'Mamba24(C)', 'Panda10st(C)', 'Finishers(C)', 'WulfXI', 'ThanosKanos', 'Black Pearl']
+Shreyas Iyer : 6 : ['Pasha(C)', 'Addy Punters(VC)', 'Panda10st(C)', 'Finishers(C)', 'WulfXI(C)', 'Black Pearl(VC)']
 
-Angkrish Raghuvanshi : 7 : ['Addy Punters', 'Pasha(VC)', 'Panda10st', 'deadman2345(VC)', 'Finishers', 'WulfXI', 'ThanosKanos(VC)']
+Prince Yadav : 5 : ['Pasha', 'Addy Punters', 'Panda10st', 'Finishers(VC)', 'WulfXI']
 
-Ajinkya Rahane : 4 : ['Addy Punters', 'Pasha', 'Mamba24', 'Finishers']
+Priyansh Arya : 5 : ['Panda10st', 'deadman2345', 'Finishers', 'WulfXI', 'ThanosKanos']
 
-Cameron Green : 3 : ['Pasha(C)', 'Panda10st', 'Black Pearl(VC)']
+Aiden Markram : 4 : ['Pasha(VC)', 'Panda10st(VC)', 'deadman2345(VC)', 'ThanosKanos(C)']
 
-Yashasvi Jaiswal : 3 : ['Pasha', 'ThanosKanos', 'Black Pearl']
+Ayush Badoni : 2 : ['Mamba24', 'WulfXI']
 
-Ravi Bishnoi : 3 : ['Pasha', 'deadman2345', 'Finishers(VC)']
+Cooper Connolly : 2 : ['Mamba24(C)', 'deadman2345(C)']
 
-Kartik Tyagi : 3 : ['Mamba24', 'Finishers', 'ThanosKanos']
+Xavier Bartlett : 2 : ['WulfXI(VC)', 'Black Pearl']
 
-Dhruv Jurel : 3 : ['Finishers', 'WulfXI(VC)', 'ThanosKanos(C)']
+Nicholas Pooran : 1 : ['Addy Punters(C)']
 
-Jofra Archer : 2 : ['Addy Punters(VC)', 'Panda10st(VC)']
+Prabhsimran Singh : 1 : ['Mamba24(VC)']
 
-Brijesh Sharma : 1 : ['Mamba24(VC)']
+Mukul Choudhary : 1 : ['ThanosKanos(VC)']
 
-Tim Seifert : 1 : ['deadman2345']
-
-Riyan Parag : 1 : ['deadman2345(C)']
-
-Sunil Narine : 1 : ['WulfXI(C)']
-
-Ravindra Jadeja : 1 : ['Black Pearl(C)']
+Mohammad Shami : 1 : ['Black Pearl(C)']
 
 --- Matchday Booster Usage Summary ---
 No boosters reported used for this matchday
-Last Updated on 2026-04-19 15:31:18 IST
+Last Updated on 2026-04-19 19:31:18 IST
