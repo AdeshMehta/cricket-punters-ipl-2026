@@ -1,40 +1,34 @@
-Match 27: SRH vs CSK: 2026-04-18
+Match 28: KKR vs RR: 2026-04-19
 
 
-Ishan Kishan : 6 : ['Pasha', 'Mamba24(VC)', 'Panda10st(VC)', 'deadman2345(C)', 'Finishers(C)', 'Black Pearl(VC)']
+Vaibhav Sooryavanshi : 8 : ['Addy Punters(C)', 'Pasha', 'Mamba24(C)', 'Panda10st(C)', 'Finishers(C)', 'WulfXI', 'ThanosKanos', 'Black Pearl']
 
-Sanju Samson : 6 : ['Mamba24', 'Panda10st(C)', 'deadman2345', 'Finishers', 'WulfXI(C)', 'Black Pearl']
+Angkrish Raghuvanshi : 7 : ['Addy Punters', 'Pasha(VC)', 'Panda10st', 'deadman2345(VC)', 'Finishers', 'WulfXI', 'ThanosKanos(VC)']
 
-Anshul Kamboj : 5 : ['Addy Punters(VC)', 'Panda10st', 'Finishers', 'ThanosKanos', 'Black Pearl']
+Ajinkya Rahane : 4 : ['Addy Punters', 'Pasha', 'Mamba24', 'Finishers']
 
-Praful Hinge : 5 : ['Panda10st', 'deadman2345', 'Finishers', 'ThanosKanos', 'Black Pearl']
+Cameron Green : 3 : ['Pasha(C)', 'Panda10st', 'Black Pearl(VC)']
 
-Abhishek Sharma : 4 : ['Pasha(C)', 'Addy Punters(C)', 'deadman2345', 'WulfXI(VC)']
+Yashasvi Jaiswal : 3 : ['Pasha', 'ThanosKanos', 'Black Pearl']
 
-Heinrich Klaasen : 3 : ['Panda10st', 'Finishers(VC)', 'ThanosKanos(C)']
+Ravi Bishnoi : 3 : ['Pasha', 'deadman2345', 'Finishers(VC)']
 
-Ayush Mhatre : 2 : ['Mamba24(C)', 'Black Pearl']
+Kartik Tyagi : 3 : ['Mamba24', 'Finishers', 'ThanosKanos']
 
-Sarfaraz Khan : 2 : ['Addy Punters', 'Black Pearl']
+Dhruv Jurel : 3 : ['Finishers', 'WulfXI(VC)', 'ThanosKanos(C)']
 
-Ruturaj Gaikwad : 2 : ['deadman2345(VC)', 'Black Pearl']
+Jofra Archer : 2 : ['Addy Punters(VC)', 'Panda10st(VC)']
 
-Sakib Hussain : 2 : ['WulfXI', 'Black Pearl']
+Brijesh Sharma : 1 : ['Mamba24(VC)']
 
-Nitish Kumar Reddy : 2 : ['ThanosKanos', 'Black Pearl']
+Tim Seifert : 1 : ['deadman2345']
 
-Travis Head : 1 : ['Pasha(VC)']
+Riyan Parag : 1 : ['deadman2345(C)']
 
-Eshan Malinga : 1 : ['Mamba24']
+Sunil Narine : 1 : ['WulfXI(C)']
 
-Noor Ahmad : 1 : ['WulfXI']
-
-Dewald Brevis : 1 : ['ThanosKanos(VC)']
-
-Aniket Verma : 1 : ['Black Pearl']
-
-Gurjapneet Singh : 1 : ['Black Pearl(C)']
+Ravindra Jadeja : 1 : ['Black Pearl(C)']
 
 --- Matchday Booster Usage Summary ---
-Black Pearl used booster: Indian Warriors
-Last Updated on 2026-04-18 19:31:17 IST
+No boosters reported used for this matchday
+Last Updated on 2026-04-19 15:31:18 IST
