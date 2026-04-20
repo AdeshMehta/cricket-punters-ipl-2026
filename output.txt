@@ -1,28 +1,26 @@
-Match 29: PBKS vs LSG: 2026-04-19
+Match 30: GT vs MI: 2026-04-20
 
 
-Shreyas Iyer : 6 : ['Pasha(C)', 'Addy Punters(VC)', 'Panda10st(C)', 'Finishers(C)', 'WulfXI(C)', 'Black Pearl(VC)']
+Shubman Gill : 7 : ['Pasha(C)', 'Panda10st(C)', 'deadman2345', 'Finishers(C)', 'WulfXI', 'ThanosKanos(VC)', 'Black Pearl']
 
-Prince Yadav : 5 : ['Pasha', 'Addy Punters', 'Panda10st', 'Finishers(VC)', 'WulfXI']
+Quinton de Kock : 5 : ['Pasha', 'Addy Punters', 'Panda10st', 'deadman2345(VC)', 'ThanosKanos']
 
-Priyansh Arya : 5 : ['Panda10st', 'deadman2345', 'Finishers', 'WulfXI', 'ThanosKanos']
+Prasidh Krishna : 5 : ['Mamba24', 'Addy Punters', 'Panda10st', 'deadman2345(C)', 'WulfXI(C)']
 
-Aiden Markram : 4 : ['Pasha(VC)', 'Panda10st(VC)', 'deadman2345(VC)', 'ThanosKanos(C)']
+Jos Buttler : 4 : ['Pasha(VC)', 'Mamba24(C)', 'Addy Punters(C)', 'Black Pearl(VC)']
 
-Ayush Badoni : 2 : ['Mamba24', 'WulfXI']
+Danish Malewar : 2 : ['Mamba24(VC)', 'Finishers(VC)']
 
-Cooper Connolly : 2 : ['Mamba24(C)', 'deadman2345(C)']
+Suryakumar Yadav : 2 : ['Addy Punters(VC)', 'Panda10st(VC)']
 
-Xavier Bartlett : 2 : ['WulfXI(VC)', 'Black Pearl']
+Hardik Pandya : 2 : ['Finishers', 'WulfXI(VC)']
 
-Prabhsimran Singh : 1 : ['Mamba24(VC)']
+Rashid Khan : 1 : ['ThanosKanos(C)']
 
-Nicholas Pooran : 1 : ['Addy Punters(C)']
+Sherfane Rutherford : 1 : ['Black Pearl']
 
-Mukul Choudhary : 1 : ['ThanosKanos(VC)']
-
-Mohammad Shami : 1 : ['Black Pearl(C)']
+Kagiso Rabada : 1 : ['Black Pearl(C)']
 
 --- Matchday Booster Usage Summary ---
 No boosters reported used for this matchday
-Last Updated on 2026-04-20 15:31:19 IST
+Last Updated on 2026-04-20 19:31:17 IST
