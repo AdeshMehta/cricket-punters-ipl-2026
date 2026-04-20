@@ -15,9 +15,9 @@ Cooper Connolly : 2 : ['Mamba24(C)', 'deadman2345(C)']
 
 Xavier Bartlett : 2 : ['WulfXI(VC)', 'Black Pearl']
 
-Nicholas Pooran : 1 : ['Addy Punters(C)']
-
 Prabhsimran Singh : 1 : ['Mamba24(VC)']
+
+Nicholas Pooran : 1 : ['Addy Punters(C)']
 
 Mukul Choudhary : 1 : ['ThanosKanos(VC)']
 
@@ -25,4 +25,4 @@ Mohammad Shami : 1 : ['Black Pearl(C)']
 
 --- Matchday Booster Usage Summary ---
 No boosters reported used for this matchday
-Last Updated on 2026-04-19 19:31:18 IST
+Last Updated on 2026-04-20 15:31:19 IST
