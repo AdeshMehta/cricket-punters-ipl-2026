@@ -1,26 +1,35 @@
-Match 30: GT vs MI: 2026-04-20
+Match 31: SRH vs DC: 2026-04-21
 
 
-Shubman Gill : 7 : ['Pasha(C)', 'Panda10st(C)', 'deadman2345', 'Finishers(C)', 'WulfXI', 'ThanosKanos(VC)', 'Black Pearl']
+Ishan Kishan : 6 : ['Pasha', 'Mamba24(C)', 'Panda10st', 'deadman2345(VC)', 'Finishers(VC)', 'Black Pearl']
 
-Quinton de Kock : 5 : ['Pasha', 'Addy Punters', 'Panda10st', 'deadman2345(VC)', 'ThanosKanos']
+Abhishek Sharma : 4 : ['Pasha(C)', 'Addy Punters', 'deadman2345', 'WulfXI']
 
-Prasidh Krishna : 5 : ['Addy Punters', 'Mamba24', 'Panda10st', 'deadman2345(C)', 'WulfXI(C)']
+Heinrich Klaasen : 4 : ['Addy Punters(C)', 'Panda10st', 'Finishers(C)', 'ThanosKanos(C)']
 
-Jos Buttler : 4 : ['Pasha(VC)', 'Addy Punters(C)', 'Mamba24(C)', 'Black Pearl(VC)']
+KL Rahul : 4 : ['Mamba24', 'Panda10st', 'WulfXI(C)', 'ThanosKanos(VC)']
 
-Suryakumar Yadav : 2 : ['Addy Punters(VC)', 'Panda10st(VC)']
+Praful Hinge : 4 : ['Panda10st', 'deadman2345', 'Finishers', 'Black Pearl']
 
-Danish Malewar : 2 : ['Mamba24(VC)', 'Finishers(VC)']
+Pathum Nissanka : 3 : ['Pasha(VC)', 'Panda10st', 'deadman2345(C)']
 
-Hardik Pandya : 2 : ['Finishers', 'WulfXI(VC)']
+Axar Patel : 3 : ['Mamba24(VC)', 'Panda10st', 'ThanosKanos']
 
-Rashid Khan : 1 : ['ThanosKanos(C)']
+Lungi Ngidi : 3 : ['WulfXI(VC)', 'ThanosKanos', 'Black Pearl(VC)']
 
-Sherfane Rutherford : 1 : ['Black Pearl']
+Nitish Kumar Reddy : 2 : ['Addy Punters(VC)', 'Black Pearl']
 
-Kagiso Rabada : 1 : ['Black Pearl(C)']
+Sakib Hussain : 2 : ['WulfXI', 'ThanosKanos']
+
+Eshan Malinga : 1 : ['Mamba24']
+
+Mukesh Kumar : 1 : ['Panda10st']
+
+Travis Head : 1 : ['Black Pearl(C)']
+
+Sameer Rizvi : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-04-21 15:31:22 IST
+Addy Punters used booster: Triple Captain
+ThanosKanos used booster: Triple Captain
+Last Updated on 2026-04-21 19:31:18 IST
