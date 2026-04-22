@@ -1,35 +1,30 @@
-Match 31: SRH vs DC: 2026-04-21
+Match 32: LSG vs RR: 2026-04-22
 
 
-Ishan Kishan : 6 : ['Pasha', 'Mamba24(C)', 'Panda10st', 'deadman2345(VC)', 'Finishers(VC)', 'Black Pearl']
+Vaibhav Sooryavanshi : 7 : ['Pasha(VC)', 'Addy Punters(C)', 'Mamba24(C)', 'WulfXI', 'ThanosKanos', 'Finishers(C)', 'Black Pearl']
 
-Abhishek Sharma : 4 : ['Pasha(C)', 'Addy Punters', 'deadman2345', 'WulfXI']
+Prince Yadav : 7 : ['Pasha', 'Addy Punters', 'Panda10st', 'deadman2345', 'WulfXI', 'Finishers', 'Black Pearl(C)']
 
-Heinrich Klaasen : 4 : ['Addy Punters(C)', 'Panda10st', 'ThanosKanos(C)', 'Finishers(C)']
+Yashasvi Jaiswal : 5 : ['Pasha(C)', 'Panda10st(C)', 'ThanosKanos', 'Finishers(VC)', 'Black Pearl(VC)']
 
-KL Rahul : 4 : ['Mamba24', 'Panda10st', 'WulfXI(C)', 'ThanosKanos(VC)']
+Aiden Markram : 4 : ['Pasha', 'Panda10st(VC)', 'deadman2345(VC)', 'ThanosKanos(C)']
 
-Praful Hinge : 4 : ['Panda10st', 'deadman2345', 'Finishers', 'Black Pearl']
+Dhruv Jurel : 4 : ['deadman2345(C)', 'WulfXI(C)', 'ThanosKanos(VC)', 'Finishers']
 
-Pathum Nissanka : 3 : ['Pasha(VC)', 'Panda10st', 'deadman2345(C)']
+Ravi Bishnoi : 3 : ['Pasha', 'deadman2345', 'Finishers']
 
-Axar Patel : 3 : ['Mamba24(VC)', 'Panda10st', 'ThanosKanos']
+Jofra Archer : 2 : ['Addy Punters(VC)', 'WulfXI(VC)']
 
-Lungi Ngidi : 3 : ['WulfXI(VC)', 'ThanosKanos', 'Black Pearl(VC)']
+Ayush Badoni : 2 : ['Mamba24', 'WulfXI']
 
-Nitish Kumar Reddy : 2 : ['Addy Punters(VC)', 'Black Pearl']
+Ravindra Jadeja : 2 : ['Mamba24', 'Panda10st']
 
-Sakib Hussain : 2 : ['WulfXI', 'ThanosKanos']
+Mitchell Marsh : 1 : ['Addy Punters']
 
-Eshan Malinga : 1 : ['Mamba24']
+Digvesh Singh : 1 : ['Mamba24(VC)']
 
-Mukesh Kumar : 1 : ['Panda10st']
-
-Travis Head : 1 : ['Black Pearl(C)']
-
-Sameer Rizvi : 1 : ['Black Pearl']
+Riyan Parag : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-Addy Punters used booster: Triple Captain
-ThanosKanos used booster: Triple Captain
-Last Updated on 2026-04-22 15:31:22 IST
+No boosters reported used for this matchday
+Last Updated on 2026-04-22 19:31:16 IST
