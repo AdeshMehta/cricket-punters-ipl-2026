@@ -5,7 +5,7 @@ Ishan Kishan : 6 : ['Pasha', 'Mamba24(C)', 'Panda10st', 'deadman2345(VC)', 'Fini
 
 Abhishek Sharma : 4 : ['Pasha(C)', 'Addy Punters', 'deadman2345', 'WulfXI']
 
-Heinrich Klaasen : 4 : ['Addy Punters(C)', 'Panda10st', 'Finishers(C)', 'ThanosKanos(C)']
+Heinrich Klaasen : 4 : ['Addy Punters(C)', 'Panda10st', 'ThanosKanos(C)', 'Finishers(C)']
 
 KL Rahul : 4 : ['Mamba24', 'Panda10st', 'WulfXI(C)', 'ThanosKanos(VC)']
 
@@ -32,4 +32,4 @@ Sameer Rizvi : 1 : ['Black Pearl']
 --- Matchday Booster Usage Summary ---
 Addy Punters used booster: Triple Captain
 ThanosKanos used booster: Triple Captain
-Last Updated on 2026-04-21 19:31:18 IST
+Last Updated on 2026-04-22 15:31:22 IST
