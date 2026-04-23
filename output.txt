@@ -1,30 +1,40 @@
-Match 32: LSG vs RR: 2026-04-22
+Match 33: MI vs CSK: 2026-04-23
 
 
-Vaibhav Sooryavanshi : 7 : ['Addy Punters(C)', 'Pasha(VC)', 'Mamba24(C)', 'WulfXI', 'Finishers(C)', 'ThanosKanos', 'Black Pearl']
+Quinton de Kock : 6 : ['Addy Punters', 'Pasha(C)', 'Panda10st(C)', 'deadman2345(C)', 'WulfXI', 'ThanosKanos']
 
-Prince Yadav : 7 : ['Addy Punters', 'Pasha', 'Panda10st', 'deadman2345', 'WulfXI', 'Finishers', 'Black Pearl(C)']
+Suryakumar Yadav : 5 : ['Addy Punters(C)', 'Mamba24(VC)', 'Panda10st', 'WulfXI(VC)', 'ThanosKanos(C)']
 
-Yashasvi Jaiswal : 5 : ['Pasha(C)', 'Panda10st(C)', 'Finishers(VC)', 'ThanosKanos', 'Black Pearl(VC)']
+Jamie Overton : 5 : ['Panda10st', 'deadman2345', 'WulfXI', 'Finishers(VC)', 'ThanosKanos(VC)']
 
-Aiden Markram : 4 : ['Pasha', 'Panda10st(VC)', 'deadman2345(VC)', 'ThanosKanos(C)']
+Anshul Kamboj : 5 : ['Panda10st(VC)', 'WulfXI', 'Finishers', 'ThanosKanos', 'Black Pearl']
 
-Dhruv Jurel : 4 : ['deadman2345(C)', 'WulfXI(C)', 'Finishers', 'ThanosKanos(VC)']
+Sanju Samson : 4 : ['Pasha(VC)', 'Mamba24', 'Finishers(C)', 'Black Pearl(VC)']
 
-Ravi Bishnoi : 3 : ['Pasha', 'deadman2345', 'Finishers']
+Naman Dhir : 3 : ['Mamba24', 'WulfXI', 'Black Pearl(C)']
 
-Jofra Archer : 2 : ['Addy Punters(VC)', 'WulfXI(VC)']
+Ruturaj Gaikwad : 2 : ['deadman2345(VC)', 'WulfXI']
 
-Ayush Badoni : 2 : ['Mamba24', 'WulfXI']
+Hardik Pandya : 2 : ['WulfXI', 'Finishers']
 
-Ravindra Jadeja : 2 : ['Mamba24', 'Panda10st']
+Sarfaraz Khan : 1 : ['Addy Punters']
 
-Mitchell Marsh : 1 : ['Addy Punters']
+Jasprit Bumrah : 1 : ['Addy Punters(VC)']
 
-Digvesh Singh : 1 : ['Mamba24(VC)']
+Dewald Brevis : 1 : ['Mamba24(C)']
 
-Riyan Parag : 1 : ['Black Pearl']
+Ashwani Kumar : 1 : ['deadman2345']
+
+Tilak Varma : 1 : ['WulfXI']
+
+Shivam Dube : 1 : ['WulfXI(C)']
+
+AM Ghazanfar : 1 : ['WulfXI']
+
+Noor Ahmad : 1 : ['WulfXI']
+
+Danish Malewar : 1 : ['Finishers']
 
 --- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-04-23 15:31:21 IST
+WulfXI used booster: Free Hit
+Last Updated on 2026-04-23 19:31:20 IST
