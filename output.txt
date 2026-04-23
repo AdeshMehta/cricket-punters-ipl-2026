@@ -1,15 +1,15 @@
 Match 32: LSG vs RR: 2026-04-22
 
 
-Vaibhav Sooryavanshi : 7 : ['Pasha(VC)', 'Addy Punters(C)', 'Mamba24(C)', 'WulfXI', 'ThanosKanos', 'Finishers(C)', 'Black Pearl']
+Vaibhav Sooryavanshi : 7 : ['Addy Punters(C)', 'Pasha(VC)', 'Mamba24(C)', 'WulfXI', 'Finishers(C)', 'ThanosKanos', 'Black Pearl']
 
-Prince Yadav : 7 : ['Pasha', 'Addy Punters', 'Panda10st', 'deadman2345', 'WulfXI', 'Finishers', 'Black Pearl(C)']
+Prince Yadav : 7 : ['Addy Punters', 'Pasha', 'Panda10st', 'deadman2345', 'WulfXI', 'Finishers', 'Black Pearl(C)']
 
-Yashasvi Jaiswal : 5 : ['Pasha(C)', 'Panda10st(C)', 'ThanosKanos', 'Finishers(VC)', 'Black Pearl(VC)']
+Yashasvi Jaiswal : 5 : ['Pasha(C)', 'Panda10st(C)', 'Finishers(VC)', 'ThanosKanos', 'Black Pearl(VC)']
 
 Aiden Markram : 4 : ['Pasha', 'Panda10st(VC)', 'deadman2345(VC)', 'ThanosKanos(C)']
 
-Dhruv Jurel : 4 : ['deadman2345(C)', 'WulfXI(C)', 'ThanosKanos(VC)', 'Finishers']
+Dhruv Jurel : 4 : ['deadman2345(C)', 'WulfXI(C)', 'Finishers', 'ThanosKanos(VC)']
 
 Ravi Bishnoi : 3 : ['Pasha', 'deadman2345', 'Finishers']
 
@@ -27,4 +27,4 @@ Riyan Parag : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
 No boosters reported used for this matchday
-Last Updated on 2026-04-22 19:31:16 IST
+Last Updated on 2026-04-23 15:31:21 IST
