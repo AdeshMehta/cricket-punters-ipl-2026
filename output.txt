@@ -1,40 +1,28 @@
-Match 33: MI vs CSK: 2026-04-23
+Match 34: RCB vs GT: 2026-04-24
 
 
-Quinton de Kock : 6 : ['Pasha(C)', 'Addy Punters', 'Panda10st(C)', 'WulfXI', 'deadman2345(C)', 'ThanosKanos']
+Shubman Gill : 7 : ['Pasha(VC)', 'Panda10st(C)', 'WulfXI', 'deadman2345(VC)', 'Finishers', 'Black Pearl', 'ThanosKanos']
 
-Suryakumar Yadav : 5 : ['Addy Punters(C)', 'Mamba24(VC)', 'Panda10st', 'WulfXI(VC)', 'ThanosKanos(C)']
+Rajat Patidar : 6 : ['Addy Punters(VC)', 'Mamba24(VC)', 'Panda10st', 'WulfXI(C)', 'deadman2345(C)', 'ThanosKanos(C)']
 
-Jamie Overton : 5 : ['Panda10st', 'WulfXI', 'deadman2345', 'Finishers(VC)', 'ThanosKanos(VC)']
+Prasidh Krishna : 5 : ['Addy Punters', 'Mamba24', 'Panda10st', 'WulfXI(VC)', 'deadman2345']
 
-Anshul Kamboj : 5 : ['Panda10st(VC)', 'WulfXI', 'Finishers', 'Black Pearl', 'ThanosKanos']
+Virat Kohli : 4 : ['Pasha(C)', 'Addy Punters(C)', 'Mamba24(C)', 'Finishers(VC)']
 
-Sanju Samson : 4 : ['Pasha(VC)', 'Mamba24', 'Finishers(C)', 'Black Pearl(VC)']
+Krunal Pandya : 4 : ['Mamba24', 'Panda10st(VC)', 'WulfXI', 'Black Pearl(C)']
 
-Naman Dhir : 3 : ['Mamba24', 'WulfXI', 'Black Pearl(C)']
+Kagiso Rabada : 3 : ['Finishers', 'Black Pearl', 'ThanosKanos(VC)']
 
-Ruturaj Gaikwad : 2 : ['WulfXI', 'deadman2345(VC)']
+Jos Buttler : 2 : ['Black Pearl(VC)', 'ThanosKanos']
 
-Hardik Pandya : 2 : ['WulfXI', 'Finishers']
+Rasikh Salam : 1 : ['Pasha']
 
-Sarfaraz Khan : 1 : ['Addy Punters']
+Jacob Bethell : 1 : ['Addy Punters']
 
-Jasprit Bumrah : 1 : ['Addy Punters(VC)']
+Josh Hazlewood : 1 : ['deadman2345']
 
-Dewald Brevis : 1 : ['Mamba24(C)']
-
-Tilak Varma : 1 : ['WulfXI']
-
-Shivam Dube : 1 : ['WulfXI(C)']
-
-AM Ghazanfar : 1 : ['WulfXI']
-
-Noor Ahmad : 1 : ['WulfXI']
-
-Ashwani Kumar : 1 : ['deadman2345']
-
-Danish Malewar : 1 : ['Finishers']
+Bhuvneshwar Kumar : 1 : ['Finishers(C)']
 
 --- Matchday Booster Usage Summary ---
-WulfXI used booster: Free Hit
-Last Updated on 2026-04-24 15:31:19 IST
+Finishers used booster: Triple Captain
+Last Updated on 2026-04-24 19:31:21 IST
