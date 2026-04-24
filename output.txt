@@ -1,19 +1,19 @@
 Match 33: MI vs CSK: 2026-04-23
 
 
-Quinton de Kock : 6 : ['Addy Punters', 'Pasha(C)', 'Panda10st(C)', 'deadman2345(C)', 'WulfXI', 'ThanosKanos']
+Quinton de Kock : 6 : ['Pasha(C)', 'Addy Punters', 'Panda10st(C)', 'WulfXI', 'deadman2345(C)', 'ThanosKanos']
 
 Suryakumar Yadav : 5 : ['Addy Punters(C)', 'Mamba24(VC)', 'Panda10st', 'WulfXI(VC)', 'ThanosKanos(C)']
 
-Jamie Overton : 5 : ['Panda10st', 'deadman2345', 'WulfXI', 'Finishers(VC)', 'ThanosKanos(VC)']
+Jamie Overton : 5 : ['Panda10st', 'WulfXI', 'deadman2345', 'Finishers(VC)', 'ThanosKanos(VC)']
 
-Anshul Kamboj : 5 : ['Panda10st(VC)', 'WulfXI', 'Finishers', 'ThanosKanos', 'Black Pearl']
+Anshul Kamboj : 5 : ['Panda10st(VC)', 'WulfXI', 'Finishers', 'Black Pearl', 'ThanosKanos']
 
 Sanju Samson : 4 : ['Pasha(VC)', 'Mamba24', 'Finishers(C)', 'Black Pearl(VC)']
 
 Naman Dhir : 3 : ['Mamba24', 'WulfXI', 'Black Pearl(C)']
 
-Ruturaj Gaikwad : 2 : ['deadman2345(VC)', 'WulfXI']
+Ruturaj Gaikwad : 2 : ['WulfXI', 'deadman2345(VC)']
 
 Hardik Pandya : 2 : ['WulfXI', 'Finishers']
 
@@ -23,8 +23,6 @@ Jasprit Bumrah : 1 : ['Addy Punters(VC)']
 
 Dewald Brevis : 1 : ['Mamba24(C)']
 
-Ashwani Kumar : 1 : ['deadman2345']
-
 Tilak Varma : 1 : ['WulfXI']
 
 Shivam Dube : 1 : ['WulfXI(C)']
@@ -33,8 +31,10 @@ AM Ghazanfar : 1 : ['WulfXI']
 
 Noor Ahmad : 1 : ['WulfXI']
 
+Ashwani Kumar : 1 : ['deadman2345']
+
 Danish Malewar : 1 : ['Finishers']
 
 --- Matchday Booster Usage Summary ---
 WulfXI used booster: Free Hit
-Last Updated on 2026-04-23 19:31:20 IST
+Last Updated on 2026-04-24 15:31:19 IST
