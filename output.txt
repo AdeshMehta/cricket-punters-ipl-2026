@@ -1,30 +1,40 @@
-Match 35: DC vs PBKS: 2026-04-25
+Match 36: RR vs SRH: 2026-04-25
 
 
-KL Rahul : 6 : ['Addy Punters(C)', 'Finishers(C)', 'WulfXI', 'deadman2345(C)', 'Black Pearl(VC)', 'ThanosKanos']
+Yashasvi Jaiswal : 6 : ['Addy Punters', 'Pasha(VC)', 'Mamba24', 'Panda10st(C)', 'Finishers', 'ThanosKanos']
 
-Shreyas Iyer : 4 : ['Pasha(VC)', 'Addy Punters', 'Panda10st(C)', 'ThanosKanos(VC)']
+Vaibhav Sooryavanshi : 6 : ['Addy Punters(C)', 'Pasha(C)', 'Mamba24(C)', 'Finishers', 'WulfXI(C)', 'Black Pearl']
 
-Pathum Nissanka : 4 : ['Pasha(C)', 'Mamba24(C)', 'Panda10st', 'deadman2345']
+Heinrich Klaasen : 5 : ['Addy Punters(VC)', 'Mamba24', 'Panda10st(VC)', 'Finishers(VC)', 'ThanosKanos(C)']
 
-Prabhsimran Singh : 3 : ['Addy Punters(VC)', 'Mamba24(VC)', 'WulfXI(C)']
+Dhruv Jurel : 5 : ['Pasha', 'Mamba24', 'deadman2345', 'WulfXI', 'ThanosKanos(VC)']
 
-Axar Patel : 3 : ['Mamba24', 'Panda10st(VC)', 'ThanosKanos(C)']
+Jofra Archer : 4 : ['Addy Punters', 'Mamba24', 'WulfXI(VC)', 'ThanosKanos']
 
-Cooper Connolly : 2 : ['Panda10st', 'Black Pearl(C)']
+Riyan Parag : 4 : ['Pasha', 'Mamba24', 'deadman2345(C)', 'Black Pearl']
 
-Priyansh Arya : 2 : ['Finishers(VC)', 'deadman2345']
+Sakib Hussain : 4 : ['Pasha', 'Mamba24', 'WulfXI', 'ThanosKanos']
 
-Lungi Ngidi : 2 : ['WulfXI(VC)', 'Black Pearl']
+Ishan Kishan : 3 : ['Pasha', 'Mamba24(VC)', 'deadman2345(VC)']
 
-Mukesh Kumar : 1 : ['Panda10st']
+Abhishek Sharma : 3 : ['Pasha', 'Mamba24', 'Finishers(C)']
 
-Marco Jansen : 1 : ['WulfXI']
+Ravi Bishnoi : 3 : ['Pasha', 'deadman2345', 'Finishers']
 
-Kuldeep Yadav : 1 : ['deadman2345(VC)']
+Travis Head : 3 : ['Mamba24', 'WulfXI', 'Black Pearl']
 
-Sameer Rizvi : 1 : ['Black Pearl']
+Praful Hinge : 2 : ['Pasha', 'Finishers']
+
+Nitish Kumar Reddy : 1 : ['Pasha']
+
+Pat Cummins : 1 : ['Mamba24']
+
+Ravindra Jadeja : 1 : ['Panda10st']
+
+Eshan Malinga : 1 : ['Panda10st']
 
 --- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-04-25 15:31:17 IST
+Pasha used booster: Indian Warriors
+Mamba24 used booster: Free Hit
+WulfXI used booster: Triple Captain
+Last Updated on 2026-04-25 19:31:18 IST
