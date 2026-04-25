@@ -1,28 +1,30 @@
-Match 34: RCB vs GT: 2026-04-24
+Match 35: DC vs PBKS: 2026-04-25
 
 
-Shubman Gill : 7 : ['Pasha(VC)', 'Panda10st(C)', 'WulfXI', 'deadman2345(VC)', 'Finishers', 'Black Pearl', 'ThanosKanos']
+KL Rahul : 6 : ['Addy Punters(C)', 'Finishers(C)', 'WulfXI', 'deadman2345(C)', 'Black Pearl(VC)', 'ThanosKanos']
 
-Rajat Patidar : 6 : ['Addy Punters(VC)', 'Mamba24(VC)', 'Panda10st', 'WulfXI(C)', 'deadman2345(C)', 'ThanosKanos(C)']
+Shreyas Iyer : 4 : ['Pasha(VC)', 'Addy Punters', 'Panda10st(C)', 'ThanosKanos(VC)']
 
-Prasidh Krishna : 5 : ['Addy Punters', 'Mamba24', 'Panda10st', 'WulfXI(VC)', 'deadman2345']
+Pathum Nissanka : 4 : ['Pasha(C)', 'Mamba24(C)', 'Panda10st', 'deadman2345']
 
-Virat Kohli : 4 : ['Pasha(C)', 'Addy Punters(C)', 'Mamba24(C)', 'Finishers(VC)']
+Prabhsimran Singh : 3 : ['Addy Punters(VC)', 'Mamba24(VC)', 'WulfXI(C)']
 
-Krunal Pandya : 4 : ['Mamba24', 'Panda10st(VC)', 'WulfXI', 'Black Pearl(C)']
+Axar Patel : 3 : ['Mamba24', 'Panda10st(VC)', 'ThanosKanos(C)']
 
-Kagiso Rabada : 3 : ['Finishers', 'Black Pearl', 'ThanosKanos(VC)']
+Cooper Connolly : 2 : ['Panda10st', 'Black Pearl(C)']
 
-Jos Buttler : 2 : ['Black Pearl(VC)', 'ThanosKanos']
+Priyansh Arya : 2 : ['Finishers(VC)', 'deadman2345']
 
-Rasikh Salam : 1 : ['Pasha']
+Lungi Ngidi : 2 : ['WulfXI(VC)', 'Black Pearl']
 
-Jacob Bethell : 1 : ['Addy Punters']
+Mukesh Kumar : 1 : ['Panda10st']
 
-Josh Hazlewood : 1 : ['deadman2345']
+Marco Jansen : 1 : ['WulfXI']
 
-Bhuvneshwar Kumar : 1 : ['Finishers(C)']
+Kuldeep Yadav : 1 : ['deadman2345(VC)']
+
+Sameer Rizvi : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-Finishers used booster: Triple Captain
-Last Updated on 2026-04-24 19:31:21 IST
+No boosters reported used for this matchday
+Last Updated on 2026-04-25 15:31:17 IST
