@@ -1,40 +1,36 @@
-Match 36: RR vs SRH: 2026-04-25
+Match 37: CSK vs GT: 2026-04-26
 
 
-Yashasvi Jaiswal : 6 : ['Addy Punters', 'Pasha(VC)', 'Mamba24', 'Panda10st(C)', 'Finishers', 'ThanosKanos']
+Shubman Gill : 7 : ['Pasha(C)', 'Panda10st(VC)', 'WulfXI(C)', 'Finishers(C)', 'deadman2345(C)', 'ThanosKanos', 'Black Pearl']
 
-Vaibhav Sooryavanshi : 6 : ['Addy Punters(C)', 'Pasha(C)', 'Mamba24(C)', 'Finishers', 'WulfXI(C)', 'Black Pearl']
+Sanju Samson : 6 : ['Pasha(VC)', 'Mamba24(C)', 'Panda10st(C)', 'Finishers(VC)', 'ThanosKanos', 'Black Pearl']
 
-Heinrich Klaasen : 5 : ['Addy Punters(VC)', 'Mamba24', 'Panda10st(VC)', 'Finishers(VC)', 'ThanosKanos(C)']
+Anshul Kamboj : 3 : ['Panda10st', 'ThanosKanos', 'Black Pearl']
 
-Dhruv Jurel : 5 : ['Pasha', 'Mamba24', 'deadman2345', 'WulfXI', 'ThanosKanos(VC)']
+Jamie Overton : 3 : ['Finishers', 'deadman2345', 'ThanosKanos(C)']
 
-Jofra Archer : 4 : ['Addy Punters', 'Mamba24', 'WulfXI(VC)', 'ThanosKanos']
+Kagiso Rabada : 3 : ['Finishers', 'ThanosKanos(VC)', 'Black Pearl']
 
-Riyan Parag : 4 : ['Pasha', 'Mamba24', 'deadman2345(C)', 'Black Pearl']
+Jos Buttler : 2 : ['Pasha', 'Finishers']
 
-Sakib Hussain : 4 : ['Pasha', 'Mamba24', 'WulfXI', 'ThanosKanos']
+Urvil Patel : 2 : ['Addy Punters(VC)', 'WulfXI(VC)']
 
-Ishan Kishan : 3 : ['Pasha', 'Mamba24(VC)', 'deadman2345(VC)']
+Rashid Khan : 2 : ['Addy Punters', 'Mamba24']
 
-Abhishek Sharma : 3 : ['Pasha', 'Mamba24', 'Finishers(C)']
+Akeal Hosein : 2 : ['WulfXI', 'deadman2345']
 
-Ravi Bishnoi : 3 : ['Pasha', 'deadman2345', 'Finishers']
+Noor Ahmad : 1 : ['Addy Punters(C)']
 
-Travis Head : 3 : ['Mamba24', 'WulfXI', 'Black Pearl']
+Sai Sudharsan : 1 : ['Mamba24(VC)']
 
-Praful Hinge : 2 : ['Pasha', 'Finishers']
+Dewald Brevis : 1 : ['Mamba24']
 
-Nitish Kumar Reddy : 1 : ['Pasha']
+Prasidh Krishna : 1 : ['Panda10st']
 
-Pat Cummins : 1 : ['Mamba24']
+Mohammed Siraj : 1 : ['WulfXI']
 
-Ravindra Jadeja : 1 : ['Panda10st']
-
-Eshan Malinga : 1 : ['Panda10st']
+Ruturaj Gaikwad : 1 : ['deadman2345(VC)']
 
 --- Matchday Booster Usage Summary ---
-Pasha used booster: Indian Warriors
-Mamba24 used booster: Free Hit
-WulfXI used booster: Triple Captain
-Last Updated on 2026-04-25 19:31:18 IST
+No boosters reported used for this matchday
+Last Updated on 2026-04-26 15:31:16 IST
