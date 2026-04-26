@@ -1,36 +1,30 @@
-Match 37: CSK vs GT: 2026-04-26
+Match 38: LSG vs KKR: 2026-04-26
 
 
-Shubman Gill : 7 : ['Pasha(C)', 'Panda10st(VC)', 'WulfXI(C)', 'Finishers(C)', 'deadman2345(C)', 'ThanosKanos', 'Black Pearl']
+Cameron Green : 6 : ['Pasha(C)', 'Addy Punters(C)', 'Mamba24(C)', 'Panda10st', 'deadman2345(C)', 'ThanosKanos(C)']
 
-Sanju Samson : 6 : ['Pasha(VC)', 'Mamba24(C)', 'Panda10st(C)', 'Finishers(VC)', 'ThanosKanos', 'Black Pearl']
+Prince Yadav : 6 : ['Addy Punters', 'Panda10st', 'Finishers(VC)', 'WulfXI', 'deadman2345(VC)', 'Black Pearl']
 
-Anshul Kamboj : 3 : ['Panda10st', 'ThanosKanos', 'Black Pearl']
+Mitchell Marsh : 4 : ['Addy Punters', 'Panda10st(C)', 'Finishers(C)', 'WulfXI(C)']
 
-Jamie Overton : 3 : ['Finishers', 'deadman2345', 'ThanosKanos(C)']
+Rishabh Pant : 3 : ['Addy Punters(VC)', 'ThanosKanos(VC)', 'Black Pearl(VC)']
 
-Kagiso Rabada : 3 : ['Finishers', 'ThanosKanos(VC)', 'Black Pearl']
+Aiden Markram : 2 : ['Pasha(VC)', 'Panda10st']
 
-Jos Buttler : 2 : ['Pasha', 'Finishers']
+Ajinkya Rahane : 2 : ['WulfXI(VC)', 'deadman2345']
 
-Urvil Patel : 2 : ['Addy Punters(VC)', 'WulfXI(VC)']
+Angkrish Raghuvanshi : 1 : ['Pasha']
 
-Rashid Khan : 2 : ['Addy Punters', 'Mamba24']
+Mohsin Khan : 1 : ['Mamba24(VC)']
 
-Akeal Hosein : 2 : ['WulfXI', 'deadman2345']
+Kartik Tyagi : 1 : ['Mamba24']
 
-Noor Ahmad : 1 : ['Addy Punters(C)']
+Sunil Narine : 1 : ['Panda10st(VC)']
 
-Sai Sudharsan : 1 : ['Mamba24(VC)']
+Ayush Badoni : 1 : ['WulfXI']
 
-Dewald Brevis : 1 : ['Mamba24']
-
-Prasidh Krishna : 1 : ['Panda10st']
-
-Mohammed Siraj : 1 : ['WulfXI']
-
-Ruturaj Gaikwad : 1 : ['deadman2345(VC)']
+Varun Chakaravarthy : 1 : ['Black Pearl(C)']
 
 --- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-04-26 15:31:16 IST
+Panda10st used booster: Foreign Stars
+Last Updated on 2026-04-26 19:31:16 IST
