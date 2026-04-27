@@ -1,30 +1,33 @@
-Match 38: LSG vs KKR: 2026-04-26
+Match 39: DC vs RCB: 2026-04-27
 
 
-Cameron Green : 6 : ['Pasha(C)', 'Mamba24(C)', 'Addy Punters(C)', 'Panda10st', 'deadman2345(C)', 'ThanosKanos(C)']
+KL Rahul : 8 : ['Pasha(VC)', 'Addy Punters', 'Panda10st(VC)', 'WulfXI(VC)', 'Finishers(VC)', 'deadman2345', 'ThanosKanos(C)', 'Black Pearl']
 
-Prince Yadav : 6 : ['Addy Punters', 'Panda10st', 'WulfXI', 'Finishers(VC)', 'deadman2345(VC)', 'Black Pearl']
+Virat Kohli : 6 : ['Pasha(C)', 'Mamba24(C)', 'Panda10st(C)', 'WulfXI(C)', 'Finishers(C)', 'ThanosKanos(VC)']
 
-Mitchell Marsh : 4 : ['Addy Punters', 'Panda10st(C)', 'WulfXI(C)', 'Finishers(C)']
+Rajat Patidar : 6 : ['Mamba24(VC)', 'Addy Punters(C)', 'WulfXI', 'Finishers', 'deadman2345(C)', 'ThanosKanos']
 
-Rishabh Pant : 3 : ['Addy Punters(VC)', 'ThanosKanos(VC)', 'Black Pearl(VC)']
+Axar Patel : 3 : ['Mamba24', 'Panda10st', 'deadman2345(VC)']
 
-Aiden Markram : 2 : ['Pasha(VC)', 'Panda10st']
+Nitish Rana : 2 : ['Addy Punters(VC)', 'Panda10st']
 
-Ajinkya Rahane : 2 : ['WulfXI(VC)', 'deadman2345']
+Lungi Ngidi : 2 : ['WulfXI', 'Black Pearl']
 
-Angkrish Raghuvanshi : 1 : ['Pasha']
+Phil Salt : 1 : ['Pasha']
 
-Mohsin Khan : 1 : ['Mamba24(VC)']
+Pathum Nissanka : 1 : ['Pasha']
 
-Kartik Tyagi : 1 : ['Mamba24']
+Devdutt Padikkal : 1 : ['Panda10st']
 
-Sunil Narine : 1 : ['Panda10st(VC)']
+Mukesh Kumar : 1 : ['Panda10st']
 
-Ayush Badoni : 1 : ['WulfXI']
+Suyash Sharma : 1 : ['WulfXI']
 
-Varun Chakaravarthy : 1 : ['Black Pearl(C)']
+Kuldeep Yadav : 1 : ['deadman2345']
+
+Sameer Rizvi : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-Panda10st used booster: Foreign Stars
-Last Updated on 2026-04-27 15:31:23 IST
+Mamba24 used booster: Triple Captain
+Panda10st used booster: Triple Captain
+Last Updated on 2026-04-27 19:31:27 IST
