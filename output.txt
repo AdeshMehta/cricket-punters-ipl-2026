@@ -1,11 +1,11 @@
 Match 38: LSG vs KKR: 2026-04-26
 
 
-Cameron Green : 6 : ['Pasha(C)', 'Addy Punters(C)', 'Mamba24(C)', 'Panda10st', 'deadman2345(C)', 'ThanosKanos(C)']
+Cameron Green : 6 : ['Pasha(C)', 'Mamba24(C)', 'Addy Punters(C)', 'Panda10st', 'deadman2345(C)', 'ThanosKanos(C)']
 
-Prince Yadav : 6 : ['Addy Punters', 'Panda10st', 'Finishers(VC)', 'WulfXI', 'deadman2345(VC)', 'Black Pearl']
+Prince Yadav : 6 : ['Addy Punters', 'Panda10st', 'WulfXI', 'Finishers(VC)', 'deadman2345(VC)', 'Black Pearl']
 
-Mitchell Marsh : 4 : ['Addy Punters', 'Panda10st(C)', 'Finishers(C)', 'WulfXI(C)']
+Mitchell Marsh : 4 : ['Addy Punters', 'Panda10st(C)', 'WulfXI(C)', 'Finishers(C)']
 
 Rishabh Pant : 3 : ['Addy Punters(VC)', 'ThanosKanos(VC)', 'Black Pearl(VC)']
 
@@ -27,4 +27,4 @@ Varun Chakaravarthy : 1 : ['Black Pearl(C)']
 
 --- Matchday Booster Usage Summary ---
 Panda10st used booster: Foreign Stars
-Last Updated on 2026-04-26 19:31:16 IST
+Last Updated on 2026-04-27 15:31:23 IST
