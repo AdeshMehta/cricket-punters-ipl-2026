@@ -1,33 +1,43 @@
-Match 39: DC vs RCB: 2026-04-27
+Match 40: PBKS vs RR: 2026-04-28
 
 
-KL Rahul : 8 : ['Pasha(VC)', 'Addy Punters', 'Panda10st(VC)', 'WulfXI(VC)', 'Finishers(VC)', 'deadman2345', 'ThanosKanos(C)', 'Black Pearl']
+Vaibhav Sooryavanshi : 7 : ['Pasha(C)', 'Mamba24', 'Addy Punters(VC)', 'Panda10st', 'WulfXI(VC)', 'Finishers(VC)', 'Black Pearl(C)']
 
-Virat Kohli : 6 : ['Pasha(C)', 'Mamba24(C)', 'Panda10st(C)', 'WulfXI(C)', 'Finishers(C)', 'ThanosKanos(VC)']
+Yashasvi Jaiswal : 7 : ['Pasha', 'Mamba24(C)', 'Addy Punters', 'Panda10st', 'Finishers', 'deadman2345(C)', 'ThanosKanos']
 
-Rajat Patidar : 6 : ['Mamba24(VC)', 'Addy Punters(C)', 'WulfXI', 'Finishers', 'deadman2345(C)', 'ThanosKanos']
+Prabhsimran Singh : 5 : ['Mamba24', 'Addy Punters', 'WulfXI', 'Finishers(C)', 'deadman2345']
 
-Axar Patel : 3 : ['Mamba24', 'Panda10st', 'deadman2345(VC)']
+Shreyas Iyer : 5 : ['Mamba24(VC)', 'Addy Punters(C)', 'Panda10st(C)', 'ThanosKanos', 'Black Pearl(VC)']
 
-Nitish Rana : 2 : ['Addy Punters(VC)', 'Panda10st']
+Dhruv Jurel : 4 : ['Addy Punters', 'WulfXI', 'deadman2345', 'ThanosKanos(C)']
 
-Lungi Ngidi : 2 : ['WulfXI', 'Black Pearl']
+Jofra Archer : 4 : ['Addy Punters', 'Panda10st(VC)', 'WulfXI', 'ThanosKanos']
 
-Phil Salt : 1 : ['Pasha']
+Cooper Connolly : 3 : ['Pasha(VC)', 'WulfXI(C)', 'Black Pearl']
 
-Pathum Nissanka : 1 : ['Pasha']
+Ravi Bishnoi : 3 : ['Pasha', 'Finishers', 'deadman2345']
 
-Devdutt Padikkal : 1 : ['Panda10st']
+Suryansh Shedge : 2 : ['Addy Punters', 'Black Pearl']
 
-Mukesh Kumar : 1 : ['Panda10st']
+Lockie Ferguson : 2 : ['WulfXI', 'ThanosKanos(VC)']
 
-Suyash Sharma : 1 : ['WulfXI']
+Priyansh Arya : 1 : ['Addy Punters']
 
-Kuldeep Yadav : 1 : ['deadman2345']
+Ravindra Jadeja : 1 : ['Addy Punters']
 
-Sameer Rizvi : 1 : ['Black Pearl']
+Yash Punja : 1 : ['Addy Punters']
+
+Brijesh Sharma : 1 : ['Addy Punters']
+
+Marco Jansen : 1 : ['WulfXI']
+
+Riyan Parag : 1 : ['deadman2345(VC)']
+
+Nandre Burger : 1 : ['deadman2345']
+
+Arshdeep Singh : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-Mamba24 used booster: Triple Captain
-Panda10st used booster: Triple Captain
-Last Updated on 2026-04-28 15:31:19 IST
+Addy Punters used booster: Indian Warriors
+Black Pearl used booster: Triple Captain
+Last Updated on 2026-04-28 19:31:29 IST
