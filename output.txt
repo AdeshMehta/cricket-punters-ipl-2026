@@ -1,43 +1,35 @@
-Match 40: PBKS vs RR: 2026-04-28
+Match 41: MI vs SRH: 2026-04-29
 
 
-Vaibhav Sooryavanshi : 7 : ['Pasha(C)', 'Addy Punters(VC)', 'Mamba24', 'Panda10st', 'WulfXI(VC)', 'Finishers(VC)', 'Black Pearl(C)']
+Will Jacks : 5 : ['Pasha', 'Panda10st(VC)', 'WulfXI', 'deadman2345(C)', 'ThanosKanos(C)']
 
-Yashasvi Jaiswal : 7 : ['Pasha', 'Addy Punters', 'Mamba24(C)', 'Panda10st', 'Finishers', 'deadman2345(C)', 'ThanosKanos']
+Heinrich Klaasen : 4 : ['Addy Punters(VC)', 'Mamba24', 'Panda10st(C)', 'WulfXI(VC)']
 
-Prabhsimran Singh : 5 : ['Addy Punters', 'Mamba24', 'WulfXI', 'Finishers(C)', 'deadman2345']
+Ishan Kishan : 3 : ['Pasha', 'Finishers(C)', 'deadman2345(VC)']
 
-Shreyas Iyer : 5 : ['Addy Punters(C)', 'Mamba24(VC)', 'Panda10st(C)', 'ThanosKanos', 'Black Pearl(VC)']
+Ryan Rickelton : 3 : ['Pasha(C)', 'Mamba24(VC)', 'WulfXI(C)']
 
-Dhruv Jurel : 4 : ['Addy Punters', 'WulfXI', 'deadman2345', 'ThanosKanos(C)']
+Abhishek Sharma : 3 : ['Pasha(VC)', 'Finishers(VC)', 'Black Pearl']
 
-Jofra Archer : 4 : ['Addy Punters', 'Panda10st(VC)', 'WulfXI', 'ThanosKanos']
+Sakib Hussain : 3 : ['Pasha', 'ThanosKanos', 'Black Pearl']
 
-Cooper Connolly : 3 : ['Pasha(VC)', 'WulfXI(C)', 'Black Pearl']
+Eshan Malinga : 3 : ['Mamba24', 'Panda10st', 'WulfXI']
 
-Ravi Bishnoi : 3 : ['Pasha', 'Finishers', 'deadman2345']
+AM Ghazanfar : 3 : ['Finishers', 'deadman2345', 'Black Pearl(VC)']
 
-Suryansh Shedge : 2 : ['Addy Punters', 'Black Pearl']
+Praful Hinge : 2 : ['Pasha', 'Finishers']
 
-Lockie Ferguson : 2 : ['WulfXI', 'ThanosKanos(VC)']
+Travis Head : 2 : ['Mamba24(C)', 'Black Pearl(C)']
 
-Priyansh Arya : 1 : ['Addy Punters']
+Tilak Varma : 1 : ['Addy Punters(C)']
 
-Ravindra Jadeja : 1 : ['Addy Punters']
+Nitish Kumar Reddy : 1 : ['Addy Punters']
 
-Yash Punja : 1 : ['Addy Punters']
+Naman Dhir : 1 : ['Mamba24']
 
-Brijesh Sharma : 1 : ['Addy Punters']
-
-Marco Jansen : 1 : ['WulfXI']
-
-Riyan Parag : 1 : ['deadman2345(VC)']
-
-Nandre Burger : 1 : ['deadman2345']
-
-Arshdeep Singh : 1 : ['Black Pearl']
+Harsh Dubey : 1 : ['ThanosKanos(VC)']
 
 --- Matchday Booster Usage Summary ---
-Addy Punters used booster: Indian Warriors
-Black Pearl used booster: Triple Captain
-Last Updated on 2026-04-29 15:31:38 IST
+Mamba24 used booster: Foreign Stars
+WulfXI used booster: Foreign Stars
+Last Updated on 2026-04-29 19:31:25 IST
