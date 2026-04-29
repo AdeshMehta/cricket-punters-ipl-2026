@@ -1,13 +1,13 @@
 Match 40: PBKS vs RR: 2026-04-28
 
 
-Vaibhav Sooryavanshi : 7 : ['Pasha(C)', 'Mamba24', 'Addy Punters(VC)', 'Panda10st', 'WulfXI(VC)', 'Finishers(VC)', 'Black Pearl(C)']
+Vaibhav Sooryavanshi : 7 : ['Pasha(C)', 'Addy Punters(VC)', 'Mamba24', 'Panda10st', 'WulfXI(VC)', 'Finishers(VC)', 'Black Pearl(C)']
 
-Yashasvi Jaiswal : 7 : ['Pasha', 'Mamba24(C)', 'Addy Punters', 'Panda10st', 'Finishers', 'deadman2345(C)', 'ThanosKanos']
+Yashasvi Jaiswal : 7 : ['Pasha', 'Addy Punters', 'Mamba24(C)', 'Panda10st', 'Finishers', 'deadman2345(C)', 'ThanosKanos']
 
-Prabhsimran Singh : 5 : ['Mamba24', 'Addy Punters', 'WulfXI', 'Finishers(C)', 'deadman2345']
+Prabhsimran Singh : 5 : ['Addy Punters', 'Mamba24', 'WulfXI', 'Finishers(C)', 'deadman2345']
 
-Shreyas Iyer : 5 : ['Mamba24(VC)', 'Addy Punters(C)', 'Panda10st(C)', 'ThanosKanos', 'Black Pearl(VC)']
+Shreyas Iyer : 5 : ['Addy Punters(C)', 'Mamba24(VC)', 'Panda10st(C)', 'ThanosKanos', 'Black Pearl(VC)']
 
 Dhruv Jurel : 4 : ['Addy Punters', 'WulfXI', 'deadman2345', 'ThanosKanos(C)']
 
@@ -40,4 +40,4 @@ Arshdeep Singh : 1 : ['Black Pearl']
 --- Matchday Booster Usage Summary ---
 Addy Punters used booster: Indian Warriors
 Black Pearl used booster: Triple Captain
-Last Updated on 2026-04-28 19:31:29 IST
+Last Updated on 2026-04-29 15:31:38 IST
