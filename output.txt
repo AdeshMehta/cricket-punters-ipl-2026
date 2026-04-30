@@ -1,35 +1,35 @@
 Match 41: MI vs SRH: 2026-04-29
 
 
-Will Jacks : 5 : ['Pasha', 'Panda10st(VC)', 'WulfXI', 'deadman2345(C)', 'ThanosKanos(C)']
+Will Jacks : 5 : ['Pasha', 'WulfXI', 'Panda10st(VC)', 'deadman2345(C)', 'ThanosKanos(C)']
 
-Heinrich Klaasen : 4 : ['Addy Punters(VC)', 'Mamba24', 'Panda10st(C)', 'WulfXI(VC)']
+Heinrich Klaasen : 4 : ['Mamba24', 'Addy Punters(VC)', 'WulfXI(VC)', 'Panda10st(C)']
+
+Ryan Rickelton : 3 : ['Mamba24(VC)', 'Pasha(C)', 'WulfXI(C)']
+
+Eshan Malinga : 3 : ['Mamba24', 'WulfXI', 'Panda10st']
 
 Ishan Kishan : 3 : ['Pasha', 'Finishers(C)', 'deadman2345(VC)']
 
-Ryan Rickelton : 3 : ['Pasha(C)', 'Mamba24(VC)', 'WulfXI(C)']
-
 Abhishek Sharma : 3 : ['Pasha(VC)', 'Finishers(VC)', 'Black Pearl']
 
-Sakib Hussain : 3 : ['Pasha', 'ThanosKanos', 'Black Pearl']
-
-Eshan Malinga : 3 : ['Mamba24', 'Panda10st', 'WulfXI']
+Sakib Hussain : 3 : ['Pasha', 'Black Pearl', 'ThanosKanos']
 
 AM Ghazanfar : 3 : ['Finishers', 'deadman2345', 'Black Pearl(VC)']
 
+Travis Head : 2 : ['Mamba24(C)', 'Black Pearl(C)']
+
 Praful Hinge : 2 : ['Pasha', 'Finishers']
 
-Travis Head : 2 : ['Mamba24(C)', 'Black Pearl(C)']
+Naman Dhir : 1 : ['Mamba24']
 
 Tilak Varma : 1 : ['Addy Punters(C)']
 
 Nitish Kumar Reddy : 1 : ['Addy Punters']
-
-Naman Dhir : 1 : ['Mamba24']
 
 Harsh Dubey : 1 : ['ThanosKanos(VC)']
 
 --- Matchday Booster Usage Summary ---
 Mamba24 used booster: Foreign Stars
 WulfXI used booster: Foreign Stars
-Last Updated on 2026-04-29 19:31:25 IST
+Last Updated on 2026-04-30 15:31:21 IST
