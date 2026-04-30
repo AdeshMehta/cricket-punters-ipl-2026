@@ -1,35 +1,32 @@
-Match 41: MI vs SRH: 2026-04-29
+Match 42: GT vs RCB: 2026-04-30
 
 
-Will Jacks : 5 : ['Pasha', 'WulfXI', 'Panda10st(VC)', 'deadman2345(C)', 'ThanosKanos(C)']
+Shubman Gill : 7 : ['Mamba24(C)', 'Pasha(VC)', 'WulfXI(VC)', 'Panda10st(VC)', 'Finishers(C)', 'deadman2345', 'Black Pearl(VC)']
 
-Heinrich Klaasen : 4 : ['Mamba24', 'Addy Punters(VC)', 'WulfXI(VC)', 'Panda10st(C)']
+Rajat Patidar : 6 : ['Mamba24', 'WulfXI', 'Panda10st', 'Finishers', 'deadman2345(VC)', 'ThanosKanos']
 
-Ryan Rickelton : 3 : ['Mamba24(VC)', 'Pasha(C)', 'WulfXI(C)']
+Jos Buttler : 4 : ['Pasha', 'Finishers', 'deadman2345(C)', 'ThanosKanos(VC)']
 
-Eshan Malinga : 3 : ['Mamba24', 'WulfXI', 'Panda10st']
+Virat Kohli : 4 : ['Pasha(C)', 'WulfXI(C)', 'Finishers', 'ThanosKanos']
 
-Ishan Kishan : 3 : ['Pasha', 'Finishers(C)', 'deadman2345(VC)']
+Kagiso Rabada : 4 : ['Panda10st', 'Finishers(VC)', 'Black Pearl', 'ThanosKanos(C)']
 
-Abhishek Sharma : 3 : ['Pasha(VC)', 'Finishers(VC)', 'Black Pearl']
+Devdutt Padikkal : 3 : ['Addy Punters(C)', 'Panda10st(C)', 'Black Pearl']
 
-Sakib Hussain : 3 : ['Pasha', 'Black Pearl', 'ThanosKanos']
+Josh Hazlewood : 2 : ['Mamba24(VC)', 'ThanosKanos']
 
-AM Ghazanfar : 3 : ['Finishers', 'deadman2345', 'Black Pearl(VC)']
+Sai Sudharsan : 1 : ['Mamba24']
 
-Travis Head : 2 : ['Mamba24(C)', 'Black Pearl(C)']
+Jason Holder : 1 : ['Addy Punters(VC)']
 
-Praful Hinge : 2 : ['Pasha', 'Finishers']
+Suyash Sharma : 1 : ['WulfXI']
 
-Naman Dhir : 1 : ['Mamba24']
+Bhuvneshwar Kumar : 1 : ['Black Pearl(C)']
 
-Tilak Varma : 1 : ['Addy Punters(C)']
+Manav Suthar : 1 : ['Black Pearl']
 
-Nitish Kumar Reddy : 1 : ['Addy Punters']
-
-Harsh Dubey : 1 : ['ThanosKanos(VC)']
+Jacob Bethell : 1 : ['ThanosKanos']
 
 --- Matchday Booster Usage Summary ---
-Mamba24 used booster: Foreign Stars
-WulfXI used booster: Foreign Stars
-Last Updated on 2026-04-30 15:31:21 IST
+ThanosKanos used booster: Foreign Stars
+Last Updated on 2026-04-30 19:31:20 IST
