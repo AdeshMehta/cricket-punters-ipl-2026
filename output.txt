@@ -1,7 +1,7 @@
 Match 42: GT vs RCB: 2026-04-30
 
 
-Shubman Gill : 7 : ['Mamba24(C)', 'Pasha(VC)', 'WulfXI(VC)', 'Panda10st(VC)', 'Finishers(C)', 'deadman2345', 'Black Pearl(VC)']
+Shubman Gill : 7 : ['Pasha(VC)', 'Mamba24(C)', 'WulfXI(VC)', 'Panda10st(VC)', 'Finishers(C)', 'deadman2345', 'Black Pearl(VC)']
 
 Rajat Patidar : 6 : ['Mamba24', 'WulfXI', 'Panda10st', 'Finishers', 'deadman2345(VC)', 'ThanosKanos']
 
@@ -29,4 +29,4 @@ Jacob Bethell : 1 : ['ThanosKanos']
 
 --- Matchday Booster Usage Summary ---
 ThanosKanos used booster: Foreign Stars
-Last Updated on 2026-04-30 19:31:20 IST
+Last Updated on 2026-05-01 15:31:19 IST
