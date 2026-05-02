@@ -1,13 +1,13 @@
 Match 43: RR vs DC: 2026-05-01
 
 
-Vaibhav Sooryavanshi : 8 : ['Pasha(C)', 'Mamba24(VC)', 'Addy Punters(C)', 'WulfXI(VC)', 'Panda10st(VC)', 'Finishers(C)', 'Black Pearl(VC)', 'ThanosKanos']
+Vaibhav Sooryavanshi : 8 : ['Pasha(C)', 'Mamba24(VC)', 'Addy Punters(C)', 'Panda10st(VC)', 'WulfXI(VC)', 'Finishers(C)', 'Black Pearl(VC)', 'ThanosKanos']
 
 KL Rahul : 7 : ['Pasha', 'Mamba24(C)', 'Panda10st(C)', 'Finishers', 'deadman2345', 'Black Pearl', 'ThanosKanos(C)']
 
 Yashasvi Jaiswal : 6 : ['Pasha(VC)', 'Addy Punters', 'Panda10st', 'Finishers(VC)', 'deadman2345', 'ThanosKanos']
 
-Nitish Rana : 4 : ['Mamba24', 'WulfXI(C)', 'Panda10st', 'Black Pearl(C)']
+Nitish Rana : 4 : ['Mamba24', 'Panda10st', 'WulfXI(C)', 'Black Pearl(C)']
 
 Ravi Bishnoi : 3 : ['Pasha', 'Panda10st', 'Finishers']
 
@@ -25,16 +25,16 @@ Nandre Burger : 2 : ['deadman2345', 'Black Pearl']
 
 Yash Punja : 1 : ['Addy Punters']
 
-Kuldeep Yadav : 1 : ['WulfXI']
-
-Brijesh Sharma : 1 : ['WulfXI']
-
 Axar Patel : 1 : ['Panda10st']
 
 T Natarajan : 1 : ['Panda10st']
+
+Kuldeep Yadav : 1 : ['WulfXI']
+
+Brijesh Sharma : 1 : ['WulfXI']
 
 Donovan Ferreira : 1 : ['ThanosKanos(VC)']
 
 --- Matchday Booster Usage Summary ---
 Panda10st used booster: Indian Warriors
-Last Updated on 2026-05-01 19:31:23 IST
+Last Updated on 2026-05-02 15:31:19 IST
