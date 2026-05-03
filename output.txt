@@ -1,34 +1,28 @@
-Match 45: SRH vs KKR: 2026-05-03
+Match 46: GT vs PBKS: 2026-05-03
 
 
-Cameron Green : 6 : ['Pasha', 'Mamba24', 'Addy Punters(C)', 'Panda10st(C)', 'deadman2345(C)', 'ThanosKanos']
+Shubman Gill : 7 : ['Pasha', 'Mamba24(C)', 'Panda10st(C)', 'WulfXI', 'Finishers(C)', 'deadman2345', 'Black Pearl(VC)']
 
-Heinrich Klaasen : 5 : ['Mamba24(C)', 'Addy Punters(VC)', 'Panda10st(VC)', 'WulfXI', 'ThanosKanos(VC)']
+Jos Buttler : 5 : ['Pasha(VC)', 'Panda10st', 'Finishers', 'deadman2345(C)', 'ThanosKanos(C)']
 
-Abhishek Sharma : 4 : ['Pasha(C)', 'WulfXI(C)', 'Finishers(C)', 'Black Pearl(C)']
+Prabhsimran Singh : 5 : ['Pasha', 'Addy Punters(VC)', 'Panda10st', 'WulfXI(VC)', 'ThanosKanos(VC)']
 
-Kartik Tyagi : 4 : ['Mamba24', 'Addy Punters', 'WulfXI', 'deadman2345']
+Shreyas Iyer : 4 : ['Panda10st(VC)', 'deadman2345(VC)', 'Black Pearl', 'ThanosKanos']
 
-Ishan Kishan : 3 : ['Pasha(VC)', 'deadman2345(VC)', 'Finishers(VC)']
+Kagiso Rabada : 4 : ['WulfXI', 'Finishers(VC)', 'Black Pearl(C)', 'ThanosKanos']
 
-Eshan Malinga : 3 : ['Mamba24(VC)', 'Panda10st', 'WulfXI(VC)']
+Priyansh Arya : 3 : ['Pasha(C)', 'Mamba24', 'WulfXI(C)']
 
-Sakib Hussain : 2 : ['Pasha', 'ThanosKanos']
+Jason Holder : 2 : ['Mamba24', 'Addy Punters(C)']
 
-Praful Hinge : 2 : ['Pasha', 'Finishers']
+Xavier Bartlett : 2 : ['Mamba24(VC)', 'Black Pearl']
 
-Travis Head : 2 : ['Finishers', 'Black Pearl']
+Yuzvendra Chahal : 1 : ['Addy Punters']
 
-Varun Chakaravarthy : 2 : ['Black Pearl(VC)', 'ThanosKanos(C)']
+Arshdeep Singh : 1 : ['Black Pearl']
 
-Angkrish Raghuvanshi : 1 : ['Mamba24']
-
-Rinku Singh : 1 : ['Finishers']
-
-Vaibhav Arora : 1 : ['Black Pearl']
-
-Harsh Dubey : 1 : ['ThanosKanos']
+Manav Suthar : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
 No boosters reported used for this matchday
-Last Updated on 2026-05-03 15:31:17 IST
+Last Updated on 2026-05-03 19:31:23 IST
