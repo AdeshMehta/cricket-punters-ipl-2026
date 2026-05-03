@@ -1,34 +1,34 @@
-Match 44: CSK vs MI: 2026-05-02
+Match 45: SRH vs KKR: 2026-05-03
 
 
-Sanju Samson : 5 : ['Pasha', 'Mamba24(C)', 'Addy Punters(C)', 'WulfXI(VC)', 'Black Pearl(VC)']
+Cameron Green : 6 : ['Pasha', 'Mamba24', 'Addy Punters(C)', 'Panda10st(C)', 'deadman2345(C)', 'ThanosKanos']
 
-Will Jacks : 4 : ['Pasha(VC)', 'Panda10st(C)', 'WulfXI(C)', 'deadman2345(C)']
+Heinrich Klaasen : 5 : ['Mamba24(C)', 'Addy Punters(VC)', 'Panda10st(VC)', 'WulfXI', 'ThanosKanos(VC)']
 
-Tilak Varma : 4 : ['Addy Punters(VC)', 'Panda10st', 'Black Pearl', 'ThanosKanos']
+Abhishek Sharma : 4 : ['Pasha(C)', 'WulfXI(C)', 'Finishers(C)', 'Black Pearl(C)']
 
-Ruturaj Gaikwad : 3 : ['Pasha', 'Panda10st', 'WulfXI']
+Kartik Tyagi : 4 : ['Mamba24', 'Addy Punters', 'WulfXI', 'deadman2345']
 
-Naman Dhir : 3 : ['Mamba24', 'Black Pearl(C)', 'ThanosKanos(VC)']
+Ishan Kishan : 3 : ['Pasha(VC)', 'deadman2345(VC)', 'Finishers(VC)']
 
-Ryan Rickelton : 2 : ['Pasha(C)', 'WulfXI']
+Eshan Malinga : 3 : ['Mamba24(VC)', 'Panda10st', 'WulfXI(VC)']
 
-Anshul Kamboj : 2 : ['Pasha', 'Panda10st']
+Sakib Hussain : 2 : ['Pasha', 'ThanosKanos']
 
-Jamie Overton : 2 : ['Panda10st', 'ThanosKanos(C)']
+Praful Hinge : 2 : ['Pasha', 'Finishers']
 
-AM Ghazanfar : 2 : ['Finishers', 'deadman2345(VC)']
+Travis Head : 2 : ['Finishers', 'Black Pearl']
 
-Suryakumar Yadav : 1 : ['Mamba24(VC)']
+Varun Chakaravarthy : 2 : ['Black Pearl(VC)', 'ThanosKanos(C)']
 
-Sarfaraz Khan : 1 : ['Mamba24']
+Angkrish Raghuvanshi : 1 : ['Mamba24']
 
-Hardik Pandya : 1 : ['Panda10st(VC)']
+Rinku Singh : 1 : ['Finishers']
 
-Mukesh Choudhary : 1 : ['WulfXI']
+Vaibhav Arora : 1 : ['Black Pearl']
 
-Noor Ahmad : 1 : ['Black Pearl']
+Harsh Dubey : 1 : ['ThanosKanos']
 
 --- Matchday Booster Usage Summary ---
-Panda10st used booster: Wild Card
-Last Updated on 2026-05-02 19:31:17 IST
+No boosters reported used for this matchday
+Last Updated on 2026-05-03 15:31:17 IST
