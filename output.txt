@@ -1,28 +1,32 @@
-Match 46: GT vs PBKS: 2026-05-03
+Match 47: MI vs LSG: 2026-05-04
 
 
-Shubman Gill : 7 : ['Pasha', 'Mamba24(C)', 'Panda10st(C)', 'WulfXI', 'Finishers(C)', 'deadman2345', 'Black Pearl(VC)']
+Prince Yadav : 5 : ['Pasha', 'Panda10st', 'deadman2345', 'Black Pearl', 'ThanosKanos']
 
-Jos Buttler : 5 : ['Pasha(VC)', 'Panda10st', 'Finishers', 'deadman2345(C)', 'ThanosKanos(C)']
+AM Ghazanfar : 5 : ['Mamba24(VC)', 'WulfXI', 'Finishers', 'deadman2345', 'ThanosKanos(VC)']
 
-Prabhsimran Singh : 5 : ['Pasha', 'Addy Punters(VC)', 'Panda10st', 'WulfXI(VC)', 'ThanosKanos(VC)']
+Will Jacks : 4 : ['Pasha', 'Panda10st', 'WulfXI', 'deadman2345']
 
-Shreyas Iyer : 4 : ['Panda10st(VC)', 'deadman2345(VC)', 'Black Pearl', 'ThanosKanos']
+Ryan Rickelton : 3 : ['Pasha(C)', 'WulfXI(C)', 'Finishers(VC)']
 
-Kagiso Rabada : 4 : ['WulfXI', 'Finishers(VC)', 'Black Pearl(C)', 'ThanosKanos']
+Rohit Sharma : 3 : ['Mamba24(C)', 'Addy Punters(C)', 'Finishers(C)']
 
-Priyansh Arya : 3 : ['Pasha(C)', 'Mamba24', 'WulfXI(C)']
+Naman Dhir : 3 : ['Mamba24', 'Addy Punters', 'ThanosKanos']
 
-Jason Holder : 2 : ['Mamba24', 'Addy Punters(C)']
+Mohsin Khan : 3 : ['Mamba24', 'Panda10st', 'Black Pearl(C)']
 
-Xavier Bartlett : 2 : ['Mamba24(VC)', 'Black Pearl']
+Tilak Varma : 3 : ['Addy Punters', 'Panda10st(VC)', 'Black Pearl(VC)']
 
-Yuzvendra Chahal : 1 : ['Addy Punters']
+Mitchell Marsh : 2 : ['Pasha(VC)', 'WulfXI(VC)']
 
-Arshdeep Singh : 1 : ['Black Pearl']
+Josh Inglis : 2 : ['Addy Punters(VC)', 'ThanosKanos(C)']
 
-Manav Suthar : 1 : ['Black Pearl']
+Aiden Markram : 2 : ['Panda10st(C)', 'deadman2345(VC)']
+
+Rishabh Pant : 1 : ['Finishers']
+
+Suryakumar Yadav : 1 : ['deadman2345(C)']
 
 --- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-05-03 19:31:23 IST
+WulfXI used booster: Foreign Stars
+Last Updated on 2026-05-04 19:31:18 IST
