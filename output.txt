@@ -1,32 +1,30 @@
-Match 47: MI vs LSG: 2026-05-04
+Match 48: DC vs CSK: 2026-05-05
 
 
-Prince Yadav : 5 : ['Pasha', 'Panda10st', 'deadman2345', 'Black Pearl', 'ThanosKanos']
+KL Rahul : 7 : ['Pasha(C)', 'Mamba24(VC)', 'Addy Punters(VC)', 'Panda10st(C)', 'Finishers(C)', 'deadman2345(C)', 'ThanosKanos']
 
-AM Ghazanfar : 5 : ['Mamba24(VC)', 'WulfXI', 'Finishers', 'deadman2345', 'ThanosKanos(VC)']
+Sanju Samson : 4 : ['Pasha(VC)', 'Mamba24(C)', 'Addy Punters(C)', 'Black Pearl']
 
-Will Jacks : 4 : ['Pasha', 'WulfXI', 'Panda10st', 'deadman2345']
+Ruturaj Gaikwad : 4 : ['Pasha', 'WulfXI(C)', 'Panda10st', 'Finishers(VC)']
 
-Ryan Rickelton : 3 : ['Pasha(C)', 'WulfXI(C)', 'Finishers(VC)']
+Anshul Kamboj : 4 : ['Pasha', 'Addy Punters', 'Panda10st(VC)', 'ThanosKanos']
 
-Rohit Sharma : 3 : ['Mamba24(C)', 'Addy Punters(C)', 'Finishers(C)']
+Pathum Nissanka : 3 : ['Pasha', 'WulfXI(VC)', 'Black Pearl(VC)']
 
-Naman Dhir : 3 : ['Mamba24', 'Addy Punters', 'ThanosKanos']
+Nitish Rana : 2 : ['Mamba24', 'WulfXI']
 
-Mohsin Khan : 3 : ['Mamba24', 'Panda10st', 'Black Pearl(C)']
+Kartik Sharma : 1 : ['Mamba24']
 
-Tilak Varma : 3 : ['Addy Punters', 'Panda10st(VC)', 'Black Pearl(VC)']
+Mukesh Choudhary : 1 : ['WulfXI']
 
-Mitchell Marsh : 2 : ['Pasha(VC)', 'WulfXI(VC)']
+Kuldeep Yadav : 1 : ['WulfXI']
 
-Josh Inglis : 2 : ['Addy Punters(VC)', 'ThanosKanos(C)']
+Jamie Overton : 1 : ['Black Pearl(C)']
 
-Aiden Markram : 2 : ['Panda10st(C)', 'deadman2345(VC)']
+Axar Patel : 1 : ['ThanosKanos(C)']
 
-Rishabh Pant : 1 : ['Finishers']
-
-Suryakumar Yadav : 1 : ['deadman2345(C)']
+Akeal Hosein : 1 : ['ThanosKanos(VC)']
 
 --- Matchday Booster Usage Summary ---
-WulfXI used booster: Foreign Stars
-Last Updated on 2026-05-05 15:31:30 IST
+No boosters reported used for this matchday
+Last Updated on 2026-05-05 19:31:24 IST
