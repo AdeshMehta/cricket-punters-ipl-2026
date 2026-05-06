@@ -1,30 +1,41 @@
-Match 48: DC vs CSK: 2026-05-05
+Match 49: SRH vs PBKS: 2026-05-06
 
 
-KL Rahul : 7 : ['Pasha(C)', 'Mamba24(VC)', 'Addy Punters(VC)', 'Panda10st(C)', 'Finishers(C)', 'deadman2345(C)', 'ThanosKanos']
+Prabhsimran Singh : 8 : ['Pasha', 'Mamba24(VC)', 'Addy Punters(VC)', 'WulfXI(C)', 'Panda10st(VC)', 'Finishers', 'deadman2345', 'ThanosKanos(VC)']
 
-Sanju Samson : 4 : ['Pasha(VC)', 'Mamba24(C)', 'Addy Punters(C)', 'Black Pearl']
+Abhishek Sharma : 8 : ['Pasha(VC)', 'Mamba24(C)', 'Addy Punters(C)', 'WulfXI(VC)', 'Finishers(C)', 'deadman2345(VC)', 'Black Pearl(VC)', 'ThanosKanos']
 
-Ruturaj Gaikwad : 4 : ['Pasha', 'WulfXI(C)', 'Panda10st', 'Finishers(VC)']
+Travis Head : 6 : ['Pasha(C)', 'Addy Punters', 'WulfXI', 'Finishers(VC)', 'Black Pearl', 'ThanosKanos']
 
-Anshul Kamboj : 4 : ['Pasha', 'Addy Punters', 'Panda10st(VC)', 'ThanosKanos']
+Priyansh Arya : 6 : ['Pasha', 'Mamba24', 'Addy Punters', 'WulfXI', 'Finishers', 'ThanosKanos']
 
-Pathum Nissanka : 3 : ['Pasha', 'WulfXI(VC)', 'Black Pearl(VC)']
+Ishan Kishan : 5 : ['Pasha', 'Addy Punters', 'WulfXI', 'Finishers', 'deadman2345']
 
-Nitish Rana : 2 : ['Mamba24', 'WulfXI']
+Shreyas Iyer : 5 : ['Addy Punters', 'Panda10st(C)', 'deadman2345(C)', 'Black Pearl', 'ThanosKanos']
 
-Kartik Sharma : 1 : ['Mamba24']
+Heinrich Klaasen : 4 : ['Mamba24', 'Panda10st', 'Finishers', 'ThanosKanos(C)']
 
-Mukesh Choudhary : 1 : ['WulfXI']
+Eshan Malinga : 4 : ['Addy Punters', 'Panda10st', 'Finishers', 'ThanosKanos']
 
-Kuldeep Yadav : 1 : ['WulfXI']
+Vijaykumar Vyshak : 4 : ['WulfXI', 'Finishers', 'Black Pearl', 'ThanosKanos']
 
-Jamie Overton : 1 : ['Black Pearl(C)']
+Sakib Hussain : 3 : ['Pasha', 'WulfXI', 'Finishers']
 
-Axar Patel : 1 : ['ThanosKanos(C)']
+Cooper Connolly : 3 : ['Addy Punters', 'WulfXI', 'ThanosKanos']
 
-Akeal Hosein : 1 : ['ThanosKanos(VC)']
+Nitish Kumar Reddy : 2 : ['Addy Punters', 'ThanosKanos']
+
+Arshdeep Singh : 2 : ['Addy Punters', 'Black Pearl(C)']
+
+Lockie Ferguson : 1 : ['Addy Punters']
+
+Ravichandran Smaran : 1 : ['Finishers']
+
+Marcus Stoinis : 1 : ['Finishers']
 
 --- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-05-06 15:31:29 IST
+Addy Punters used booster: Free Hit
+WulfXI used booster: Double Power
+Finishers used booster: Double Power
+ThanosKanos used booster: Double Power
+Last Updated on 2026-05-06 19:31:27 IST
