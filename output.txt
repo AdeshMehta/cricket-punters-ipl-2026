@@ -1,41 +1,38 @@
-Match 49: SRH vs PBKS: 2026-05-06
+Match 50: LSG vs RCB: 2026-05-07
 
 
-Prabhsimran Singh : 8 : ['Pasha', 'Mamba24(VC)', 'Addy Punters(VC)', 'WulfXI(C)', 'Panda10st(VC)', 'Finishers', 'ThanosKanos(VC)', 'deadman2345']
+Virat Kohli : 7 : ['Pasha(C)', 'Mamba24(C)', 'Addy Punters(VC)', 'WulfXI(C)', 'Panda10st(C)', 'Finishers(C)', 'deadman2345(C)']
 
-Abhishek Sharma : 8 : ['Pasha(VC)', 'Mamba24(C)', 'Addy Punters(C)', 'WulfXI(VC)', 'Finishers(C)', 'ThanosKanos', 'deadman2345(VC)', 'Black Pearl(VC)']
+Prince Yadav : 6 : ['Pasha', 'Panda10st', 'Finishers', 'ThanosKanos', 'deadman2345', 'Black Pearl(C)']
 
-Travis Head : 6 : ['Pasha(C)', 'Addy Punters', 'WulfXI', 'Finishers(VC)', 'ThanosKanos', 'Black Pearl']
+Bhuvneshwar Kumar : 5 : ['Pasha', 'WulfXI(VC)', 'Panda10st(VC)', 'Finishers(VC)', 'Black Pearl']
 
-Priyansh Arya : 6 : ['Pasha', 'Mamba24', 'Addy Punters', 'WulfXI', 'Finishers', 'ThanosKanos']
+Mitchell Marsh : 3 : ['Pasha(VC)', 'Addy Punters(C)', 'WulfXI']
 
-Ishan Kishan : 5 : ['Pasha', 'Addy Punters', 'WulfXI', 'Finishers', 'deadman2345']
+Aiden Markram : 3 : ['Panda10st', 'ThanosKanos(C)', 'deadman2345']
 
-Shreyas Iyer : 5 : ['Addy Punters', 'Panda10st(C)', 'ThanosKanos', 'deadman2345(C)', 'Black Pearl']
+Nicholas Pooran : 2 : ['Pasha', 'deadman2345(VC)']
 
-Heinrich Klaasen : 4 : ['Mamba24', 'Panda10st', 'Finishers', 'ThanosKanos(C)']
+Jacob Bethell : 2 : ['Pasha', 'Addy Punters']
 
-Eshan Malinga : 4 : ['Addy Punters', 'Panda10st', 'Finishers', 'ThanosKanos']
+Shahbaz Ahmed : 1 : ['Mamba24']
 
-Vijaykumar Vyshak : 4 : ['WulfXI', 'Finishers', 'ThanosKanos', 'Black Pearl']
+Josh Hazlewood : 1 : ['Mamba24']
 
-Sakib Hussain : 3 : ['Pasha', 'WulfXI', 'Finishers']
+Mohammad Shami : 1 : ['Mamba24(VC)']
 
-Cooper Connolly : 3 : ['Addy Punters', 'WulfXI', 'ThanosKanos']
+Mohsin Khan : 1 : ['Panda10st']
 
-Nitish Kumar Reddy : 2 : ['Addy Punters', 'ThanosKanos']
+Rishabh Pant : 1 : ['Finishers']
 
-Arshdeep Singh : 2 : ['Addy Punters', 'Black Pearl(C)']
+Krunal Pandya : 1 : ['ThanosKanos(VC)']
 
-Lockie Ferguson : 1 : ['Addy Punters']
+Rajat Patidar : 1 : ['deadman2345']
 
-Ravichandran Smaran : 1 : ['Finishers']
+Romario Shepherd : 1 : ['Black Pearl(VC)']
 
-Marcus Stoinis : 1 : ['Finishers']
+Suyash Sharma : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-Addy Punters used booster: Free Hit
-WulfXI used booster: Double Power
-Finishers used booster: Double Power
-ThanosKanos used booster: Double Power
-Last Updated on 2026-05-07 15:31:21 IST
+No boosters reported used for this matchday
+Last Updated on 2026-05-07 19:31:31 IST
