@@ -1,23 +1,23 @@
 Match 49: SRH vs PBKS: 2026-05-06
 
 
-Prabhsimran Singh : 8 : ['Pasha', 'Mamba24(VC)', 'Addy Punters(VC)', 'WulfXI(C)', 'Panda10st(VC)', 'Finishers', 'deadman2345', 'ThanosKanos(VC)']
+Prabhsimran Singh : 8 : ['Pasha', 'Mamba24(VC)', 'Addy Punters(VC)', 'WulfXI(C)', 'Panda10st(VC)', 'Finishers', 'ThanosKanos(VC)', 'deadman2345']
 
-Abhishek Sharma : 8 : ['Pasha(VC)', 'Mamba24(C)', 'Addy Punters(C)', 'WulfXI(VC)', 'Finishers(C)', 'deadman2345(VC)', 'Black Pearl(VC)', 'ThanosKanos']
+Abhishek Sharma : 8 : ['Pasha(VC)', 'Mamba24(C)', 'Addy Punters(C)', 'WulfXI(VC)', 'Finishers(C)', 'ThanosKanos', 'deadman2345(VC)', 'Black Pearl(VC)']
 
-Travis Head : 6 : ['Pasha(C)', 'Addy Punters', 'WulfXI', 'Finishers(VC)', 'Black Pearl', 'ThanosKanos']
+Travis Head : 6 : ['Pasha(C)', 'Addy Punters', 'WulfXI', 'Finishers(VC)', 'ThanosKanos', 'Black Pearl']
 
 Priyansh Arya : 6 : ['Pasha', 'Mamba24', 'Addy Punters', 'WulfXI', 'Finishers', 'ThanosKanos']
 
 Ishan Kishan : 5 : ['Pasha', 'Addy Punters', 'WulfXI', 'Finishers', 'deadman2345']
 
-Shreyas Iyer : 5 : ['Addy Punters', 'Panda10st(C)', 'deadman2345(C)', 'Black Pearl', 'ThanosKanos']
+Shreyas Iyer : 5 : ['Addy Punters', 'Panda10st(C)', 'ThanosKanos', 'deadman2345(C)', 'Black Pearl']
 
 Heinrich Klaasen : 4 : ['Mamba24', 'Panda10st', 'Finishers', 'ThanosKanos(C)']
 
 Eshan Malinga : 4 : ['Addy Punters', 'Panda10st', 'Finishers', 'ThanosKanos']
 
-Vijaykumar Vyshak : 4 : ['WulfXI', 'Finishers', 'Black Pearl', 'ThanosKanos']
+Vijaykumar Vyshak : 4 : ['WulfXI', 'Finishers', 'ThanosKanos', 'Black Pearl']
 
 Sakib Hussain : 3 : ['Pasha', 'WulfXI', 'Finishers']
 
@@ -38,4 +38,4 @@ Addy Punters used booster: Free Hit
 WulfXI used booster: Double Power
 Finishers used booster: Double Power
 ThanosKanos used booster: Double Power
-Last Updated on 2026-05-06 19:31:27 IST
+Last Updated on 2026-05-07 15:31:21 IST
