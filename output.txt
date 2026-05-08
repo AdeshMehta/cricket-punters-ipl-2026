@@ -1,38 +1,26 @@
-Match 50: LSG vs RCB: 2026-05-07
+Match 51: DC vs KKR: 2026-05-08
 
 
-Virat Kohli : 7 : ['Pasha(C)', 'Mamba24(C)', 'Addy Punters(VC)', 'WulfXI(C)', 'Panda10st(C)', 'Finishers(C)', 'deadman2345(C)']
+KL Rahul : 8 : ['Pasha(VC)', 'Mamba24(C)', 'Addy Punters(C)', 'WulfXI(C)', 'Panda10st(VC)', 'Finishers(C)', 'ThanosKanos', 'deadman2345(C)']
 
-Prince Yadav : 6 : ['Pasha', 'Panda10st', 'Finishers', 'ThanosKanos', 'deadman2345', 'Black Pearl(C)']
+Cameron Green : 5 : ['Addy Punters(VC)', 'WulfXI(VC)', 'Panda10st(C)', 'ThanosKanos(C)', 'deadman2345(VC)']
 
-Bhuvneshwar Kumar : 5 : ['Pasha', 'WulfXI(VC)', 'Panda10st(VC)', 'Finishers(VC)', 'Black Pearl']
+Pathum Nissanka : 3 : ['Pasha(C)', 'WulfXI', 'Black Pearl(C)']
 
-Mitchell Marsh : 3 : ['Pasha(VC)', 'Addy Punters(C)', 'WulfXI']
+Varun Chakaravarthy : 3 : ['Addy Punters', 'Finishers(VC)', 'ThanosKanos(VC)']
 
-Aiden Markram : 3 : ['Panda10st', 'ThanosKanos(C)', 'deadman2345']
+Kartik Tyagi : 3 : ['Addy Punters', 'deadman2345', 'Black Pearl(VC)']
 
-Nicholas Pooran : 2 : ['Pasha', 'deadman2345(VC)']
+Ajinkya Rahane : 2 : ['Pasha', 'Mamba24']
 
-Jacob Bethell : 2 : ['Pasha', 'Addy Punters']
+Angkrish Raghuvanshi : 2 : ['Pasha', 'Mamba24(VC)']
 
-Shahbaz Ahmed : 1 : ['Mamba24']
+Nitish Rana : 2 : ['Mamba24', 'deadman2345']
 
-Josh Hazlewood : 1 : ['Mamba24']
+Kuldeep Yadav : 1 : ['WulfXI']
 
-Mohammad Shami : 1 : ['Mamba24(VC)']
-
-Mohsin Khan : 1 : ['Panda10st']
-
-Rishabh Pant : 1 : ['Finishers']
-
-Krunal Pandya : 1 : ['ThanosKanos(VC)']
-
-Rajat Patidar : 1 : ['deadman2345']
-
-Romario Shepherd : 1 : ['Black Pearl(VC)']
-
-Suyash Sharma : 1 : ['Black Pearl']
+Tristan Stubbs : 1 : ['Panda10st']
 
 --- Matchday Booster Usage Summary ---
 No boosters reported used for this matchday
-Last Updated on 2026-05-08 15:31:21 IST
+Last Updated on 2026-05-08 19:31:27 IST
