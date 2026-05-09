@@ -1,26 +1,35 @@
-Match 51: DC vs KKR: 2026-05-08
+Match 52: RR vs GT: 2026-05-09
 
 
-KL Rahul : 8 : ['Pasha(VC)', 'Addy Punters(C)', 'Mamba24(C)', 'WulfXI(C)', 'Panda10st(VC)', 'Finishers(C)', 'ThanosKanos', 'deadman2345(C)']
+Jason Holder : 5 : ['Pasha', 'Mamba24(VC)', 'Panda10st', 'Finishers(C)', 'deadman2345(C)']
 
-Cameron Green : 5 : ['Addy Punters(VC)', 'WulfXI(VC)', 'Panda10st(C)', 'ThanosKanos(C)', 'deadman2345(VC)']
+Jos Buttler : 4 : ['Pasha', 'Panda10st(C)', 'Finishers(VC)', 'ThanosKanos(C)']
 
-Pathum Nissanka : 3 : ['Pasha(C)', 'WulfXI', 'Black Pearl(C)']
+Vaibhav Sooryavanshi : 4 : ['Pasha(VC)', 'Addy Punters', 'Mamba24(C)', 'WulfXI(VC)']
 
-Varun Chakaravarthy : 3 : ['Addy Punters', 'Finishers(VC)', 'ThanosKanos(VC)']
+Yashasvi Jaiswal : 4 : ['Pasha', 'Mamba24', 'deadman2345(VC)', 'Black Pearl(C)']
 
-Kartik Tyagi : 3 : ['Addy Punters', 'deadman2345', 'Black Pearl(VC)']
+Shubman Gill : 4 : ['Pasha(C)', 'Mamba24', 'Panda10st(VC)', 'Black Pearl(VC)']
 
-Ajinkya Rahane : 2 : ['Pasha', 'Mamba24']
+Sai Sudharsan : 4 : ['Pasha', 'Addy Punters(C)', 'WulfXI(C)', 'Black Pearl']
 
-Angkrish Raghuvanshi : 2 : ['Pasha', 'Mamba24(VC)']
+Donovan Ferreira : 3 : ['Pasha', 'Addy Punters(VC)', 'ThanosKanos(VC)']
 
-Nitish Rana : 2 : ['Mamba24', 'deadman2345']
+Jofra Archer : 3 : ['Pasha', 'Addy Punters', 'Finishers']
 
-Kuldeep Yadav : 1 : ['WulfXI']
+Dhruv Jurel : 2 : ['Pasha', 'Addy Punters']
 
-Tristan Stubbs : 1 : ['Panda10st']
+Mohammed Siraj : 2 : ['Pasha', 'ThanosKanos']
+
+Kagiso Rabada : 2 : ['WulfXI', 'Black Pearl']
+
+Yash Punja : 1 : ['Pasha']
+
+Shimron Hetmyer : 1 : ['Finishers']
+
+Arshad Khan : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-05-09 15:31:25 IST
+Pasha used booster: Free Hit
+Finishers used booster: Foreign Stars
+Last Updated on 2026-05-09 19:31:22 IST
