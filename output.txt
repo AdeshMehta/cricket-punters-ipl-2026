@@ -1,7 +1,7 @@
 Match 51: DC vs KKR: 2026-05-08
 
 
-KL Rahul : 8 : ['Pasha(VC)', 'Mamba24(C)', 'Addy Punters(C)', 'WulfXI(C)', 'Panda10st(VC)', 'Finishers(C)', 'ThanosKanos', 'deadman2345(C)']
+KL Rahul : 8 : ['Pasha(VC)', 'Addy Punters(C)', 'Mamba24(C)', 'WulfXI(C)', 'Panda10st(VC)', 'Finishers(C)', 'ThanosKanos', 'deadman2345(C)']
 
 Cameron Green : 5 : ['Addy Punters(VC)', 'WulfXI(VC)', 'Panda10st(C)', 'ThanosKanos(C)', 'deadman2345(VC)']
 
@@ -23,4 +23,4 @@ Tristan Stubbs : 1 : ['Panda10st']
 
 --- Matchday Booster Usage Summary ---
 No boosters reported used for this matchday
-Last Updated on 2026-05-08 19:31:27 IST
+Last Updated on 2026-05-09 15:31:25 IST
