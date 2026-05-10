@@ -1,35 +1,34 @@
-Match 52: RR vs GT: 2026-05-09
+Match 53: CSK vs LSG: 2026-05-10
 
 
-Jason Holder : 5 : ['Pasha', 'Mamba24(VC)', 'Panda10st', 'Finishers(C)', 'deadman2345(C)']
+Sanju Samson : 6 : ['Pasha(C)', 'Addy Punters(C)', 'WulfXI(C)', 'Finishers(C)', 'Black Pearl(VC)', 'deadman2345(VC)']
 
-Jos Buttler : 4 : ['Pasha', 'Panda10st(C)', 'Finishers(VC)', 'ThanosKanos(C)']
+Prince Yadav : 6 : ['Pasha', 'Panda10st', 'Finishers', 'ThanosKanos', 'Black Pearl', 'deadman2345']
 
-Vaibhav Sooryavanshi : 4 : ['Pasha(VC)', 'Addy Punters', 'Mamba24(C)', 'WulfXI(VC)']
+Mitchell Marsh : 5 : ['Pasha(VC)', 'Addy Punters(VC)', 'WulfXI', 'Finishers(VC)', 'Black Pearl(C)']
 
-Yashasvi Jaiswal : 4 : ['Pasha', 'Mamba24', 'deadman2345(VC)', 'Black Pearl(C)']
+Anshul Kamboj : 4 : ['Pasha', 'Addy Punters', 'WulfXI(VC)', 'Panda10st(VC)']
 
-Shubman Gill : 4 : ['Pasha(C)', 'Mamba24', 'Panda10st(VC)', 'Black Pearl(VC)']
+Aiden Markram : 3 : ['Panda10st', 'ThanosKanos(VC)', 'deadman2345']
 
-Sai Sudharsan : 4 : ['Pasha', 'Addy Punters(C)', 'WulfXI(C)', 'Black Pearl']
+Nicholas Pooran : 2 : ['Pasha', 'deadman2345(C)']
 
-Donovan Ferreira : 3 : ['Pasha', 'Addy Punters(VC)', 'ThanosKanos(VC)']
+Ruturaj Gaikwad : 2 : ['Mamba24(C)', 'Panda10st(C)']
 
-Jofra Archer : 3 : ['Pasha', 'Addy Punters', 'Finishers']
+Rishabh Pant : 2 : ['Addy Punters', 'Finishers']
 
-Dhruv Jurel : 2 : ['Pasha', 'Addy Punters']
+Noor Ahmad : 2 : ['Addy Punters', 'ThanosKanos(C)']
 
-Mohammed Siraj : 2 : ['Pasha', 'ThanosKanos']
+Sarfaraz Khan : 1 : ['Mamba24']
 
-Kagiso Rabada : 2 : ['WulfXI', 'Black Pearl']
+Shahbaz Ahmed : 1 : ['Mamba24(VC)']
 
-Yash Punja : 1 : ['Pasha']
+Mohammad Shami : 1 : ['Mamba24']
 
-Shimron Hetmyer : 1 : ['Finishers']
+Mohsin Khan : 1 : ['Panda10st']
 
-Arshad Khan : 1 : ['Black Pearl']
+Kartik Sharma : 1 : ['ThanosKanos']
 
 --- Matchday Booster Usage Summary ---
-Pasha used booster: Free Hit
-Finishers used booster: Foreign Stars
-Last Updated on 2026-05-09 19:31:22 IST
+No boosters reported used for this matchday
+Last Updated on 2026-05-10 15:31:23 IST
