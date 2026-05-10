@@ -1,34 +1,38 @@
-Match 53: CSK vs LSG: 2026-05-10
+Match 54: RCB vs MI: 2026-05-10
 
 
-Sanju Samson : 6 : ['Pasha(C)', 'Addy Punters(C)', 'WulfXI(C)', 'Finishers(C)', 'Black Pearl(VC)', 'deadman2345(VC)']
+Bhuvneshwar Kumar : 7 : ['Pasha', 'Addy Punters', 'WulfXI', 'Panda10st(VC)', 'Finishers', 'Black Pearl(C)', 'deadman2345']
 
-Prince Yadav : 6 : ['Pasha', 'Panda10st', 'Finishers', 'ThanosKanos', 'Black Pearl', 'deadman2345']
+Ryan Rickelton : 6 : ['Pasha', 'Panda10st', 'Finishers', 'ThanosKanos(C)', 'Black Pearl(VC)', 'deadman2345(VC)']
 
-Mitchell Marsh : 5 : ['Pasha(VC)', 'Addy Punters(VC)', 'WulfXI', 'Finishers(VC)', 'Black Pearl(C)']
+Virat Kohli : 6 : ['Pasha(C)', 'Mamba24(C)', 'WulfXI(C)', 'Panda10st', 'Finishers', 'deadman2345(C)']
 
-Anshul Kamboj : 4 : ['Pasha', 'Addy Punters', 'WulfXI(VC)', 'Panda10st(VC)']
+AM Ghazanfar : 4 : ['Mamba24(VC)', 'WulfXI', 'Finishers', 'deadman2345']
 
-Aiden Markram : 3 : ['Panda10st', 'ThanosKanos(VC)', 'deadman2345']
+Rajat Patidar : 4 : ['Finishers(C)', 'ThanosKanos', 'Black Pearl', 'deadman2345']
 
-Nicholas Pooran : 2 : ['Pasha', 'deadman2345(C)']
+Jacob Bethell : 3 : ['Pasha', 'Addy Punters', 'deadman2345']
 
-Ruturaj Gaikwad : 2 : ['Mamba24(C)', 'Panda10st(C)']
+Rohit Sharma : 2 : ['Pasha(VC)', 'Finishers(VC)']
 
-Rishabh Pant : 2 : ['Addy Punters', 'Finishers']
+Will Jacks : 2 : ['Pasha', 'WulfXI(VC)']
 
-Noor Ahmad : 2 : ['Addy Punters', 'ThanosKanos(C)']
+Raj Bawa : 2 : ['Mamba24', 'deadman2345']
 
-Sarfaraz Khan : 1 : ['Mamba24']
+Krunal Pandya : 2 : ['Addy Punters(VC)', 'ThanosKanos(VC)']
 
-Shahbaz Ahmed : 1 : ['Mamba24(VC)']
+Josh Hazlewood : 1 : ['Mamba24']
 
-Mohammad Shami : 1 : ['Mamba24']
+Suryakumar Yadav : 1 : ['Addy Punters(C)']
 
-Mohsin Khan : 1 : ['Panda10st']
+Devdutt Padikkal : 1 : ['Panda10st']
 
-Kartik Sharma : 1 : ['ThanosKanos']
+Romario Shepherd : 1 : ['Black Pearl']
+
+Tilak Varma : 1 : ['deadman2345']
+
+Jasprit Bumrah : 1 : ['deadman2345']
 
 --- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-05-10 15:31:23 IST
+deadman2345 used booster: Double Power
+Last Updated on 2026-05-10 19:31:19 IST
