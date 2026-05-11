@@ -1,15 +1,15 @@
 Match 54: RCB vs MI: 2026-05-10
 
 
-Bhuvneshwar Kumar : 7 : ['Pasha', 'Addy Punters', 'WulfXI', 'Panda10st(VC)', 'Finishers', 'Black Pearl(C)', 'deadman2345']
+Bhuvneshwar Kumar : 7 : ['Pasha', 'Addy Punters', 'WulfXI', 'Panda10st(VC)', 'Finishers', 'deadman2345', 'Black Pearl(C)']
 
-Ryan Rickelton : 6 : ['Pasha', 'Panda10st', 'Finishers', 'ThanosKanos(C)', 'Black Pearl(VC)', 'deadman2345(VC)']
+Ryan Rickelton : 6 : ['Pasha', 'Panda10st', 'Finishers', 'deadman2345(VC)', 'ThanosKanos(C)', 'Black Pearl(VC)']
 
 Virat Kohli : 6 : ['Pasha(C)', 'Mamba24(C)', 'WulfXI(C)', 'Panda10st', 'Finishers', 'deadman2345(C)']
 
 AM Ghazanfar : 4 : ['Mamba24(VC)', 'WulfXI', 'Finishers', 'deadman2345']
 
-Rajat Patidar : 4 : ['Finishers(C)', 'ThanosKanos', 'Black Pearl', 'deadman2345']
+Rajat Patidar : 4 : ['Finishers(C)', 'deadman2345', 'ThanosKanos', 'Black Pearl']
 
 Jacob Bethell : 3 : ['Pasha', 'Addy Punters', 'deadman2345']
 
@@ -17,22 +17,22 @@ Rohit Sharma : 2 : ['Pasha(VC)', 'Finishers(VC)']
 
 Will Jacks : 2 : ['Pasha', 'WulfXI(VC)']
 
-Raj Bawa : 2 : ['Mamba24', 'deadman2345']
-
 Krunal Pandya : 2 : ['Addy Punters(VC)', 'ThanosKanos(VC)']
 
-Josh Hazlewood : 1 : ['Mamba24']
+Raj Bawa : 2 : ['Mamba24', 'deadman2345']
 
 Suryakumar Yadav : 1 : ['Addy Punters(C)']
 
-Devdutt Padikkal : 1 : ['Panda10st']
+Josh Hazlewood : 1 : ['Mamba24']
 
-Romario Shepherd : 1 : ['Black Pearl']
+Devdutt Padikkal : 1 : ['Panda10st']
 
 Tilak Varma : 1 : ['deadman2345']
 
 Jasprit Bumrah : 1 : ['deadman2345']
 
+Romario Shepherd : 1 : ['Black Pearl']
+
 --- Matchday Booster Usage Summary ---
 deadman2345 used booster: Double Power
-Last Updated on 2026-05-10 19:31:19 IST
+Last Updated on 2026-05-11 15:31:25 IST
