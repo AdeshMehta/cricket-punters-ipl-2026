@@ -1,38 +1,30 @@
-Match 54: RCB vs MI: 2026-05-10
+Match 55: PBKS vs DC: 2026-05-11
 
 
-Bhuvneshwar Kumar : 7 : ['Pasha', 'Addy Punters', 'WulfXI', 'Panda10st(VC)', 'Finishers', 'deadman2345', 'Black Pearl(C)']
+Prabhsimran Singh : 8 : ['Pasha', 'Addy Punters', 'Mamba24(VC)', 'WulfXI(C)', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl(C)']
 
-Ryan Rickelton : 6 : ['Pasha', 'Panda10st', 'Finishers', 'deadman2345(VC)', 'ThanosKanos(C)', 'Black Pearl(VC)']
+KL Rahul : 6 : ['Pasha(C)', 'Addy Punters(VC)', 'Mamba24(C)', 'WulfXI(VC)', 'Panda10st(VC)', 'deadman2345(C)']
 
-Virat Kohli : 6 : ['Pasha(C)', 'Mamba24(C)', 'WulfXI(C)', 'Panda10st', 'Finishers', 'deadman2345(C)']
+Priyansh Arya : 5 : ['Pasha', 'Addy Punters', 'Finishers', 'deadman2345(VC)', 'ThanosKanos']
 
-AM Ghazanfar : 4 : ['Mamba24(VC)', 'WulfXI', 'Finishers', 'deadman2345']
+Cooper Connolly : 5 : ['Pasha(VC)', 'Mamba24', 'WulfXI', 'Panda10st', 'Black Pearl']
 
-Rajat Patidar : 4 : ['Finishers(C)', 'deadman2345', 'ThanosKanos', 'Black Pearl']
+Shreyas Iyer : 3 : ['Addy Punters(C)', 'Panda10st(C)', 'ThanosKanos(VC)']
 
-Jacob Bethell : 3 : ['Pasha', 'Addy Punters', 'deadman2345']
+Yuzvendra Chahal : 1 : ['Mamba24']
 
-Rohit Sharma : 2 : ['Pasha(VC)', 'Finishers(VC)']
+Pathum Nissanka : 1 : ['WulfXI']
 
-Will Jacks : 2 : ['Pasha', 'WulfXI(VC)']
+Arshdeep Singh : 1 : ['WulfXI']
 
-Krunal Pandya : 2 : ['Addy Punters(VC)', 'ThanosKanos(VC)']
+Vijaykumar Vyshak : 1 : ['Finishers']
 
-Raj Bawa : 2 : ['Mamba24', 'deadman2345']
+Mitchell Starc : 1 : ['deadman2345']
 
-Suryakumar Yadav : 1 : ['Addy Punters(C)']
+Axar Patel : 1 : ['ThanosKanos(C)']
 
-Josh Hazlewood : 1 : ['Mamba24']
-
-Devdutt Padikkal : 1 : ['Panda10st']
-
-Tilak Varma : 1 : ['deadman2345']
-
-Jasprit Bumrah : 1 : ['deadman2345']
-
-Romario Shepherd : 1 : ['Black Pearl']
+Lungi Ngidi : 1 : ['Black Pearl(VC)']
 
 --- Matchday Booster Usage Summary ---
-deadman2345 used booster: Double Power
-Last Updated on 2026-05-11 15:31:25 IST
+No boosters reported used for this matchday
+Last Updated on 2026-05-11 19:31:48 IST
