@@ -1,11 +1,11 @@
 Match 55: PBKS vs DC: 2026-05-11
 
 
-Prabhsimran Singh : 8 : ['Pasha', 'Addy Punters', 'Mamba24(VC)', 'WulfXI(C)', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl(C)']
+Prabhsimran Singh : 8 : ['Pasha', 'Addy Punters', 'Mamba24(VC)', 'WulfXI(C)', 'Finishers', 'ThanosKanos', 'deadman2345', 'Black Pearl(C)']
 
 KL Rahul : 6 : ['Pasha(C)', 'Addy Punters(VC)', 'Mamba24(C)', 'WulfXI(VC)', 'Panda10st(VC)', 'deadman2345(C)']
 
-Priyansh Arya : 5 : ['Pasha', 'Addy Punters', 'Finishers', 'deadman2345(VC)', 'ThanosKanos']
+Priyansh Arya : 5 : ['Pasha', 'Addy Punters', 'Finishers', 'ThanosKanos', 'deadman2345(VC)']
 
 Cooper Connolly : 5 : ['Pasha(VC)', 'Mamba24', 'WulfXI', 'Panda10st', 'Black Pearl']
 
@@ -19,12 +19,12 @@ Arshdeep Singh : 1 : ['WulfXI']
 
 Vijaykumar Vyshak : 1 : ['Finishers']
 
-Mitchell Starc : 1 : ['deadman2345']
-
 Axar Patel : 1 : ['ThanosKanos(C)']
+
+Mitchell Starc : 1 : ['deadman2345']
 
 Lungi Ngidi : 1 : ['Black Pearl(VC)']
 
 --- Matchday Booster Usage Summary ---
 No boosters reported used for this matchday
-Last Updated on 2026-05-11 19:31:48 IST
+Last Updated on 2026-05-12 15:31:29 IST
