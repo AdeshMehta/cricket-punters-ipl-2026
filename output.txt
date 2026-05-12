@@ -1,30 +1,33 @@
-Match 55: PBKS vs DC: 2026-05-11
+Match 56: GT vs SRH: 2026-05-12
 
 
-Prabhsimran Singh : 8 : ['Pasha', 'Addy Punters', 'Mamba24(VC)', 'WulfXI(C)', 'Finishers', 'ThanosKanos', 'deadman2345', 'Black Pearl(C)']
+Shubman Gill : 6 : ['Pasha(C)', 'Addy Punters(C)', 'Mamba24', 'Panda10st', 'Finishers(C)', 'Black Pearl(C)']
 
-KL Rahul : 6 : ['Pasha(C)', 'Addy Punters(VC)', 'Mamba24(C)', 'WulfXI(VC)', 'Panda10st(VC)', 'deadman2345(C)']
+Jason Holder : 5 : ['Addy Punters', 'Mamba24(C)', 'WulfXI(VC)', 'Panda10st(C)', 'Finishers']
 
-Priyansh Arya : 5 : ['Pasha', 'Addy Punters', 'Finishers', 'ThanosKanos', 'deadman2345(VC)']
+Heinrich Klaasen : 5 : ['Mamba24', 'Panda10st(VC)', 'Finishers(VC)', 'ThanosKanos', 'Black Pearl']
 
-Cooper Connolly : 5 : ['Pasha(VC)', 'Mamba24', 'WulfXI', 'Panda10st', 'Black Pearl']
+Jos Buttler : 4 : ['Pasha', 'Panda10st', 'ThanosKanos(C)', 'deadman2345(C)']
 
-Shreyas Iyer : 3 : ['Addy Punters(C)', 'Panda10st(C)', 'ThanosKanos(VC)']
+Sai Sudharsan : 4 : ['Pasha', 'Addy Punters', 'WulfXI', 'Black Pearl']
 
-Yuzvendra Chahal : 1 : ['Mamba24']
+Travis Head : 3 : ['Pasha(VC)', 'WulfXI(C)', 'Black Pearl']
 
-Pathum Nissanka : 1 : ['WulfXI']
+Nitish Kumar Reddy : 3 : ['Addy Punters(VC)', 'Mamba24(VC)', 'ThanosKanos(VC)']
 
-Arshdeep Singh : 1 : ['WulfXI']
+Kagiso Rabada : 2 : ['Finishers', 'Black Pearl']
 
-Vijaykumar Vyshak : 1 : ['Finishers']
+Abhishek Sharma : 2 : ['deadman2345(VC)', 'Black Pearl(VC)']
 
-Axar Patel : 1 : ['ThanosKanos(C)']
+Sakib Hussain : 2 : ['deadman2345', 'Black Pearl']
 
-Mitchell Starc : 1 : ['deadman2345']
+Mohammed Siraj : 1 : ['ThanosKanos']
 
-Lungi Ngidi : 1 : ['Black Pearl(VC)']
+Eshan Malinga : 1 : ['Black Pearl']
+
+Arshad Khan : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-05-12 15:31:29 IST
+Pasha used booster: Triple Captain
+Black Pearl used booster: Double Power
+Last Updated on 2026-05-12 19:31:21 IST
