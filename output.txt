@@ -1,5 +1,34 @@
 Match 57: RCB vs KKR: 2026-05-13
 
 
-Match not started yet!
-Last Updated on 2026-05-13 19:31:17 IST
+Bhuvneshwar Kumar : 7 : ['Pasha', 'Addy Punters', 'WulfXI', 'Panda10st', 'Finishers(VC)', 'deadman2345(VC)', 'Black Pearl(C)']
+
+Virat Kohli : 6 : ['Pasha(C)', 'Mamba24(C)', 'WulfXI(C)', 'Panda10st(VC)', 'Finishers', 'deadman2345(C)']
+
+Cameron Green : 6 : ['Pasha(VC)', 'Addy Punters(C)', 'WulfXI(VC)', 'Panda10st(C)', 'Finishers', 'ThanosKanos(C)']
+
+Rajat Patidar : 4 : ['Finishers(C)', 'ThanosKanos', 'deadman2345', 'Black Pearl']
+
+Krunal Pandya : 3 : ['Addy Punters', 'Mamba24', 'ThanosKanos']
+
+Kartik Tyagi : 3 : ['Addy Punters(VC)', 'WulfXI', 'deadman2345']
+
+Jacob Bethell : 2 : ['Pasha', 'deadman2345']
+
+Devdutt Padikkal : 2 : ['Mamba24', 'Panda10st']
+
+Angkrish Raghuvanshi : 1 : ['Pasha']
+
+Sunil Narine : 1 : ['Mamba24(VC)']
+
+Varun Chakaravarthy : 1 : ['Finishers']
+
+Anukul Roy : 1 : ['ThanosKanos(VC)']
+
+Finn Allen : 1 : ['Black Pearl']
+
+Saurabh Dubey : 1 : ['Black Pearl(VC)']
+
+--- Matchday Booster Usage Summary ---
+No boosters reported used for this matchday
+Last Updated on 2026-05-13 20:53:26 IST
