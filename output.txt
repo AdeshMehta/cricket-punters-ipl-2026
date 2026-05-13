@@ -1,33 +1,5 @@
-Match 56: GT vs SRH: 2026-05-12
+Match 57: RCB vs KKR: 2026-05-13
 
 
-Shubman Gill : 6 : ['Pasha(C)', 'Addy Punters(C)', 'Mamba24', 'Panda10st', 'Finishers(C)', 'Black Pearl(C)']
-
-Jason Holder : 5 : ['Addy Punters', 'Mamba24(C)', 'WulfXI(VC)', 'Panda10st(C)', 'Finishers']
-
-Heinrich Klaasen : 5 : ['Mamba24', 'Panda10st(VC)', 'Finishers(VC)', 'ThanosKanos', 'Black Pearl']
-
-Jos Buttler : 4 : ['Pasha', 'Panda10st', 'ThanosKanos(C)', 'deadman2345(C)']
-
-Sai Sudharsan : 4 : ['Pasha', 'Addy Punters', 'WulfXI', 'Black Pearl']
-
-Travis Head : 3 : ['Pasha(VC)', 'WulfXI(C)', 'Black Pearl']
-
-Nitish Kumar Reddy : 3 : ['Addy Punters(VC)', 'Mamba24(VC)', 'ThanosKanos(VC)']
-
-Kagiso Rabada : 2 : ['Finishers', 'Black Pearl']
-
-Abhishek Sharma : 2 : ['deadman2345(VC)', 'Black Pearl(VC)']
-
-Sakib Hussain : 2 : ['deadman2345', 'Black Pearl']
-
-Mohammed Siraj : 1 : ['ThanosKanos']
-
-Eshan Malinga : 1 : ['Black Pearl']
-
-Arshad Khan : 1 : ['Black Pearl']
-
---- Matchday Booster Usage Summary ---
-Pasha used booster: Triple Captain
-Black Pearl used booster: Double Power
-Last Updated on 2026-05-13 15:31:21 IST
+Match not started yet!
+Last Updated on 2026-05-13 19:31:17 IST
