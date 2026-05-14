@@ -1,34 +1,36 @@
-Match 57: RCB vs KKR: 2026-05-13
+Match 58: PBKS vs MI: 2026-05-14
 
 
-Bhuvneshwar Kumar : 7 : ['Pasha', 'Addy Punters', 'WulfXI', 'Panda10st', 'Finishers(VC)', 'deadman2345(VC)', 'Black Pearl(C)']
+Prabhsimran Singh : 7 : ['Pasha(C)', 'Addy Punters', 'Mamba24(C)', 'WulfXI(C)', 'Finishers', 'deadman2345(C)', 'ThanosKanos']
 
-Virat Kohli : 6 : ['Pasha(C)', 'Mamba24(C)', 'WulfXI(C)', 'Panda10st(VC)', 'Finishers', 'deadman2345(C)']
+Cooper Connolly : 6 : ['Pasha', 'Mamba24(VC)', 'WulfXI', 'Panda10st', 'Finishers', 'ThanosKanos']
 
-Cameron Green : 6 : ['Pasha(VC)', 'Addy Punters(C)', 'WulfXI(VC)', 'Panda10st(C)', 'Finishers', 'ThanosKanos(C)']
+Shreyas Iyer : 5 : ['Pasha', 'Addy Punters(C)', 'Panda10st(VC)', 'Finishers(C)', 'ThanosKanos(C)']
 
-Rajat Patidar : 4 : ['Finishers(C)', 'deadman2345', 'ThanosKanos', 'Black Pearl']
+Ryan Rickelton : 3 : ['Pasha(VC)', 'Panda10st(C)', 'deadman2345']
 
-Krunal Pandya : 3 : ['Addy Punters', 'Mamba24', 'ThanosKanos']
+Priyansh Arya : 3 : ['Addy Punters', 'Finishers', 'deadman2345']
 
-Kartik Tyagi : 3 : ['Addy Punters(VC)', 'WulfXI', 'deadman2345']
+Naman Dhir : 3 : ['Addy Punters(VC)', 'WulfXI(VC)', 'ThanosKanos(VC)']
 
-Jacob Bethell : 2 : ['Pasha', 'deadman2345']
+Arshdeep Singh : 2 : ['WulfXI', 'Panda10st']
 
-Devdutt Padikkal : 2 : ['Mamba24', 'Panda10st']
+Xavier Bartlett : 2 : ['deadman2345', 'Black Pearl(C)']
 
-Angkrish Raghuvanshi : 1 : ['Pasha']
+Raghu Sharma : 1 : ['Mamba24']
 
-Sunil Narine : 1 : ['Mamba24(VC)']
+Yuzvendra Chahal : 1 : ['Mamba24']
 
-Varun Chakaravarthy : 1 : ['Finishers']
+AM Ghazanfar : 1 : ['WulfXI']
 
-Anukul Roy : 1 : ['ThanosKanos(VC)']
+Tilak Varma : 1 : ['Panda10st']
 
-Finn Allen : 1 : ['Black Pearl']
+Rohit Sharma : 1 : ['Finishers(VC)']
 
-Saurabh Dubey : 1 : ['Black Pearl(VC)']
+Will Jacks : 1 : ['deadman2345(VC)']
+
+Jasprit Bumrah : 1 : ['Black Pearl(VC)']
 
 --- Matchday Booster Usage Summary ---
 No boosters reported used for this matchday
-Last Updated on 2026-05-14 15:31:27 IST
+Last Updated on 2026-05-14 19:31:23 IST
