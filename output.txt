@@ -7,7 +7,7 @@ Virat Kohli : 6 : ['Pasha(C)', 'Mamba24(C)', 'WulfXI(C)', 'Panda10st(VC)', 'Fini
 
 Cameron Green : 6 : ['Pasha(VC)', 'Addy Punters(C)', 'WulfXI(VC)', 'Panda10st(C)', 'Finishers', 'ThanosKanos(C)']
 
-Rajat Patidar : 4 : ['Finishers(C)', 'ThanosKanos', 'deadman2345', 'Black Pearl']
+Rajat Patidar : 4 : ['Finishers(C)', 'deadman2345', 'ThanosKanos', 'Black Pearl']
 
 Krunal Pandya : 3 : ['Addy Punters', 'Mamba24', 'ThanosKanos']
 
@@ -31,4 +31,4 @@ Saurabh Dubey : 1 : ['Black Pearl(VC)']
 
 --- Matchday Booster Usage Summary ---
 No boosters reported used for this matchday
-Last Updated on 2026-05-13 20:53:26 IST
+Last Updated on 2026-05-14 15:31:27 IST
