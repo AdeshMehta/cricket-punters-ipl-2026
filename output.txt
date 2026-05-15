@@ -1,36 +1,30 @@
-Match 58: PBKS vs MI: 2026-05-14
+Match 59: LSG vs CSK: 2026-05-15
 
 
-Prabhsimran Singh : 7 : ['Pasha(C)', 'Mamba24(C)', 'Addy Punters', 'WulfXI(C)', 'Finishers', 'deadman2345(C)', 'ThanosKanos']
+Sanju Samson : 8 : ['Pasha(C)', 'Addy Punters(C)', 'WulfXI(VC)', 'Panda10st(C)', 'Finishers', 'deadman2345(VC)', 'ThanosKanos(C)', 'Black Pearl(VC)']
 
-Cooper Connolly : 6 : ['Pasha', 'Mamba24(VC)', 'WulfXI', 'Panda10st', 'Finishers', 'ThanosKanos']
+Mitchell Marsh : 6 : ['Pasha(VC)', 'Addy Punters(VC)', 'Panda10st(VC)', 'Finishers(VC)', 'deadman2345', 'Black Pearl(C)']
 
-Shreyas Iyer : 5 : ['Pasha', 'Addy Punters(C)', 'Panda10st(VC)', 'Finishers(C)', 'ThanosKanos(C)']
+Prince Yadav : 4 : ['Pasha', 'Panda10st', 'deadman2345', 'ThanosKanos']
 
-Ryan Rickelton : 3 : ['Pasha(VC)', 'Panda10st(C)', 'deadman2345']
+Anshul Kamboj : 4 : ['Pasha', 'Addy Punters', 'WulfXI(C)', 'deadman2345(C)']
 
-Priyansh Arya : 3 : ['Addy Punters', 'Finishers', 'deadman2345']
+Noor Ahmad : 2 : ['Mamba24(C)', 'ThanosKanos']
 
-Naman Dhir : 3 : ['Addy Punters(VC)', 'WulfXI(VC)', 'ThanosKanos(VC)']
+Mukul Choudhary : 1 : ['Mamba24']
 
-Arshdeep Singh : 2 : ['WulfXI', 'Panda10st']
+Ruturaj Gaikwad : 1 : ['Mamba24']
 
-Xavier Bartlett : 2 : ['deadman2345', 'Black Pearl(C)']
+Mohammad Shami : 1 : ['Mamba24(VC)']
 
-Raghu Sharma : 1 : ['Mamba24']
+Urvil Patel : 1 : ['Addy Punters']
 
-Yuzvendra Chahal : 1 : ['Mamba24']
+Nicholas Pooran : 1 : ['WulfXI']
 
-AM Ghazanfar : 1 : ['WulfXI']
+Shahbaz Ahmed : 1 : ['Finishers(C)']
 
-Tilak Varma : 1 : ['Panda10st']
-
-Rohit Sharma : 1 : ['Finishers(VC)']
-
-Will Jacks : 1 : ['deadman2345(VC)']
-
-Jasprit Bumrah : 1 : ['Black Pearl(VC)']
+Rishabh Pant : 1 : ['ThanosKanos(VC)']
 
 --- Matchday Booster Usage Summary ---
 No boosters reported used for this matchday
-Last Updated on 2026-05-15 15:31:25 IST
+Last Updated on 2026-05-15 19:31:19 IST
