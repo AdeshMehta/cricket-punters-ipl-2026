@@ -1,7 +1,7 @@
 Match 58: PBKS vs MI: 2026-05-14
 
 
-Prabhsimran Singh : 7 : ['Pasha(C)', 'Addy Punters', 'Mamba24(C)', 'WulfXI(C)', 'Finishers', 'deadman2345(C)', 'ThanosKanos']
+Prabhsimran Singh : 7 : ['Pasha(C)', 'Mamba24(C)', 'Addy Punters', 'WulfXI(C)', 'Finishers', 'deadman2345(C)', 'ThanosKanos']
 
 Cooper Connolly : 6 : ['Pasha', 'Mamba24(VC)', 'WulfXI', 'Panda10st', 'Finishers', 'ThanosKanos']
 
@@ -33,4 +33,4 @@ Jasprit Bumrah : 1 : ['Black Pearl(VC)']
 
 --- Matchday Booster Usage Summary ---
 No boosters reported used for this matchday
-Last Updated on 2026-05-14 19:31:23 IST
+Last Updated on 2026-05-15 15:31:25 IST
