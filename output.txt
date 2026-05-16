@@ -1,30 +1,31 @@
-Match 59: LSG vs CSK: 2026-05-15
+Match 60: KKR vs GT: 2026-05-16
 
 
-Sanju Samson : 8 : ['Pasha(C)', 'Addy Punters(C)', 'WulfXI(VC)', 'Panda10st(C)', 'Finishers', 'deadman2345(VC)', 'ThanosKanos(C)', 'Black Pearl(VC)']
+Cameron Green : 7 : ['Pasha(VC)', 'Addy Punters(VC)', 'WulfXI(VC)', 'Panda10st(VC)', 'Finishers(VC)', 'deadman2345(C)', 'ThanosKanos(C)']
 
-Mitchell Marsh : 6 : ['Pasha(VC)', 'Addy Punters(VC)', 'Panda10st(VC)', 'Finishers(VC)', 'deadman2345', 'Black Pearl(C)']
+Jos Buttler : 6 : ['Pasha', 'Addy Punters', 'WulfXI', 'Panda10st', 'deadman2345', 'ThanosKanos(VC)']
 
-Prince Yadav : 4 : ['Pasha', 'Panda10st', 'deadman2345', 'ThanosKanos']
+Jason Holder : 6 : ['Addy Punters(C)', 'Mamba24', 'WulfXI', 'Panda10st(C)', 'Finishers(C)', 'deadman2345(VC)']
 
-Anshul Kamboj : 4 : ['Pasha', 'Addy Punters', 'WulfXI(C)', 'deadman2345(C)']
+Kartik Tyagi : 6 : ['Addy Punters', 'Mamba24', 'WulfXI', 'deadman2345', 'ThanosKanos', 'Black Pearl(C)']
 
-Noor Ahmad : 2 : ['Mamba24(C)', 'ThanosKanos']
+Sai Sudharsan : 5 : ['Pasha', 'Addy Punters', 'WulfXI(C)', 'Finishers', 'Black Pearl(VC)']
 
-Urvil Patel : 1 : ['Addy Punters']
+Shubman Gill : 5 : ['Pasha(C)', 'Mamba24(C)', 'Panda10st', 'deadman2345', 'Black Pearl']
 
-Mukul Choudhary : 1 : ['Mamba24']
+Kagiso Rabada : 4 : ['Addy Punters', 'Panda10st', 'Finishers', 'Black Pearl']
 
-Ruturaj Gaikwad : 1 : ['Mamba24']
+Finn Allen : 2 : ['Pasha', 'Black Pearl']
 
-Mohammad Shami : 1 : ['Mamba24(VC)']
+Sunil Narine : 1 : ['Mamba24(VC)']
 
-Nicholas Pooran : 1 : ['WulfXI']
+Varun Chakaravarthy : 1 : ['Finishers']
 
-Shahbaz Ahmed : 1 : ['Finishers(C)']
+Angkrish Raghuvanshi : 1 : ['ThanosKanos']
 
-Rishabh Pant : 1 : ['ThanosKanos(VC)']
+Mohammed Siraj : 1 : ['ThanosKanos']
 
 --- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-05-16 15:31:35 IST
+Addy Punters used booster: Foreign Stars
+Panda10st used booster: Foreign Stars
+Last Updated on 2026-05-16 19:31:18 IST
