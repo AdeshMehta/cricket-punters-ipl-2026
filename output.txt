@@ -11,13 +11,13 @@ Anshul Kamboj : 4 : ['Pasha', 'Addy Punters', 'WulfXI(C)', 'deadman2345(C)']
 
 Noor Ahmad : 2 : ['Mamba24(C)', 'ThanosKanos']
 
+Urvil Patel : 1 : ['Addy Punters']
+
 Mukul Choudhary : 1 : ['Mamba24']
 
 Ruturaj Gaikwad : 1 : ['Mamba24']
 
 Mohammad Shami : 1 : ['Mamba24(VC)']
-
-Urvil Patel : 1 : ['Addy Punters']
 
 Nicholas Pooran : 1 : ['WulfXI']
 
@@ -27,4 +27,4 @@ Rishabh Pant : 1 : ['ThanosKanos(VC)']
 
 --- Matchday Booster Usage Summary ---
 No boosters reported used for this matchday
-Last Updated on 2026-05-15 19:31:19 IST
+Last Updated on 2026-05-16 15:31:35 IST
