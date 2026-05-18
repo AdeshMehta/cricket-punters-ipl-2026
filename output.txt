@@ -1,35 +1,36 @@
-Match 62: DC vs RR: 2026-05-17
+Match 63: CSK vs SRH: 2026-05-18
 
 
-KL Rahul : 8 : ['Pasha(VC)', 'Addy Punters', 'Mamba24(C)', 'WulfXI(VC)', 'Panda10st(C)', 'deadman2345(C)', 'ThanosKanos', 'Black Pearl']
+Sanju Samson : 8 : ['Pasha(C)', 'Addy Punters(VC)', 'WulfXI(C)', 'Panda10st(C)', 'Finishers', 'deadman2345(VC)', 'ThanosKanos(VC)', 'Black Pearl(VC)']
 
-Vaibhav Sooryavanshi : 8 : ['Pasha(C)', 'Addy Punters(C)', 'Mamba24(VC)', 'WulfXI(C)', 'Panda10st(VC)', 'Finishers(C)', 'deadman2345(VC)', 'Black Pearl(VC)']
+Abhishek Sharma : 4 : ['Pasha(VC)', 'Addy Punters(C)', 'deadman2345(C)', 'Black Pearl']
 
-Yashasvi Jaiswal : 7 : ['Pasha', 'Addy Punters(VC)', 'Panda10st', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl']
+Travis Head : 3 : ['Pasha', 'Finishers(VC)', 'Black Pearl']
 
-Jofra Archer : 6 : ['Pasha', 'Mamba24', 'WulfXI', 'Finishers', 'deadman2345', 'Black Pearl']
+Anshul Kamboj : 3 : ['Pasha', 'Panda10st', 'Finishers']
 
-Dhruv Jurel : 5 : ['Pasha', 'Panda10st', 'deadman2345', 'ThanosKanos(VC)', 'Black Pearl']
+Urvil Patel : 3 : ['Addy Punters', 'Mamba24(VC)', 'Black Pearl']
 
-Axar Patel : 4 : ['Pasha', 'deadman2345', 'ThanosKanos(C)', 'Black Pearl']
+Nitish Kumar Reddy : 3 : ['Mamba24', 'deadman2345', 'ThanosKanos']
 
-Riyan Parag : 4 : ['Pasha', 'Finishers(VC)', 'deadman2345', 'Black Pearl']
+Heinrich Klaasen : 3 : ['WulfXI(VC)', 'Panda10st(VC)', 'ThanosKanos(C)']
 
-Tristan Stubbs : 3 : ['Finishers', 'deadman2345', 'Black Pearl']
+Noor Ahmad : 2 : ['Mamba24(C)', 'ThanosKanos']
 
-Donovan Ferreira : 2 : ['deadman2345', 'ThanosKanos']
+Ravichandran Smaran : 1 : ['Mamba24']
 
-Mitchell Starc : 2 : ['deadman2345', 'Black Pearl(C)']
+Mukesh Choudhary : 1 : ['WulfXI']
 
-Sahil Parakh : 1 : ['Mamba24']
+Ishan Kishan : 1 : ['Panda10st']
 
-Yash Punja : 1 : ['deadman2345']
+Kartik Sharma : 1 : ['Finishers(C)']
 
-Shubham Dubey : 1 : ['Black Pearl']
+Ruturaj Gaikwad : 1 : ['deadman2345']
 
-Adam Milne : 1 : ['Black Pearl']
+Eshan Malinga : 1 : ['deadman2345']
+
+Sakib Hussain : 1 : ['Black Pearl(C)']
 
 --- Matchday Booster Usage Summary ---
-deadman2345 used booster: Wild Card
-Black Pearl used booster: Free Hit
-Last Updated on 2026-05-18 15:31:23 IST
+No boosters reported used for this matchday
+Last Updated on 2026-05-18 19:31:22 IST
