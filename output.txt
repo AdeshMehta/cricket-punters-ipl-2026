@@ -1,40 +1,28 @@
-Match 64: RR vs LSG: 2026-05-19
+Match 65: KKR vs MI: 2026-05-20
 
 
-Vaibhav Sooryavanshi : 8 : ['Pasha', 'Addy Punters', 'Mamba24(C)', 'WulfXI(C)', 'Panda10st(VC)', 'Finishers(VC)', 'deadman2345(C)', 'Black Pearl(VC)']
+Rohit Sharma : 7 : ['Pasha', 'Addy Punters(C)', 'Mamba24(C)', 'Panda10st', 'WulfXI(C)', 'deadman2345', 'Finishers']
 
-Mitchell Marsh : 8 : ['Pasha', 'Addy Punters', 'Mamba24(VC)', 'Panda10st(C)', 'Finishers(C)', 'deadman2345', 'ThanosKanos(C)', 'Black Pearl(C)']
+Cameron Green : 6 : ['Addy Punters(VC)', 'Panda10st(C)', 'WulfXI', 'deadman2345(VC)', 'Finishers(C)', 'ThanosKanos(C)']
 
-Yashasvi Jaiswal : 7 : ['Pasha(VC)', 'Addy Punters(VC)', 'Panda10st', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl']
+Tilak Varma : 4 : ['Addy Punters', 'Finishers', 'ThanosKanos(VC)', 'Black Pearl']
 
-Jofra Archer : 5 : ['Pasha', 'Mamba24', 'WulfXI', 'Finishers', 'deadman2345']
+Varun Chakaravarthy : 4 : ['Mamba24', 'Panda10st(VC)', 'Finishers(VC)', 'Black Pearl(C)']
 
-Nicholas Pooran : 4 : ['Pasha', 'Addy Punters(C)', 'Panda10st', 'deadman2345']
+Angkrish Raghuvanshi : 4 : ['WulfXI(VC)', 'deadman2345', 'Finishers', 'ThanosKanos']
 
-Dhruv Jurel : 4 : ['Pasha', 'Panda10st', 'deadman2345', 'ThanosKanos(VC)']
+Ryan Rickelton : 3 : ['Pasha(C)', 'Panda10st', 'Black Pearl(VC)']
 
-Josh Inglis : 4 : ['Pasha(C)', 'WulfXI(VC)', 'deadman2345(VC)', 'ThanosKanos']
+Finn Allen : 2 : ['Pasha(VC)', 'Mamba24(VC)']
 
-Rishabh Pant : 4 : ['Pasha', 'Panda10st', 'Finishers', 'deadman2345']
+Kartik Tyagi : 2 : ['Pasha', 'ThanosKanos']
 
-Prince Yadav : 4 : ['Pasha', 'Panda10st', 'Finishers', 'ThanosKanos']
+Naman Dhir : 2 : ['Mamba24', 'ThanosKanos']
 
-Ayush Badoni : 2 : ['Pasha', 'deadman2345']
+Hardik Pandya : 1 : ['deadman2345(C)']
 
-Brijesh Sharma : 2 : ['Pasha', 'Panda10st']
-
-Akash Singh : 2 : ['Addy Punters', 'Black Pearl']
-
-Shahbaz Ahmed : 2 : ['Mamba24', 'Finishers']
-
-Mohsin Khan : 1 : ['deadman2345']
-
-Yash Punja : 1 : ['deadman2345']
-
-Donovan Ferreira : 1 : ['ThanosKanos']
+Raghu Sharma : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-Pasha used booster: Double Power
-Panda10st used booster: Double Power
-deadman2345 used booster: Double Power
-Last Updated on 2026-05-19 19:31:25 IST
+No boosters reported used for this matchday
+Last Updated on 2026-05-20 19:31:24 IST
