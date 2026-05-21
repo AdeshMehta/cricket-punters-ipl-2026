@@ -1,28 +1,28 @@
-Match 65: KKR vs MI: 2026-05-20
+Match 66: GT vs CSK: 2026-05-21
 
 
-Rohit Sharma : 7 : ['Pasha', 'Addy Punters(C)', 'Mamba24(C)', 'Panda10st', 'WulfXI(C)', 'deadman2345', 'Finishers']
+Sanju Samson : 9 : ['Pasha(C)', 'Addy Punters(VC)', 'Mamba24(C)', 'Panda10st', 'WulfXI', 'deadman2345(C)', 'Finishers', 'ThanosKanos(VC)', 'Black Pearl(VC)']
 
-Cameron Green : 6 : ['Addy Punters(VC)', 'Panda10st(C)', 'WulfXI', 'deadman2345(VC)', 'Finishers(C)', 'ThanosKanos(C)']
+Shubman Gill : 6 : ['Pasha(VC)', 'Addy Punters(C)', 'Panda10st', 'deadman2345', 'Finishers(VC)', 'Black Pearl(C)']
 
-Tilak Varma : 4 : ['Addy Punters', 'Finishers', 'ThanosKanos(VC)', 'Black Pearl']
+Sai Sudharsan : 5 : ['Pasha', 'Mamba24(VC)', 'Panda10st(C)', 'Finishers(C)', 'ThanosKanos(C)']
 
-Varun Chakaravarthy : 4 : ['Mamba24', 'Panda10st(VC)', 'Finishers(VC)', 'Black Pearl(C)']
+Jason Holder : 5 : ['Panda10st(VC)', 'WulfXI(VC)', 'deadman2345(VC)', 'Finishers', 'Black Pearl']
 
-Angkrish Raghuvanshi : 4 : ['WulfXI(VC)', 'deadman2345', 'Finishers', 'ThanosKanos']
+Jos Buttler : 4 : ['WulfXI(C)', 'Finishers', 'ThanosKanos', 'Black Pearl']
 
-Ryan Rickelton : 3 : ['Pasha(C)', 'Panda10st', 'Black Pearl(VC)']
+Kagiso Rabada : 3 : ['Addy Punters', 'Mamba24', 'Panda10st']
 
-Finn Allen : 2 : ['Pasha(VC)', 'Mamba24(VC)']
+Anshul Kamboj : 3 : ['deadman2345', 'Finishers', 'ThanosKanos']
 
-Kartik Tyagi : 2 : ['Pasha', 'ThanosKanos']
+Urvil Patel : 1 : ['Addy Punters']
 
-Naman Dhir : 2 : ['Mamba24', 'ThanosKanos']
+Noor Ahmad : 1 : ['Mamba24']
 
-Hardik Pandya : 1 : ['deadman2345(C)']
+Mukesh Choudhary : 1 : ['WulfXI']
 
-Raghu Sharma : 1 : ['Black Pearl']
+Kartik Sharma : 1 : ['Finishers']
 
 --- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-05-21 15:31:22 IST
+Black Pearl used booster: Triple Captain
+Last Updated on 2026-05-21 19:31:28 IST
