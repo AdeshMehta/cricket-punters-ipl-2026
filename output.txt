@@ -1,28 +1,41 @@
-Match 66: GT vs CSK: 2026-05-21
+Match 67: SRH vs RCB: 2026-05-22
 
 
-Sanju Samson : 9 : ['Pasha(C)', 'Addy Punters(VC)', 'Mamba24(C)', 'Panda10st', 'WulfXI', 'deadman2345(C)', 'Finishers', 'ThanosKanos(VC)', 'Black Pearl(VC)']
+Abhishek Sharma : 7 : ['Pasha(VC)', 'Addy Punters(C)', 'Mamba24(C)', 'Panda10st(VC)', 'WulfXI', 'deadman2345(C)', 'Finishers']
 
-Shubman Gill : 6 : ['Pasha(VC)', 'Addy Punters(C)', 'Panda10st', 'deadman2345', 'Finishers(VC)', 'Black Pearl(C)']
+Bhuvneshwar Kumar : 7 : ['Addy Punters', 'Mamba24', 'Panda10st', 'WulfXI', 'Finishers', 'ThanosKanos', 'Black Pearl']
 
-Sai Sudharsan : 5 : ['Pasha', 'Mamba24(VC)', 'Panda10st(C)', 'Finishers(C)', 'ThanosKanos(C)']
+Sakib Hussain : 7 : ['Mamba24', 'Panda10st', 'WulfXI', 'deadman2345', 'Finishers', 'ThanosKanos', 'Black Pearl']
 
-Jason Holder : 5 : ['Panda10st(VC)', 'WulfXI(VC)', 'deadman2345(VC)', 'Finishers', 'Black Pearl']
+Ishan Kishan : 6 : ['Pasha', 'Addy Punters', 'Mamba24', 'Panda10st', 'Finishers(VC)', 'Black Pearl(C)']
 
-Jos Buttler : 4 : ['WulfXI(C)', 'Finishers', 'ThanosKanos', 'Black Pearl']
+Virat Kohli : 6 : ['Pasha(C)', 'Mamba24(VC)', 'Panda10st', 'Finishers(C)', 'ThanosKanos(VC)', 'Black Pearl(VC)']
 
-Kagiso Rabada : 3 : ['Addy Punters', 'Mamba24', 'Panda10st']
+Devdutt Padikkal : 6 : ['Addy Punters(VC)', 'Panda10st', 'WulfXI(VC)', 'deadman2345', 'Finishers', 'ThanosKanos']
 
-Anshul Kamboj : 3 : ['deadman2345', 'Finishers', 'ThanosKanos']
+Heinrich Klaasen : 4 : ['Panda10st(C)', 'WulfXI(C)', 'Finishers', 'ThanosKanos(C)']
 
-Urvil Patel : 1 : ['Addy Punters']
+Rajat Patidar : 4 : ['Panda10st', 'WulfXI', 'deadman2345(VC)', 'Black Pearl']
 
-Noor Ahmad : 1 : ['Mamba24']
+Travis Head : 3 : ['Pasha', 'Panda10st', 'Finishers']
 
-Mukesh Choudhary : 1 : ['WulfXI']
+Rasikh Salam : 2 : ['WulfXI', 'Finishers']
 
-Kartik Sharma : 1 : ['Finishers']
+Ravichandran Smaran : 1 : ['Mamba24']
+
+Josh Hazlewood : 1 : ['Panda10st']
+
+Pat Cummins : 1 : ['Panda10st']
+
+Krunal Pandya : 1 : ['WulfXI']
+
+Romario Shepherd : 1 : ['Finishers']
+
+Praful Hinge : 1 : ['Finishers']
+
+Venkatesh Iyer : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-Black Pearl used booster: Triple Captain
-Last Updated on 2026-05-22 15:31:22 IST
+Panda10st used booster: Free Hit
+Finishers used booster: Double Power
+Last Updated on 2026-05-22 19:31:19 IST
