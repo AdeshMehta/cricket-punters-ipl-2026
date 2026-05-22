@@ -25,4 +25,4 @@ Kartik Sharma : 1 : ['Finishers']
 
 --- Matchday Booster Usage Summary ---
 Black Pearl used booster: Triple Captain
-Last Updated on 2026-05-21 19:31:28 IST
+Last Updated on 2026-05-22 15:31:22 IST
