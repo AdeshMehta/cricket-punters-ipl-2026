@@ -1,17 +1,17 @@
 Match 67: SRH vs RCB: 2026-05-22
 
 
-Abhishek Sharma : 7 : ['Pasha(VC)', 'Addy Punters(C)', 'Mamba24(C)', 'Panda10st(VC)', 'WulfXI', 'deadman2345(C)', 'Finishers']
+Abhishek Sharma : 7 : ['Pasha(VC)', 'Addy Punters(C)', 'Mamba24(C)', 'Panda10st(VC)', 'WulfXI', 'Finishers', 'deadman2345(C)']
 
 Bhuvneshwar Kumar : 7 : ['Addy Punters', 'Mamba24', 'Panda10st', 'WulfXI', 'Finishers', 'ThanosKanos', 'Black Pearl']
 
-Sakib Hussain : 7 : ['Mamba24', 'Panda10st', 'WulfXI', 'deadman2345', 'Finishers', 'ThanosKanos', 'Black Pearl']
+Sakib Hussain : 7 : ['Mamba24', 'Panda10st', 'WulfXI', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl']
 
 Ishan Kishan : 6 : ['Pasha', 'Addy Punters', 'Mamba24', 'Panda10st', 'Finishers(VC)', 'Black Pearl(C)']
 
 Virat Kohli : 6 : ['Pasha(C)', 'Mamba24(VC)', 'Panda10st', 'Finishers(C)', 'ThanosKanos(VC)', 'Black Pearl(VC)']
 
-Devdutt Padikkal : 6 : ['Addy Punters(VC)', 'Panda10st', 'WulfXI(VC)', 'deadman2345', 'Finishers', 'ThanosKanos']
+Devdutt Padikkal : 6 : ['Addy Punters(VC)', 'Panda10st', 'WulfXI(VC)', 'Finishers', 'deadman2345', 'ThanosKanos']
 
 Heinrich Klaasen : 4 : ['Panda10st(C)', 'WulfXI(C)', 'Finishers', 'ThanosKanos(C)']
 
@@ -38,4 +38,4 @@ Venkatesh Iyer : 1 : ['Black Pearl']
 --- Matchday Booster Usage Summary ---
 Panda10st used booster: Free Hit
 Finishers used booster: Double Power
-Last Updated on 2026-05-22 19:31:19 IST
+Last Updated on 2026-05-23 15:31:31 IST
