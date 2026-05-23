@@ -1,41 +1,38 @@
-Match 67: SRH vs RCB: 2026-05-22
+Match 68: LSG vs PBKS: 2026-05-23
 
 
-Abhishek Sharma : 7 : ['Pasha(VC)', 'Addy Punters(C)', 'Mamba24(C)', 'Panda10st(VC)', 'WulfXI', 'Finishers', 'deadman2345(C)']
+Josh Inglis : 7 : ['Pasha', 'Panda10st(VC)', 'WulfXI(C)', 'Finishers(C)', 'deadman2345', 'ThanosKanos(VC)', 'Black Pearl(C)']
 
-Bhuvneshwar Kumar : 7 : ['Addy Punters', 'Mamba24', 'Panda10st', 'WulfXI', 'Finishers', 'ThanosKanos', 'Black Pearl']
+Cooper Connolly : 6 : ['Pasha', 'Addy Punters', 'Mamba24', 'Panda10st(C)', 'Finishers', 'ThanosKanos(C)']
 
-Sakib Hussain : 7 : ['Mamba24', 'Panda10st', 'WulfXI', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl']
+Prabhsimran Singh : 5 : ['Pasha(VC)', 'Mamba24', 'WulfXI(VC)', 'Finishers(VC)', 'ThanosKanos']
 
-Ishan Kishan : 6 : ['Pasha', 'Addy Punters', 'Mamba24', 'Panda10st', 'Finishers(VC)', 'Black Pearl(C)']
+Shreyas Iyer : 5 : ['Pasha', 'Addy Punters(C)', 'Mamba24(C)', 'Finishers', 'ThanosKanos']
 
-Virat Kohli : 6 : ['Pasha(C)', 'Mamba24(VC)', 'Panda10st', 'Finishers(C)', 'ThanosKanos(VC)', 'Black Pearl(VC)']
+Priyansh Arya : 3 : ['Pasha', 'Finishers', 'ThanosKanos']
 
-Devdutt Padikkal : 6 : ['Addy Punters(VC)', 'Panda10st', 'WulfXI(VC)', 'Finishers', 'deadman2345', 'ThanosKanos']
+Prince Yadav : 3 : ['Pasha', 'Panda10st', 'ThanosKanos']
 
-Heinrich Klaasen : 4 : ['Panda10st(C)', 'WulfXI(C)', 'Finishers', 'ThanosKanos(C)']
+Azmatullah Omarzai : 2 : ['Mamba24(VC)', 'ThanosKanos']
 
-Rajat Patidar : 4 : ['Panda10st', 'WulfXI', 'deadman2345(VC)', 'Black Pearl']
+Mohsin Khan : 2 : ['deadman2345', 'ThanosKanos']
 
-Travis Head : 3 : ['Pasha', 'Panda10st', 'Finishers']
+Nicholas Pooran : 1 : ['Pasha(C)']
 
-Rasikh Salam : 2 : ['WulfXI', 'Finishers']
+Lockie Ferguson : 1 : ['Addy Punters']
 
-Ravichandran Smaran : 1 : ['Mamba24']
+Akash Singh : 1 : ['Addy Punters']
 
-Josh Hazlewood : 1 : ['Panda10st']
+Arshdeep Singh : 1 : ['Addy Punters(VC)']
 
-Pat Cummins : 1 : ['Panda10st']
+Harpreet Brar : 1 : ['WulfXI']
 
-Krunal Pandya : 1 : ['WulfXI']
+Rishabh Pant : 1 : ['deadman2345']
 
-Romario Shepherd : 1 : ['Finishers']
+Mitchell Marsh : 1 : ['deadman2345']
 
-Praful Hinge : 1 : ['Finishers']
-
-Venkatesh Iyer : 1 : ['Black Pearl']
+Marco Jansen : 1 : ['Black Pearl(VC)']
 
 --- Matchday Booster Usage Summary ---
-Panda10st used booster: Free Hit
-Finishers used booster: Double Power
-Last Updated on 2026-05-23 15:31:31 IST
+No boosters reported used for this matchday
+Last Updated on 2026-05-23 19:31:16 IST
