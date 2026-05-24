@@ -1,38 +1,38 @@
-Match 68: LSG vs PBKS: 2026-05-23
+Match 69: MI vs RR: 2026-05-24
 
 
-Josh Inglis : 7 : ['Pasha', 'Panda10st(VC)', 'WulfXI(C)', 'Finishers(C)', 'deadman2345', 'ThanosKanos(VC)', 'Black Pearl(C)']
+Vaibhav Sooryavanshi : 9 : ['Pasha(C)', 'Addy Punters(C)', 'Mamba24(C)', 'Panda10st(C)', 'WulfXI(C)', 'Finishers(C)', 'deadman2345', 'ThanosKanos', 'Black Pearl(C)']
 
-Cooper Connolly : 6 : ['Pasha', 'Addy Punters', 'Mamba24', 'Panda10st(C)', 'Finishers', 'ThanosKanos(C)']
+Yashasvi Jaiswal : 7 : ['Pasha', 'Addy Punters', 'Mamba24', 'Panda10st', 'Finishers', 'deadman2345(VC)', 'ThanosKanos(VC)']
 
-Prabhsimran Singh : 5 : ['Pasha(VC)', 'Mamba24', 'WulfXI(VC)', 'Finishers(VC)', 'ThanosKanos']
+Ryan Rickelton : 6 : ['Pasha(VC)', 'Mamba24(VC)', 'Panda10st(VC)', 'Finishers', 'deadman2345(C)', 'ThanosKanos(C)']
 
-Shreyas Iyer : 5 : ['Pasha', 'Addy Punters(C)', 'Mamba24(C)', 'Finishers', 'ThanosKanos']
+Tilak Varma : 5 : ['Addy Punters', 'Mamba24', 'Finishers', 'ThanosKanos', 'Black Pearl(VC)']
 
-Priyansh Arya : 3 : ['Pasha', 'Finishers', 'ThanosKanos']
+Jofra Archer : 5 : ['Mamba24', 'Panda10st', 'Finishers', 'deadman2345', 'ThanosKanos']
 
-Prince Yadav : 3 : ['Pasha', 'Panda10st', 'ThanosKanos']
+Dhruv Jurel : 4 : ['Pasha', 'WulfXI(VC)', 'Finishers', 'ThanosKanos']
 
-Azmatullah Omarzai : 2 : ['Mamba24(VC)', 'ThanosKanos']
+Rohit Sharma : 3 : ['WulfXI', 'Finishers', 'deadman2345']
 
-Mohsin Khan : 2 : ['deadman2345', 'ThanosKanos']
+Corbin Bosch : 3 : ['Finishers(VC)', 'deadman2345', 'ThanosKanos']
 
-Nicholas Pooran : 1 : ['Pasha(C)']
+Riyan Parag : 2 : ['Finishers', 'deadman2345']
 
-Lockie Ferguson : 1 : ['Addy Punters']
+Brijesh Sharma : 1 : ['Pasha']
 
-Akash Singh : 1 : ['Addy Punters']
+Suryakumar Yadav : 1 : ['Addy Punters(VC)']
 
-Arshdeep Singh : 1 : ['Addy Punters(VC)']
+Naman Dhir : 1 : ['Mamba24']
 
-Harpreet Brar : 1 : ['WulfXI']
+AM Ghazanfar : 1 : ['Finishers']
 
-Rishabh Pant : 1 : ['deadman2345']
+Ravi Bishnoi : 1 : ['Finishers']
 
-Mitchell Marsh : 1 : ['deadman2345']
-
-Marco Jansen : 1 : ['Black Pearl(VC)']
+Raghu Sharma : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-No boosters reported used for this matchday
-Last Updated on 2026-05-23 19:31:16 IST
+Pasha used booster: Triple Captain
+Finishers used booster: Wild Card
+ThanosKanos used booster: Triple Captain
+Last Updated on 2026-05-24 15:31:19 IST
