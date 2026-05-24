@@ -1,38 +1,37 @@
-Match 69: MI vs RR: 2026-05-24
+Match 70: KKR vs DC: 2026-05-24
 
 
-Vaibhav Sooryavanshi : 9 : ['Pasha(C)', 'Addy Punters(C)', 'Mamba24(C)', 'Panda10st(C)', 'WulfXI(C)', 'Finishers(C)', 'deadman2345', 'ThanosKanos', 'Black Pearl(C)']
+Cameron Green : 9 : ['Pasha(C)', 'Addy Punters(C)', 'Mamba24(VC)', 'Panda10st(C)', 'WulfXI(VC)', 'Finishers(C)', 'deadman2345(C)', 'ThanosKanos(C)', 'Black Pearl(C)']
 
-Yashasvi Jaiswal : 7 : ['Pasha', 'Addy Punters', 'Mamba24', 'Panda10st', 'Finishers', 'deadman2345(VC)', 'ThanosKanos(VC)']
+KL Rahul : 8 : ['Pasha(VC)', 'Addy Punters(VC)', 'Mamba24(C)', 'Panda10st(VC)', 'WulfXI(C)', 'Finishers', 'deadman2345', 'ThanosKanos(VC)']
 
-Ryan Rickelton : 6 : ['Pasha(VC)', 'Mamba24(VC)', 'Panda10st(VC)', 'Finishers', 'deadman2345(C)', 'ThanosKanos(C)']
+Axar Patel : 5 : ['Mamba24', 'Panda10st', 'deadman2345(VC)', 'ThanosKanos', 'Black Pearl(VC)']
 
-Tilak Varma : 5 : ['Addy Punters', 'Mamba24', 'Finishers', 'ThanosKanos', 'Black Pearl(VC)']
+Finn Allen : 4 : ['Pasha', 'Mamba24', 'deadman2345', 'ThanosKanos']
 
-Jofra Archer : 5 : ['Mamba24', 'Panda10st', 'Finishers', 'deadman2345', 'ThanosKanos']
+Kartik Tyagi : 3 : ['Pasha', 'Finishers', 'ThanosKanos']
 
-Dhruv Jurel : 4 : ['Pasha', 'WulfXI(VC)', 'Finishers', 'ThanosKanos']
+Varun Chakaravarthy : 3 : ['Panda10st', 'ThanosKanos', 'Black Pearl']
 
-Rohit Sharma : 3 : ['WulfXI', 'Finishers', 'deadman2345']
+Ajinkya Rahane : 2 : ['Addy Punters', 'Finishers(VC)']
 
-Corbin Bosch : 3 : ['Finishers(VC)', 'deadman2345', 'ThanosKanos']
+Mitchell Starc : 2 : ['Finishers', 'deadman2345']
 
-Riyan Parag : 2 : ['Finishers', 'deadman2345']
+Lungi Ngidi : 2 : ['ThanosKanos', 'Black Pearl']
 
-Brijesh Sharma : 1 : ['Pasha']
+Sunil Narine : 1 : ['deadman2345']
 
-Suryakumar Yadav : 1 : ['Addy Punters(VC)']
+Rinku Singh : 1 : ['ThanosKanos']
 
-Naman Dhir : 1 : ['Mamba24']
+Manish Pandey : 1 : ['ThanosKanos']
 
-AM Ghazanfar : 1 : ['Finishers']
+Tristan Stubbs : 1 : ['ThanosKanos']
 
-Ravi Bishnoi : 1 : ['Finishers']
-
-Raghu Sharma : 1 : ['Black Pearl']
+Ashutosh Sharma : 1 : ['ThanosKanos']
 
 --- Matchday Booster Usage Summary ---
-Pasha used booster: Triple Captain
-Finishers used booster: Wild Card
-ThanosKanos used booster: Triple Captain
-Last Updated on 2026-05-24 15:31:19 IST
+Addy Punters used booster: Triple Captain
+Panda10st used booster: Triple Captain
+deadman2345 used booster: Triple Captain
+ThanosKanos used booster: Wild Card
+Last Updated on 2026-05-24 19:31:16 IST
