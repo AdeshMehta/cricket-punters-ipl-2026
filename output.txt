@@ -1,37 +1,34 @@
-Match 70: KKR vs DC: 2026-05-24
+Match 1: RCB vs GT: 2026-05-26
 
 
-Cameron Green : 9 : ['Pasha(C)', 'Addy Punters(C)', 'Mamba24(VC)', 'Panda10st(C)', 'WulfXI(VC)', 'Finishers(C)', 'deadman2345(C)', 'ThanosKanos(C)', 'Black Pearl(C)']
+Phil Salt : 5 : ['Pasha', 'Addy Punters', 'Mamba24(VC)', 'Panda10st(VC)', 'deadman2345(C)']
 
-KL Rahul : 8 : ['Pasha(VC)', 'Addy Punters(VC)', 'Mamba24(C)', 'Panda10st(VC)', 'WulfXI(C)', 'Finishers', 'deadman2345', 'ThanosKanos(VC)']
+Suyash Sharma : 5 : ['Pasha', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl']
 
-Axar Patel : 5 : ['Mamba24', 'Panda10st', 'deadman2345(VC)', 'ThanosKanos', 'Black Pearl(VC)']
+Rajat Patidar : 5 : ['Addy Punters', 'WulfXI', 'Finishers', 'deadman2345', 'ThanosKanos(VC)']
 
-Finn Allen : 4 : ['Pasha', 'Mamba24', 'deadman2345', 'ThanosKanos']
+Romario Shepherd : 3 : ['Panda10st', 'Finishers', 'deadman2345']
 
-Kartik Tyagi : 3 : ['Pasha', 'Finishers', 'ThanosKanos']
+Abhinandan Singh : 2 : ['Pasha', 'Addy Punters']
 
-Varun Chakaravarthy : 3 : ['Panda10st', 'ThanosKanos', 'Black Pearl']
+Bhuvneshwar Kumar : 2 : ['Addy Punters', 'WulfXI(C)']
 
-Ajinkya Rahane : 2 : ['Addy Punters', 'Finishers(VC)']
+Jacob Bethell : 2 : ['Mamba24', 'Black Pearl']
 
-Mitchell Starc : 2 : ['Finishers', 'deadman2345']
+Krunal Pandya : 2 : ['WulfXI', 'Black Pearl(VC)']
 
-Lungi Ngidi : 2 : ['ThanosKanos', 'Black Pearl']
+Virat Kohli : 1 : ['Pasha(VC)']
 
-Sunil Narine : 1 : ['deadman2345']
+Tim David : 1 : ['Addy Punters(VC)']
 
-Rinku Singh : 1 : ['ThanosKanos']
+Rashid Khan : 1 : ['Addy Punters']
 
-Manish Pandey : 1 : ['ThanosKanos']
+Jacob Duffy : 1 : ['Panda10st']
 
-Tristan Stubbs : 1 : ['ThanosKanos']
+Devdutt Padikkal : 1 : ['WulfXI']
 
-Ashutosh Sharma : 1 : ['ThanosKanos']
+Sai Sudharsan : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-Addy Punters used booster: Triple Captain
-Panda10st used booster: Triple Captain
-deadman2345 used booster: Triple Captain
-ThanosKanos used booster: Wild Card
-Last Updated on 2026-05-26 15:31:23 IST
+Mamba24 used booster: Foreign Stars
+Last Updated on 2026-05-26 19:31:23 IST
