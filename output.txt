@@ -7,7 +7,7 @@ Suyash Sharma : 5 : ['Pasha', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black 
 
 Rajat Patidar : 5 : ['Addy Punters', 'WulfXI', 'Finishers', 'deadman2345', 'ThanosKanos(VC)']
 
-Romario Shepherd : 3 : ['Panda10st', 'Finishers', 'deadman2345']
+Romario Shepherd : 3 : ['Finishers', 'Panda10st', 'deadman2345']
 
 Abhinandan Singh : 2 : ['Pasha', 'Addy Punters']
 
@@ -23,12 +23,12 @@ Tim David : 1 : ['Addy Punters(VC)']
 
 Rashid Khan : 1 : ['Addy Punters']
 
-Jacob Duffy : 1 : ['Panda10st']
-
 Devdutt Padikkal : 1 : ['WulfXI']
+
+Jacob Duffy : 1 : ['Panda10st']
 
 Sai Sudharsan : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
 Mamba24 used booster: Foreign Stars
-Last Updated on 2026-05-26 19:31:23 IST
+Last Updated on 2026-05-27 15:31:22 IST
