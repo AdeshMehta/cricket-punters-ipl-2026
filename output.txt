@@ -1,34 +1,49 @@
-Match 1: RCB vs GT: 2026-05-26
+Match 72: SRH vs RR: 2026-05-27
 
 
-Phil Salt : 5 : ['Pasha', 'Addy Punters', 'Mamba24(VC)', 'Panda10st(VC)', 'deadman2345(C)']
+Ishan Kishan : 8 : ['Pasha', 'Addy Punters', 'WulfXI', 'Panda10st(C)', 'Mamba24', 'Finishers', 'deadman2345', 'ThanosKanos']
 
-Suyash Sharma : 5 : ['Pasha', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl']
+Vaibhav Sooryavanshi : 8 : ['Pasha(C)', 'Addy Punters(VC)', 'WulfXI(VC)', 'Panda10st', 'Mamba24(C)', 'Finishers(VC)', 'deadman2345(VC)', 'ThanosKanos']
 
-Rajat Patidar : 5 : ['Addy Punters', 'WulfXI', 'Finishers', 'deadman2345', 'ThanosKanos(VC)']
+Yashasvi Jaiswal : 8 : ['Pasha', 'Addy Punters', 'WulfXI', 'Panda10st', 'Mamba24', 'Finishers', 'deadman2345', 'ThanosKanos']
 
-Romario Shepherd : 3 : ['Finishers', 'Panda10st', 'deadman2345']
+Heinrich Klaasen : 8 : ['Addy Punters', 'WulfXI(C)', 'Panda10st', 'Mamba24(VC)', 'Finishers', 'deadman2345', 'ThanosKanos(C)', 'Black Pearl(C)']
 
-Abhinandan Singh : 2 : ['Pasha', 'Addy Punters']
+Jofra Archer : 8 : ['Addy Punters', 'WulfXI', 'Panda10st', 'Mamba24', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl(VC)']
 
-Bhuvneshwar Kumar : 2 : ['Addy Punters', 'WulfXI(C)']
+Abhishek Sharma : 7 : ['Pasha(VC)', 'Addy Punters', 'WulfXI', 'Panda10st', 'Finishers(C)', 'deadman2345(C)', 'ThanosKanos']
 
-Jacob Bethell : 2 : ['Mamba24', 'Black Pearl']
+Dhruv Jurel : 6 : ['Pasha', 'WulfXI', 'Panda10st(VC)', 'Finishers', 'deadman2345', 'ThanosKanos(VC)']
 
-Krunal Pandya : 2 : ['WulfXI', 'Black Pearl(VC)']
+Travis Head : 6 : ['Pasha', 'Addy Punters(C)', 'WulfXI', 'Finishers', 'deadman2345', 'ThanosKanos']
 
-Virat Kohli : 1 : ['Pasha(VC)']
+Sakib Hussain : 6 : ['Pasha', 'WulfXI', 'Panda10st', 'Mamba24', 'Finishers', 'deadman2345']
 
-Tim David : 1 : ['Addy Punters(VC)']
+Nitish Kumar Reddy : 4 : ['Addy Punters', 'Mamba24', 'Finishers', 'ThanosKanos']
 
-Rashid Khan : 1 : ['Addy Punters']
+Praful Hinge : 3 : ['Pasha', 'Addy Punters', 'WulfXI']
 
-Devdutt Padikkal : 1 : ['WulfXI']
+Yash Punja : 2 : ['Pasha', 'WulfXI']
 
-Jacob Duffy : 1 : ['Panda10st']
+Brijesh Sharma : 2 : ['Addy Punters', 'ThanosKanos']
 
-Sai Sudharsan : 1 : ['Black Pearl']
+Pat Cummins : 2 : ['deadman2345', 'ThanosKanos']
+
+Eshan Malinga : 1 : ['Finishers']
+
+Ravindra Jadeja : 1 : ['deadman2345']
+
+Donovan Ferreira : 1 : ['Black Pearl']
+
+Nandre Burger : 1 : ['Black Pearl']
 
 --- Matchday Booster Usage Summary ---
-Mamba24 used booster: Foreign Stars
-Last Updated on 2026-05-27 15:31:22 IST
+Pasha used booster: Indian Warriors
+Addy Punters used booster: Wild Card
+WulfXI used booster: Wild Card
+Panda10st used booster: Double Power
+Finishers used booster: Free Hit
+deadman2345 used booster: Free Hit
+ThanosKanos used booster: Free Hit
+Black Pearl used booster: Foreign Stars
+Last Updated on 2026-05-28 20:24:50 IST
