@@ -11,6 +11,13 @@ booster_name = {
                     10: "Indian Warriors", 11: "Free Hit",                          # Working Fine
                     1: "Wild Card", 2: "Game Changer",
 }
+playoffs = {
+    "Qualifier 1": 71,
+    "Eliminator": 72,
+    "Qualifier 2": 73,
+    "Final": 74
+}
+
 API_KEY = os.getenv("CRICKET_API_KEY")
 if not API_KEY:
     raise Exception("API key not found")
@@ -33,7 +40,10 @@ with requests.session() as s:
         # if match['event_state'] != 'R':
             teams.append(match['participants'][0]['short_name'])
             teams.append(match['participants'][1]['short_name'])
-            match_number = int(match['event_name'].split(" ")[-1])
+            if match['event_name'] in playoffs:
+                match_number = playoffs.get(match['event_name'])
+            else:
+                match_number = int(match['event_name'].split(" ")[-1])
             # print(match['event_state'], match['participants'][0]['short_name'], match['participants'][1]['short_name'])
             print(f"Match {match_number}: {teams[0]} vs {teams[1]}: {match['start_date'].split('T')[0]}\n")
             # pprint(match)
