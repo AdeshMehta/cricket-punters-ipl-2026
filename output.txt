@@ -1,23 +1,23 @@
 Match 73: GT vs RR: 2026-05-29
 
 
-Dhruv Jurel : 9 : ['Pasha', 'Addy Punters', 'WulfXI', 'Panda10st(C)', 'Mamba24', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl']
+Dhruv Jurel : 9 : ['Pasha', 'Addy Punters', 'Mamba24', 'WulfXI', 'Panda10st(C)', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl']
 
-Vaibhav Sooryavanshi : 9 : ['Pasha(C)', 'Addy Punters', 'WulfXI(VC)', 'Panda10st(VC)', 'Mamba24(VC)', 'Finishers(VC)', 'deadman2345', 'ThanosKanos', 'Black Pearl(C)']
+Vaibhav Sooryavanshi : 9 : ['Pasha(C)', 'Addy Punters', 'Mamba24(VC)', 'WulfXI(VC)', 'Panda10st(VC)', 'Finishers(VC)', 'deadman2345', 'ThanosKanos', 'Black Pearl(C)']
 
-Yashasvi Jaiswal : 9 : ['Pasha', 'Addy Punters(VC)', 'WulfXI', 'Panda10st', 'Mamba24', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl']
+Yashasvi Jaiswal : 9 : ['Pasha', 'Addy Punters(VC)', 'Mamba24', 'WulfXI', 'Panda10st', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl']
 
-Jofra Archer : 9 : ['Pasha', 'Addy Punters', 'WulfXI', 'Panda10st', 'Mamba24', 'Finishers', 'deadman2345', 'ThanosKanos(VC)', 'Black Pearl']
+Jofra Archer : 9 : ['Pasha', 'Addy Punters', 'Mamba24', 'WulfXI', 'Panda10st', 'Finishers', 'deadman2345', 'ThanosKanos(VC)', 'Black Pearl']
 
-Shubman Gill : 8 : ['Addy Punters', 'WulfXI', 'Panda10st', 'Mamba24(C)', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl']
+Shubman Gill : 8 : ['Addy Punters', 'Mamba24(C)', 'WulfXI', 'Panda10st', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl']
 
-Sai Sudharsan : 8 : ['Addy Punters(C)', 'WulfXI(C)', 'Panda10st', 'Mamba24', 'Finishers(C)', 'deadman2345', 'ThanosKanos', 'Black Pearl(VC)']
+Sai Sudharsan : 8 : ['Addy Punters(C)', 'Mamba24', 'WulfXI(C)', 'Panda10st', 'Finishers(C)', 'deadman2345', 'ThanosKanos', 'Black Pearl(VC)']
 
 Jos Buttler : 7 : ['Pasha(VC)', 'Addy Punters', 'WulfXI', 'Panda10st', 'Finishers', 'deadman2345(C)', 'ThanosKanos']
 
-Jason Holder : 7 : ['Pasha', 'Addy Punters', 'WulfXI', 'Panda10st', 'Mamba24', 'deadman2345(VC)', 'ThanosKanos(C)']
+Jason Holder : 7 : ['Pasha', 'Addy Punters', 'Mamba24', 'WulfXI', 'Panda10st', 'deadman2345(VC)', 'ThanosKanos(C)']
 
-Kagiso Rabada : 6 : ['Addy Punters', 'Panda10st', 'Mamba24', 'Finishers', 'deadman2345', 'ThanosKanos']
+Kagiso Rabada : 6 : ['Addy Punters', 'Mamba24', 'Panda10st', 'Finishers', 'deadman2345', 'ThanosKanos']
 
 Riyan Parag : 5 : ['Addy Punters', 'Mamba24', 'deadman2345', 'ThanosKanos', 'Black Pearl']
 
@@ -38,4 +38,4 @@ WulfXI used booster: Triple Captain
 deadman2345 used booster: Foreign Stars
 ThanosKanos used booster: Foreign Stars
 Black Pearl used booster: Indian Warriors
-Last Updated on 2026-05-29 19:31:20 IST
+Last Updated on 2026-05-30 15:31:24 IST
