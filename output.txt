@@ -1,23 +1,23 @@
 Match 74: RCB vs GT: 2026-05-31
 
 
-Shubman Gill : 9 : ['Pasha(VC)', 'Addy Punters(C)', 'Mamba24', 'WulfXI', 'Panda10st(VC)', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl']
+Shubman Gill : 9 : ['Pasha(VC)', 'Addy Punters(C)', 'WulfXI', 'Mamba24', 'Panda10st(VC)', 'Finishers', 'deadman2345', 'ThanosKanos', 'Black Pearl']
 
-Virat Kohli : 8 : ['Pasha(C)', 'Addy Punters(VC)', 'Mamba24', 'WulfXI(C)', 'Panda10st(C)', 'Finishers', 'deadman2345(C)', 'ThanosKanos(VC)']
+Virat Kohli : 8 : ['Pasha(C)', 'Addy Punters(VC)', 'WulfXI(C)', 'Mamba24', 'Panda10st(C)', 'Finishers', 'deadman2345(C)', 'ThanosKanos(VC)']
 
-Jason Holder : 8 : ['Pasha', 'Addy Punters', 'Mamba24', 'WulfXI', 'Panda10st', 'Finishers(VC)', 'deadman2345', 'ThanosKanos']
+Jason Holder : 8 : ['Pasha', 'Addy Punters', 'WulfXI', 'Mamba24', 'Panda10st', 'Finishers(VC)', 'deadman2345', 'ThanosKanos']
 
-Sai Sudharsan : 8 : ['Addy Punters', 'Mamba24(VC)', 'WulfXI', 'Panda10st', 'Finishers', 'deadman2345(VC)', 'ThanosKanos(C)', 'Black Pearl(VC)']
+Sai Sudharsan : 8 : ['Addy Punters', 'WulfXI', 'Mamba24(VC)', 'Panda10st', 'Finishers', 'deadman2345(VC)', 'ThanosKanos(C)', 'Black Pearl(VC)']
 
 Jos Buttler : 7 : ['Pasha', 'Addy Punters', 'WulfXI(VC)', 'Panda10st', 'Finishers(C)', 'deadman2345', 'ThanosKanos']
 
-Krunal Pandya : 7 : ['Addy Punters', 'Mamba24', 'WulfXI', 'Panda10st', 'Finishers', 'deadman2345', 'ThanosKanos']
+Krunal Pandya : 7 : ['Addy Punters', 'WulfXI', 'Mamba24', 'Panda10st', 'Finishers', 'deadman2345', 'ThanosKanos']
 
 Kagiso Rabada : 6 : ['Addy Punters', 'Mamba24', 'Panda10st', 'Finishers', 'deadman2345', 'ThanosKanos']
 
-Devdutt Padikkal : 5 : ['Addy Punters', 'Mamba24(C)', 'WulfXI', 'Panda10st', 'ThanosKanos']
+Devdutt Padikkal : 5 : ['Addy Punters', 'WulfXI', 'Mamba24(C)', 'Panda10st', 'ThanosKanos']
 
-Rasikh Salam : 5 : ['Mamba24', 'WulfXI', 'Panda10st', 'deadman2345', 'ThanosKanos']
+Rasikh Salam : 5 : ['WulfXI', 'Mamba24', 'Panda10st', 'deadman2345', 'ThanosKanos']
 
 Rajat Patidar : 3 : ['Addy Punters', 'Finishers', 'ThanosKanos']
 
@@ -25,7 +25,7 @@ Washington Sundar : 3 : ['Finishers', 'deadman2345', 'Black Pearl']
 
 Bhuvneshwar Kumar : 3 : ['Finishers', 'deadman2345', 'ThanosKanos']
 
-Rashid Khan : 2 : ['Mamba24', 'WulfXI']
+Rashid Khan : 2 : ['WulfXI', 'Mamba24']
 
 Josh Hazlewood : 1 : ['Pasha']
 
@@ -41,4 +41,4 @@ Prasidh Krishna : 1 : ['Black Pearl']
 Pasha used booster: Foreign Stars
 Finishers used booster: Foreign Stars
 ThanosKanos used booster: Double Power
-Last Updated on 2026-05-31 19:31:17 IST
+Last Updated on 2026-06-01 15:31:27 IST
